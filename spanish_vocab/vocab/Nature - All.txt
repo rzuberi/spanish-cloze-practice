@@ -1,0 +1,207 @@
+earthquake,el terremoto,0
+creeper,la enredadera,0
+pine cone,la piña,0
+bark,la corteza,0
+vine,la vid,0
+dandelion,el diente de león,0
+trunk,el tronco,0
+pollen,el polen,0
+wheat,el trigo,0
+marigold,la maravilla,0
+petunia,la petunia,0
+primrose,la primavera,0
+calendula,la caléndula,0
+Madonna lily,la azucena,0
+lavender,la lavanda,0
+iris,el lirio,0
+hyacinth,el jacinto,0
+azalea,el/la azalea,0
+honeysuckle,la madreselva,0
+begonia,la begonia,0
+geranium,el geranio,0
+daffodil,el narciso,0
+violet,la violeta,0
+saffron,el azafrán,0
+chrysanthemum,el crisantemo,0
+garlic,el ajo,0
+cactus,el cactus,0
+corn,el maíz,0
+bush,la mata,0
+moss,el musgo,0
+shrub,la mata,0
+ivy,la hiedra,0
+bamboo,el bambú,0
+reed,el carrizo,0
+cattail,la anea,0
+fern,el helecho,0
+mushroom,la seta,0
+herb,la hierba,0
+thistle,el cardo,0
+fertilizer,el abono,0
+nutrient,el nutriente,0
+pollination,la polinización,0
+yucca,la yuca,0
+husk,la cascarilla,0
+pod,la vaina,0
+sap,la savia,0
+orchard,el huerto,0
+thorn,la espina,0
+sod,la champa,0
+prickly pear,el nopal,0
+petal,el pétalo,0
+bunch,el racimo,0
+growth,el crecimiento,0
+out,en flor,0
+crop,la cosecha,0
+to prune,podar,0
+to sow,sembrar,0
+pine,el pino,0
+palm tree,la palmera,0
+date palm,la támara,0
+daisy,la margarita,0
+snapdragon,la becerra,0
+carnation,el clavel,0
+jasmine,el jazmín,0
+magnolia,la magnolia,0
+gardenia,la gardenia,0
+pansy,la trinitaria,0
+poppy,la amapola,0
+forget-me-not,el nomeolvides,0
+branch,la rama,0
+sunflower,el girasol,0
+stem,el tallo,0
+plant,la planta,0
+camellia,la camelia,0
+orchid,la orquídea,0
+hibiscus,el hibisco,0
+hydrangea,la hortensia,0
+lilac,la lila,0
+dahlia,la dalia,0
+tulip,el tulipán,0
+weed,la mala hierba,0
+root,la raíz,0
+bud,el capullo,0
+to blossom,florecer,0
+seed,la semilla,0
+acorn,la bellota,0
+native,oriundo,0
+indigenous,autóctono,0
+storm,la tormenta,0
+drought,la sequía,0
+rapids,los rápidos,0
+current,la corriente,0
+deep,profundo,0
+shallow,poco profundo,0
+face,la faz,0
+ebony,el ébano,0
+fresh,dulce,0
+low tide,la bajamar,0
+high tide,la pleamar,0
+tsunami,el tsunami,0
+maple,el arce,0
+oak,el roble,0
+beech,el haya,0
+crater,el cráter,0
+reservoir,el embalse,0
+swamp,el pantano,0
+bog,el cenagal,0
+fountain,la fuente,0
+spring,el manantial,0
+fjord,el fiordo,0
+inlet,el abra,0
+cove,la cala,0
+bank,la ribera,0
+stick,el palo,0
+desert,el desierto,0
+strait,el estrecho,0
+channel,el canal,0
+dirt,la tierra,0
+sand,la arena,0
+soil,el suelo,0
+mineral,el mineral,0
+panorama,el panorama,0
+seashore,la orilla del mar,0
+pass,el paso,0
+organic,orgánico,0
+reef,el arrecife,0
+cay,el cayo,0
+plain,la llanura,0
+shore,la orilla,0
+choppy,encrespado,0
+stream,el arroyo,0
+fauna,la fauna,0
+flora,la flora,0
+rough,agreste,0
+air,el aire,0
+water,el agua,0
+cape,el cabo,0
+harbor,el puerto,0
+port,el puerto,0
+savanna,la sabana,0
+leaf,la hoja,0
+brook,el riachuelo,0
+evolution,la evolución,0
+stone,la piedra,0
+rock,la piedra,0
+avalanche,la avalancha,0
+landslide,el alud,0
+natural disaster,el desastre natural,0
+agriculture,la agricultura,0
+hay,el heno,0
+straw,la paja,0
+carbon footprint,huella de carbono,0
+star,la estrella,0
+lava,la lava,0
+land,la tierra,0
+sprout,el retoño,0
+pollution,la contaminación,0
+rainbow,el arco iris,0
+wave,la ola,0
+global warming,el calentamiento global,0
+meadow,el prado,0
+field,el campo,0
+grass,la hierba,0
+moon,la luna,0
+countryside,el campo,0
+landscape,el paisaje,0
+climate change,el cambio climático,0
+wilted,lacio,0
+rose,la rosa,0
+lotus,el loto,0
+peak,el pico,0
+blizzard,la ventisca,0
+waterspout,la tromba,0
+hurricane,el huracán,0
+tornado,el tornado,0
+flood,la inundación,0
+snow,la nieve,0
+hail,el granizo,0
+wind,el viento,0
+rain,la lluvia,0
+ice,el hielo,0
+sun,el sol,0
+planet,el planeta,0
+sky,el cielo,0
+forest fire,el incendio forestal,0
+fire,el fuego,0
+tree,el árbol,0
+rainforest,bosque lluvioso,0
+jungle,la selva,0
+woods,el bosque,0
+forest,el bosque,0
+sunrise,la salida del sol,0
+sunset,el ocaso,0
+peninsula,la península,0
+island,la isla,0
+valley,el valle,0
+mountain,la montaña,0
+hill,el cerro,0
+delta,el delta,0
+sea,el/la mar,0
+ocean,el océano,0
+pond,el estanque,0
+lake,el lago,0
+river,el río,0
+plateau,la meseta,0
+flower,la flor,0
+nature,la naturaleza,0

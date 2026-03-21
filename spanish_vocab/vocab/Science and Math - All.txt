@@ -1,0 +1,190 @@
+molecule,la molécula,0
+neutron,el neutrón,0
+nucleus,el núcleo,0
+atom,el átomo,0
+sulfur,el azufre,0
+phosphorus,el fósforo,0
+oxygen,el oxígeno,0
+nitrogen,el nitrógeno,0
+hydrogen,el hidrógeno,0
+carbon,el carbono,0
+element,el elemento,0
+bird,el pájaro,0
+amphibian,el anfibio,0
+fish,el pez,0
+invertebrate,invertebrado,0
+virus,el virus,0
+species,la especie,0
+reptile,el reptil,0
+to reproduce,reproducirse,0
+organism,el organismo,0
+mammal,el mamífero,0
+insect,el insecto,0
+to inherit,heredar,0
+hereditary,hereditario,0
+genetic,genético,0
+gene,el gene,0
+extinct,extinto,0
+to evolve,evolucionar,0
+environment,el medioambiente,0
+ecosystem,el ecosistema,0
+DNA,ADN,0
+to classify,clasificar,0
+clone,el clon,0
+herbivore,el herbívoro,0
+omnivore,el omnívoro,0
+carnivore,el/la carnívoro,0
+bone,el hueso,0
+body,el cuerpo,0
+biologist,el biólogo,0
+dead,muerto,0
+alive,vivo,0
+animal,el animal,0
+astronaut,el/la astronauta,0
+telescope,el telescopio,0
+galaxy,la galaxia,0
+eclipse,el eclipse,0
+Pluto,Plutón,0
+Neptune,Neptuno,0
+Uranus,el Urano,0
+Saturn,Saturno,0
+Jupiter,Júpiter,0
+Mars,Marte,0
+Earth,la Tierra,0
+Venus,Venus,0
+Mercury,Mercurio,0
+constellation,la constelación,0
+orbit,la órbita,0
+quantity,la cuantía,0
+length,el largo,0
+height,la altura,0
+numeral,numeral,0
+greater than,más grande que,0
+cylinder,el cilindro,0
+more than,más que,0
+less than,menos que,0
+fewer,menos,0
+equal,igual,0
+count,el conteo,0
+algebra,el álgebra,0
+directrix,la directriz,0
+asteroid,el asteroide,0
+comet,el cometa,0
+dinosaur,el dinosaurio,0
+engineering,la ingeniería,0
+static,estático,0
+compass,el compás,0
+pH,pH,0
+base,la base,0
+acid,el ácido,0
+extinction,la desaparición,0
+geometry,la geometría,0
+obtuse,obtuso,0
+right,recto,0
+acute,agudo,0
+solution,la solución,0
+decimal,decimal,0
+fraction,la fracción,0
+to divide,dividir,0
+mathematics,las matemáticas,0
+maths,la mate,0
+to multiply,multiplicar,0
+to subtract,restar,0
+to subtract,sustraer,0
+to add,sumar,0
+math,las matemáticas,0
+statistics,la estadística,0
+proof,la prueba,0
+aquatic,acuático,0
+solution,la solución,0
+hertz,el hertz,0
+crater,el cráter,0
+proton,el protón,0
+electron,el electrón,0
+meson,el mesón,0
+culture,el cultivo,0
+velocity,la velocidad,0
+research,la investigación,0
+computer science,la informática,0
+computer science,la computación,0
+to divide,dividirse,0
+hypothesis,la hipótesis,0
+condensation,la condensación,0
+organ,el órgano,0
+organs of the human body,órganos del cuerpo humano,0
+muscles,la musculatura,0
+skeleton,el esqueleto,0
+bond,el enlace,0
+particle,la partícula,0
+experiment,el experimento,0
+to wane,menguar,0
+to wax,crecer,0
+venom,el veneno,0
+halo,el halo,0
+space,el espacio,0
+process,el proceso,0
+compound,el compuesto,0
+shuttle,el transbordador,0
+rocket,el cohete,0
+conductive,conductor,0
+conductor,el conductor,0
+electricity,la electricidad,0
+matter,la materia,0
+focus,el foco,0
+ego,el ego,0
+id,el id,0
+psychology,la psicología,0
+mass,la masa,0
+symbol,el símbolo,0
+to excavate,excavar,0
+dig,la investigación arqueológica,0
+reaction,la reacción,0
+atmosphere,la atmósfera,0
+parasite,el parásito,0
+host,el huésped,0
+Moon,la Luna,0
+taste,el gusto,0
+smell,el olfato,0
+hearing,la audición,0
+sight,la visión,0
+touch,el tacto,0
+gas,el gas,0
+liquid,líquido,0
+solid,sólido,0
+state,el estado,0
+satellite,el satélite,0
+star,la estrella,0
+sense,el sentido,0
+paleontologist,el paleontólogo,0
+fossil,el fósil,0
+fossilization,la fosilización,0
+medicine,la medicina,0
+genetics,la genética,0
+ecology,la ecología,0
+astronomy,la astronomía,0
+meteorology,la meteorología,0
+physics,la física,0
+geology,la geología,0
+biology,la biología,0
+chemistry,la química,0
+energy,la energía,0
+solar energy,la energía solar,0
+thermal,térmico,0
+planet,el planeta,0
+world,el mundo,0
+gem,la joya,0
+gravity,la gravedad,0
+iron,el hierro,0
+science,la ciencia,0
+ocean,el océano,0
+rock,la roca,0
+beach,la playa,0
+desert,el desierto,0
+land,la tierra,0
+sea,el/la mar,0
+lake,el lago,0
+river,el río,0
+mountain,la montaña,0
+coast,el litoral,0
+island,la isla,0
+arid,árido,0

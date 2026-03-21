@@ -1,0 +1,93 @@
+darling,el encanto,0
+one-night stand,el ligue,0
+fling,el ligue,0
+darling,la vida,0
+sweetie,el amorcito,0
+darling,mijo,0
+darling,la muñeca,0
+dearest love of mine,amorcito corazón,0
+honey,el cariño,0
+sweetie,el lindo,0
+dear,el cariño,0
+beloved,querido,0
+darling,el bonito,0
+partner,el compañero,0
+to get divorced,divorciarse,0
+crush,el crush,0
+faithful,fiel,0
+to win the love of,enamorar,0
+better half,media naranja,0
+she has a boyfriend,tiene novio,0
+he has a boyfriend,tiene novio,0
+to win the heart of,conquistar,0
+to snuggle,acurrucarse,0
+to adore,adorar,0
+spouse,el/la cónyuge,0
+you are beautiful,tú eres hermosa,0
+lover,el/la amante,0
+partner,la pareja,0
+couple,la pareja,0
+heartbreaker,el/la rompecorazones,0
+romantic,enamorado,0
+in love,enamorado,0
+the bride and groom,los contrayentes,0
+groom,el novio,0
+bride,la novia,0
+girlfriend,la chava,0
+boyfriend,el chavo,0
+anniversary,el aniversario,0
+soulmate,el alma gemela,0
+bisexual,bisexual,0
+lesbian,lesbiana,0
+LGBTI,LGTBI,0
+to cheat on,engañar,0
+affair,la aventura,0
+beautiful.,Hello, hermosa.,Hola,0
+affair,el asunto,0
+married woman,la casada,0
+married man,el casado,0
+desire,el deseo,0
+marital status,el estado civil,0
+ask for someone’s hand in marriage,pedir la mano,0
+single person,el soltero,0
+single,soltero,0
+girlfriend,la chica,0
+boyfriend,el chico,0
+date,la cita,0
+I love you very much,yo te quiero mucho,0
+romantic,íntimo,0
+to marry,casar,0
+affection,el cariño,0
+marriage,el matrimonio,0
+marriage,el enlace,0
+sweetheart,mi cielo,0
+to go out,salir,0
+to hug,abrazar,0
+peck on the lips,el pico,0
+to get married,casarse,0
+girlfriend,la novia,0
+boyfriend,el novio,0
+husband,el marido,0
+wife,la esposa,0
+lover,la querida,0
+darling,el querido,0
+to love,amar,0
+married,casado,0
+heart,el corazón,0
+Valentine's Day,el Día de los Enamorados,0
+Valentine's Day,el Día de San Valentín,0
+gay,gay,0
+kiss,el beso,0
+to kiss,besar,0
+wedding,la boda,0
+to break up,romper,0
+flirting,el flirteo,0
+to want,desear,0
+romance,el idilio,0
+dating,salir en citas,0
+I fancy you,me gustas,0
+to flirt,flirtear,0
+relationship,la relación,0
+I love you,te quiero,0
+I love you,te amo,0
+love,el amor,0

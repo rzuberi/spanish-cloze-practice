@@ -1,0 +1,150 @@
+gold,el oro,0
+love,el amor,0
+boyfriend,el novio,0
+girlfriend,la novia,0
+be mine,sé mío,0
+I love you,te quiero,0
+I love you,te amo,0
+soulmate,el alma gemela,0
+my love,mi amor,0
+xoxo,tqm,0
+kiss me,bésame,0
+true love,amor verdadero,0
+hug me,abrázame,0
+you and me,tú y yo,0
+sweetie,el amorcito,0
+sweetie,la ricura,0
+only you,solo tú,0
+darling,el cariño,0
+to adore,adorar,0
+Saint Valentine,San Valentín,0
+valentine,tarjeta de San Valentín,0
+turkey,el pavo,0
+cranberry,el arándano rojo,0
+mashed potatoes,el puré de patatas,0
+gravy,la salsa de carne,0
+sweet potato,la batata,0
+yam,el ñame,0
+pumpkin pie,pastel de calabaza,0
+cornucopia,la cornucopia,0
+stuffing,el relleno,0
+Happy Thanksgiving!,¡Feliz día de Acción de Gracias!,0
+green bean,la judía verde,0
+apple pie,la tarta de manzana,0
+cornbread,el pan de maíz,0
+Brussels sprouts,el coles de Bruselas,0
+resolution,el propósito,0
+New Year,el año nuevo,0
+goal,la meta,0
+to set,fijar,0
+life,la vida,0
+to work out,hacer gimnasia,0
+work,el trabajo,0
+hobby,el hobby,0
+health,la salud,0
+exercise,el ejercicio,0
+vision,la visión de futuro,0
+self-care,cuidado personal,0
+tree,el árbol,0
+light,la luminaria,0
+Memorial Day,el Día de los Caídos,0
+Ash Wednesday,el Miércoles de Ceniza,0
+Mardi Gras,Martes de Carnaval,0
+Passover,la Pascua judía,0
+menorah,la menorá,0
+heart,el corazón,0
+chocolate,el chocolate,0
+crush,el crush,0
+Cupid,el Cupido,0
+to fall in love,enamorarse,0
+kiss,el beso,0
+hug,el abrazo,0
+lovebird,el tórtolo,0
+Valentine's Day,el Día de los Enamorados,0
+Valentine's Day,el Día de San Valentín,0
+All Saints' Day,Día de Todos los Santos,0
+Good Friday,el Viernes Santo,0
+La Tomatina,La Tomatina,0
+Fallas,las fallas,0
+national holidays,las fiestas patrias,0
+Children's Day,Día del Niño,0
+Workers' Day,Día del Trabajo,0
+Candlemas,la Candelaria,0
+running of the bulls in Pamplona,los sanfermines,0
+Independence Day,el Día de la Independencia,0
+Festival of Lights,la Fiesta de las Luces,0
+Labor Day,Día del Trabajador,0
+April Fools' Day,el día de los Santos Inocentes,0
+Secretary's Day,Día de la Secretaria,0
+Teachers Day,Día del Maestro,0
+Earth Day,Día de la Tierra,0
+Columbus Day,Día de la Raza y la Hispanidad,0
+Women's Day,la Día de la Mujer,0
+Saint Patrick's Day,Día de San Patricio,0
+Merry Christmas,Feliz Navidad,0
+happy and prosperous new year,próspero año y felicidad,0
+Happy New Year,próspero Año Nuevo,0
+happiness,la felicidad,0
+dedication,la dedicatoria,0
+to wish,desear,0
+maypole,el mayo,0
+toast,el brindis,0
+fair,la feria,0
+benefit,la función benéfica,0
+compliment,el cumplido,0
+fireworks,los fuegos artificiales,0
+to invite,invitar,0
+offering,la ofrenda,0
+little gift,el detalle,0
+bachelorette party,la despedida de soltera,0
+bachelor party,la despedida de soltero,0
+invitation,la invitación,0
+carnival,el carnaval,0
+group,la comparsa,0
+contest,el concurso,0
+prize,el premio,0
+surprise,la sorpresa,0
+Holy Week,la Semana Santa,0
+Easter,la Pascua,0
+float,el paso,0
+float,la carroza,0
+reception,el banquete,0
+groom,el novio,0
+bride,la novia,0
+anniversary,el aniversario,0
+good luck,buena suerte,0
+Father's Day,Día del Padre,0
+Mother's Day,Día de la Madre,0
+Thanksgiving Day,el Día de Acción de Gracias,0
+thanksgiving,la acción de gracias,0
+event,el evento,0
+decorations,la decoración,0
+Hanukkah,la Janucá,0
+frankincense,el olíbano,0
+myrrh,la mirra,0
+reunion,el reencuentro,0
+Nativity scene,el belén,0
+holiday,el día festivo,0
+to give,regalar,0
+Epiphany,día de Reyes,0
+New Year's Day,día de Año Nuevo,0
+New Year's Eve,Nochevieja,0
+Christmas Eve,la Nochebuena,0
+Christmas card,la tarjeta de Navidad,0
+Christmas,la Navidad,0
+to celebrate,celebrar,0
+Cinco de Mayo,el Cinco de Mayo,0
+Fourth of July,Cuatro de Julio,0
+card,la tarjeta,0
+congratulations,enhorabuena,0
+celebration,la celebración,0
+gift,el regalo,0
+Day of the Dead,el Día de los Muertos,0
+festival,el festival,0
+custom,la costumbre,0
+wedding,la boda,0
+Happy birthday!,¡Feliz cumpleaños!,0
+present,el regalo,0
+Halloween,Halloween,0
+party,la fiesta,0
+birthday,el cumpleaños,0

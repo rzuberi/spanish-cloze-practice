@@ -1,0 +1,118 @@
+coat,el abrigo,0
+blizzard,la ventisca,0
+boot,la bota,0
+fireplace,la chimenea,0
+cold,el resfriado,0
+cold,frío,0
+comforter,el edredón,0
+flannel,la franela,0
+freezing rain,lluvia engelante,0
+frostbite,la congelación,0
+freezing,congelado,0
+snowflake,el copo de nieve,0
+frozen,congelado,0
+glove,el guante,0
+heating,la calefacción,0
+to hibernate,hibernar,0
+hypothermia,la hipotermia,0
+hockey,el hockey,0
+hot chocolate,el chocolate caliente,0
+ice,el hielo,0
+icicle,el carámbano,0
+ice skate,el patín de hielo,0
+icy,gélido,0
+log,el leño,0
+mitten,la manopla,0
+quilt,el edredón,0
+radiator,el radiador,0
+flu,la gripe,0
+air conditioner,el acondicionador de aire,0
+bathing suit,el traje de baño,0
+heat,el calor,0
+baseball,el béisbol,0
+beach,la playa,0
+camping,el camping,0
+fan,el ventilador,0
+Frisbee,el frisbee,0
+fruit,la fruta,0
+gardening,la jardinería,0
+grass,la hierba,0
+holiday,el feriado,0
+humidity,la humedad,0
+hiking,el senderismo,0
+ice cream,el helado,0
+bolt of lightning,el relámpago,0
+muggy,bochornoso,0
+ocean,el océano,0
+outdoor,al aire libre,0
+park,el parque,0
+picnic,el pícnic,0
+Popsicle,la paleta de hielo,0
+recreation,la recreación,0
+road trip,el viaje por carretera,0
+solstice,el solsticio,0
+sundress,la solera,0
+sandal,la sandalia,0
+seashore,la orilla del mar,0
+sun,el sol,0
+thunderstorm,la tormenta eléctrica,0
+birth,el nacimiento,0
+to blossom,florecer,0
+bunny,el conejito,0
+chick,el pollito,0
+daffodil,el narciso,0
+Easter,la Pascua,0
+egg,el huevo,0
+flower,la flor,0
+to grow,crecer,0
+lamb,el cordero,0
+to melt,derretirse,0
+nest,el nido,0
+puddle,el charco,0
+mud,el barro,0
+rainbow,el arco iris,0
+rebirth,el renacimiento,0
+rain,la lluvia,0
+robin,el petirrojo,0
+spring,la primavera,0
+sunshine,el sol,0
+spring break,las vacaciones de primavera,0
+sprout,el retoño,0
+thaw,el deshielo,0
+umbrella,el paraguas,0
+windy,ventoso,0
+warm,cálido,0
+allergic,alérgico,0
+blue sky,cielo azul,0
+new beginning,nuevo comienzo,0
+pollen,el polen,0
+spice,la especia,0
+nutmeg,la nuez moscada,0
+cinnamon,la canela,0
+sugary,azucarado,0
+orange,naranjado,0
+clove,el clavo de olor,0
+coffee,el café,0
+delicious,rico,0
+latte,el latte,0
+ginger,el jengibre,0
+hat,el gorro,0
+sweater,el suéter,0
+scarf,la bufanda,0
+pumpkin,la calabaza,0
+pumpkin pie,la tarta de calabaza,0
+acorn,la bellota,0
+foliage,el follaje,0
+pumpkin patch,la huerta de calabazas,0
+corn,el maíz,0
+autumnal,otoñal,0
+harvest,la cosecha,0
+scarecrow,el espantapájaros,0
+apple,la manzana,0
+cider,la sidra,0
+squirrel,la ardilla,0
+rake,el rastrillo,0
+cornucopia,la cornucopia,0
+crisp,frío y despejado,0
+autumn,el otoño,0
+fall,el otoño,0

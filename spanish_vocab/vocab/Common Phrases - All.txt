@@ -1,0 +1,135 @@
+you,ustedes,0
+you,usted,0
+have a good day,que tenga buen día,0
+I hope things go well for you!,¡Que le vaya bien!,0
+my name is,mi nombre es,0
+let me introduce you to,le presento a,0
+Dear Sir,muy señor mío,0
+how you are today,cómo está usted hoy,0
+the pleasure is mine,el gusto es mío,0
+it's a pleasure to meet you,es un placer conocerte,0
+excuse me,disculpe,0
+you're strong,eres fuerte,0
+you look great,te ves genial,0
+you are so beautiful,tú eres tan hermosa,0
+kind words,palabras amables,0
+congratulations,enhorabuena,0
+how was your day,qué tal tu día,0
+call me,llámame,0
+that's right,así es,0
+it's OK,déjalo,0
+I hate you,te odio,0
+you're one of a kind,como tú no hay dos,0
+welcome home,bienvenido a casa,0
+for you,por ti,0
+for me,por mí,0
+enjoy your meal,que aproveche,0
+bon appétit,buen provecho,0
+with pleasure,con mucho gusto,0
+not much,no mucho,0
+I'm glad,me alegro de que,0
+the weather is nice,hace buen tiempo,0
+I know how,sé,0
+for example,por ejemplo,0
+no sooner said than done,dicho y hecho,0
+out of the blue,de improviso,0
+there's no point,no sirve,0
+what to do,qué hacer,0
+no way,ni hablar,0
+no way,no manches,0
+I can make,puedo hacer,0
+at least,por lo menos,0
+it's essential,es imprescindible,0
+good job,buen trabajo,0
+well done,bien hecho,0
+in my opinion,para mí,0
+Are you OK?,¿Estás bien?,0
+I'm hot,tengo calor,0
+I'm cold,tengo frío,0
+do you want,se te antoja,0
+I'm fine,me encuentro bien,0
+let's see,a ver,0
+me too,y yo,0
+me too,yo también,0
+get well soon,que te mejores,0
+good luck,mucha suerte,0
+what did you do yesterday,qué hiciste tú ayer,0
+I miss you,te echo de menos,0
+I miss you,te extraño,0
+it's not worth it,no vale la pena,0
+it's worth it,merece la pena,0
+it's worth it,vale la pena,0
+how pretty,qué bonita,0
+how pretty,qué linda,0
+best wishes,los mejores deseos,0
+thank you very much,muchas gracias,0
+let's go,vámonos,0
+let's go,vamos,0
+how are you doing,qué tal estás,0
+leave me alone,déjame en paz,0
+how do you say,cómo se dice,0
+all about me,todo sobre mí,0
+What time is it?,¿Qué hora es?,0
+shame on you,debería darte vergüenza,0
+of course,por supuesto,0
+my pleasure,es un placer,0
+I speak a little Spanish,yo hablo un poquito español,0
+as soon as possible,tan pronto como sea posible,0
+as far as I know,que yo sepa,0
+I'm ready,ya estoy listo,0
+Are you ready?,¿Estás lista?,0
+see you soon,hasta pronto,0
+I love you very much,lo quiero mucho,0
+I love you very much,te amo mucho,0
+you're welcome,de nada,0
+have a good time,pásalo bien,0
+excuse me,perdón,0
+What's your name?,¿Cómo te llamas?,0
+how old are you,cuántos años tiene usted,0
+what are you doing,qué estás haciendo,0
+Happy Holidays!,¡Felices fiestas!,0
+happy birthday,feliz cumpleaños,0
+not bad at all,nada mal,0
+see you later,nos vemos luego,0
+where do you live,dónde vives,0
+nice to meet you,mucho gusto,0
+my name is,me llamo,0
+to look like,parecerse a,0
+What do you look like?,¿Cómo eres físicamente?,0
+what are you like,cómo eres tú,0
+thanks,gracias,0
+thank you,gracias,0
+how are you?,Hello, ¿cómo estás?,Hola,0
+I'm sorry,disculpe,0
+I'm sorry,lo siento,0
+I want,tengo ganas de,0
+I like you,me gustas,0
+I like you,me caes bien,0
+I love you,te quiero,0
+I love you,te amo,0
+good afternoon,buenas tardes,0
+good morning,buenos días,0
+how are you,cómo está Ud.,0
+how are you,qué tal estás,0
+where can I find,dónde puedo encontrar,0
+I don't feel well,no me siento bien,0
+How do you spell your name?,¿Cómo se escribe tu nombre?,0
+what time is it,qué hora son,0
+what's the date,cuál es la fecha,0
+Do you need help?,¿Necesitas ayuda?,0
+how do I get to,cómo llego a,0
+I need help,necesito ayuda,0
+I'm lost,estoy perdido,0
+Can you help me?,¿Puedes ayudarme?,0
+I forgot,se me olvidó,0
+it bothers me,a mí me molesta,0
+don't worry,no te preocupes,0
+I don't know,no sé,0
+maybe,tal vez,0
+I'm coming,ya voy,0
+What do I do?,¿Qué hago?,0
+it doesn't matter to me,me da igual,0
+Can I help you?,¿Te puedo ayudar?,0
+I have no idea,no tengo idea,0
+What for?,¿Para qué?,0
+no idea,ni idea,0

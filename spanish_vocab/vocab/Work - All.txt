@@ -1,0 +1,250 @@
+journalist,el/la periodista,0
+artist,el/la artista,0
+sailor,el marinero,0
+landline,teléfono fijo,0
+mobile phone,el celular,0
+cell phone,el teléfono celular,0
+phone,el teléfono,0
+postage,el franqueo,0
+stamp,el sello,0
+folder,la carpeta,0
+stapler,la grapadora,0
+scissors,la tijera,0
+pencil,el lápiz,0
+pen,el bolígrafo,0
+bookcase,la librería,0
+battery,la pila,0
+desk,el escritorio,0
+chair,la silla,0
+letter,la carta,0
+tape,el tape,0
+ruler,la regla,0
+rubber band,la gomita,0
+wastepaper basket,la papelera,0
+paper clip,el clip,0
+envelope,el sobre,0
+paper,el papel,0
+printer,la impresora,0
+computer,el ordenador,0
+highlighter,el rotulador fluorescente,0
+whiteboard,la pizarra blanca,0
+judge,el magistrado,0
+businesswoman,la empresaria,0
+businessman,el empresario,0
+firefighter,el bombero,0
+police officer,el/la policía,0
+postman,el cartero,0
+soldier,el/la soldado,0
+veterinarian,el veterinario,0
+editor,el editor,0
+writer,el escritor,0
+programmer,el programador,0
+builder,el constructor,0
+architect,el arquitecto,0
+paramedic,el paramédico,0
+nutritionist,el/la nutricionista,0
+flight attendant,la azafata,0
+researcher,el investigador,0
+scientist,el científico,0
+inventor,el inventor,0
+carpenter,el carpintero,0
+receptionist,el recepcionista,0
+ability,la habilidad,0
+poet,el/la poeta,0
+photographer,el fotógrafo,0
+engineer,el ingeniero,0
+sales,las ventas,0
+bellhop,el/la botones,0
+cleaner,el limpiador,0
+chaplain,el capellán,0
+to do for a living,dedicarse,0
+warrior,el guerrero,0
+rate,la tarifa,0
+office,el consultorio,0
+building site,la obra,0
+gaucho,el gaucho,0
+mechanic,el mecánico,0
+retired,jubilado,0
+to support oneself,sustentarse,0
+farmhand,el gañán,0
+painter,el pintor,0
+teaching,la docencia,0
+electrician,el/la electricista,0
+profession,el gremio,0
+to train,entrenar,0
+administrative assistant,el auxiliar administrativo,0
+to recommend,recomendar,0
+cart driver,el carretero,0
+forensic scientist,el forense,0
+tenant farmer,el rentero,0
+paid,pagado,0
+internship,las prácticas,0
+What do you do for a living?,¿A qué te dedicas?,0
+pilot,el/la práctico,0
+pilot,el/la piloto,0
+interview,la entrevista,0
+colleague,el/la colega,0
+pediatrician,el/la pediatra,0
+unemployed,desempleado,0
+candidate,el pretendiente,0
+pianist,el/la pianista,0
+salary,el sueldo,0
+vet,el veterinario,0
+doctor,el doctor,0
+dancer,el bailarín,0
+to make a living,ganarse la vida,0
+in the office,en el consultorio,0
+documents,la documentación,0
+dishwasher,el/la friegaplatos,0
+thief,el ladrón,0
+doorman,el portero,0
+social worker,el trabajador social,0
+interior design,el interiorismo,0
+author,el escritor,0
+rider,el/la piloto,0
+sewing,la costura,0
+guide,el/la guía,0
+plumber,el fontanero,0
+construction worker,el/la albañil,0
+farmer,el agricultor,0
+gang,la pandilla,0
+priest,el cura,0
+preacher,el predicador,0
+job application,la solicitud de empleo,0
+reference,la referencia,0
+trade,el oficio,0
+lifeguard,el/la socorrista,0
+workshop,el obrador,0
+workshop,el taller,0
+major,el/la comandante,0
+puppet,la comparsa,0
+labor,la labor,0
+job interview,entrevista de trabajo,0
+holiday,festivo,0
+to perform,realizar,0
+cook,el cocinero,0
+chef,el/la chef,0
+army,el ejército,0
+criminal justice,la justicia criminal,0
+mentor,el mentor,0
+CV,CV,0
+résumé,CV,0
+performance,la performance,0
+province,la competencia,0
+clerk,el empleado,0
+accounting,la contabilidad,0
+pirate,el/la pirata,0
+secretary,el secretario,0
+plumbing,la fontanería,0
+assignment,la encomienda,0
+owner,el dueño,0
+to be promoted,ascender,0
+liaison,el/la enlace,0
+full time,tiempo completo,0
+part time,media jornada,0
+to apply,presentar una solicitud,0
+president,el presidente,0
+day laborer,el jornalero,0
+nurse,el enfermero,0
+to work,trabajar,0
+police,la policía,0
+hard job,el trabajo duro,0
+queen,la reina,0
+legal practice,el bufete,0
+boss,el jefe,0
+experience,la experiencia,0
+perk,la ventaja,0
+bonus,la extraordinaria,0
+leadership,el liderazgo,0
+to retire,jubilarse,0
+rise,el aumento,0
+raise,el aumento,0
+athlete,el/la atleta,0
+stress,el stress,0
+host,el presentador,0
+domestic staff,el servicio,0
+salesperson,el vendedor,0
+accountant,el/la contable,0
+service,el servicio,0
+taxi driver,el/la taxista,0
+banking,la banca,0
+computer specialist,el informático,0
+comedian,el cómico,0
+gardener,el jardinero,0
+coach,el entrenador,0
+coach,el/la coach,0
+to apply for,solicitar,0
+skills,las funciones,0
+employment,el empleo,0
+research,la investigación,0
+What is your job?,¿En qué trabajas tú?,0
+presentation,la presentación,0
+dentist,el/la dentista,0
+court,el juzgado,0
+equipment,el equipamiento,0
+application,la solicitud,0
+business,el negocio,0
+lawyer,el abogado,0
+apprentice,el/la aprendiz,0
+professional,profesional,0
+appointment,la cita,0
+to clean,limpiar,0
+workday,la jornada laboral,0
+working,laborable,0
+company,la compañía,0
+company,la empresa,0
+fisherman,el pescador,0
+waiter,el camarero,0
+office,la oficina,0
+workplace,el lugar de trabajo,0
+real estate,inmobiliario,0
+warehouse,el almacén,0
+teacher,el profesor,0
+teacher,el maestro,0
+principal,el director del colegio,0
+head teacher,el director,0
+head,el/la mayor,0
+model,el/la modelo,0
+professor,el profesor universitario,0
+to manage,dirigir,0
+expert,el experto,0
+judge,el juez,0
+customer service,el servicio al cliente,0
+task,la tarea,0
+kitchen assistant,el pinche,0
+to sack,despedir,0
+to fire,despedir,0
+suit,el traje,0
+retail,minorista,0
+capital,el capital,0
+singer,el/la cantante,0
+timetable,el horario,0
+schedule,el horario,0
+break,el descanso,0
+meeting,la reunión,0
+building,constructor,0
+finance,las finanzas,0
+to build,construir,0
+manager,el/la gerente,0
+actress,la actriz,0
+actor,el actor,0
+to earn,ganar,0
+sick leave,la baja,0
+maid,la sirvienta,0
+translator,el traductor,0
+personnel,el personal,0
+farmer,el granjero,0
+legal,legal,0
+position,el cargo,0
+position,el puesto,0
+student,el/la estudiante,0
+career,la carrera,0
+employee,el empleado,0
+tools,los útiles,0
+law,el derecho,0
+occupation,la ocupación,0
+construction work,la obra,0
+profession,la profesión,0
+job,el empleo,0
+job,el trabajo,0
+work,el trabajo,0

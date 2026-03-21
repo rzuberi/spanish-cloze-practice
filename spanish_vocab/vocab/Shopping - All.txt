@@ -1,0 +1,66 @@
+kiosk,el quiosco,0
+beauty product,el cosmético,0
+voucher,el bono,0
+gift card,la tarjeta de regalo,0
+consumerism,el consumismo,0
+fee,la cuota,0
+shopper,el comprador,0
+to get,conseguir,0
+bar code,el código de barras,0
+cash register,la caja,0
+cart,el carrito,0
+customer,el cliente,0
+change,el vuelto,0
+value,el valor,0
+return,la devolución,0
+refund,la devolución,0
+to reimburse,reembolsar,0
+bargain,la ganga,0
+shelves,la estantería,0
+price,el precio,0
+camera,la cámara,0
+security guard,el/la guardia de seguridad,0
+to steal,robar,0
+department store,los grandes almacenes,0
+paper bag,la bolsa de papel,0
+plastic bag,la bolsa de plástico,0
+bag,la bolsa,0
+online shopping,compras online,0
+mall,el centro comercial,0
+purchase,la compra,0
+worth,el precio,0
+to sell,vender,0
+retail,minorista,0
+market,el mercado,0
+shop assistant,el dependiente,0
+manager,el/la gerente,0
+item,el artículo,0
+check,el cheque,0
+credit card,la tarjeta de crédito,0
+cash,el efectivo,0
+money,el dinero,0
+sale,la liquidación,0
+sale,la venta,0
+discount,el descuento,0
+to save,ahorrar,0
+to spend,gastar,0
+VAT,IVA,0
+sales tax,IVU,0
+sales tax,la alcabala,0
+to cost,costar,0
+cost,el coste,0
+to pay for,pagar,0
+to buy,comprar,0
+trendy,fashion,0
+luxury,el lujo,0
+reasonable,razonable,0
+affordable,asequible,0
+cheap,barato,0
+expensive,caro,0
+shoe,el zapato,0
+clothing,la ropa,0
+makeup,el maquillaje,0
+stall,el tenderete,0
+stand,el puesto,0
+shop,la tienda,0
+shopping,las compras,0

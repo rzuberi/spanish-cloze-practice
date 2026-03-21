@@ -1,0 +1,147 @@
+earthquake,el terremoto,0
+glacier,el glaciar,0
+wildlife,la vida silvestre,0
+smog,el smog,0
+self-sufficient,autosuficiente,0
+to rely on,depender de,0
+reforestation,la reforestación,0
+protest,la protesta,0
+to protect,proteger,0
+pesticide,el pesticida,0
+pollutant,el contaminante,0
+food chain,cadena alimentaria,0
+ecosystem,el ecosistema,0
+eco-friendly,ecológico,0
+dump,el vertedero,0
+to donate,donar,0
+developing country,el país en desarrollo,0
+contaminated,viciado,0
+to consume,consumir,0
+compost,el compost,0
+felling,la tala,0
+carpool,personas que comparten vehículo,0
+ban,la prohibición,0
+fossil fuels,los combustibles fósiles,0
+preservation,la preservación,0
+tidal,mareomotriz,0
+solar energy,la energía solar,0
+toxic,tóxico,0
+to threaten,amenazar,0
+sewage,aguas residuales,0
+reusable,reutilizable,0
+rainforest,bosque lluvioso,0
+to purify,purificar,0
+precipitation,la precipitación,0
+poisonous,venenoso,0
+poison,el veneno,0
+natural gas,el gas natural,0
+leak,la fuga,0
+heavy metal,el metal pesado,0
+hydrocarbon,el hidrocarburo,0
+heat wave,la ola de calor,0
+harm,el perjuicio,0
+fumes,el humo,0
+fertilizer,el abono,0
+to erode,erosionar,0
+environmentalist,el/la ecologista,0
+to die out,extinguirse,0
+animal,el animal,0
+creature,el bicho,0
+catastrophe,la catástrofe,0
+biosphere,la biosfera,0
+oil spill,el derrame de petróleo,0
+to use up,gastar,0
+sustainable development,el desarrollo sostenible,0
+renewable energy,la energía renovable,0
+greenhouse effect,el efecto invernadero,0
+extinct,extinto,0
+extinction,la extinción,0
+conservation,la conservación,0
+energy,la energía,0
+endangered species,especies en peligro de extinción,0
+disposable,desechable,0
+desertification,la desertización,0
+deforestation,la deforestación,0
+carbon dioxide,el dióxido de carbono,0
+carbon monoxide,el monóxido de carbono,0
+biodiversity,la biodiversidad,0
+biodegradable,biodegradable,0
+incentive,el incentivo,0
+politics,la política,0
+policy,la política,0
+to throw away,tirar,0
+to recycle,reciclar,0
+to reuse,reutilizar,0
+recycling,el reciclaje,0
+renewable,renovable,0
+depletion,el agotamiento,0
+natural resource,el recurso natural,0
+litter,la basura,0
+drought,la sequía,0
+dry,seco,0
+humid,húmedo,0
+natural disaster,el desastre natural,0
+carbon footprint,huella de carbono,0
+volcano,el volcán,0
+lava,la lava,0
+atmosphere,la atmósfera,0
+ecologist,el/la ecologista,0
+ecology,la ecología,0
+global,global,0
+emission,la emanación,0
+climate change,el cambio climático,0
+global warming,el calentamiento global,0
+mountain,la montaña,0
+sky,el cielo,0
+downpour,el aguacero,0
+deluge,el diluvio,0
+flood,la inundación,0
+landslide,el alud,0
+waterspout,la tromba,0
+typhoon,el tifón,0
+hurricane,el huracán,0
+tornado,el tornado,0
+storm,la tormenta,0
+cold,frío,0
+heat,el calor,0
+snow,la nieve,0
+sun,el sol,0
+wave,la ola,0
+pool,la poza,0
+base,la base,0
+acidic,ácido,0
+world,el mundo,0
+chemistry,la química,0
+biology,la biología,0
+grass,la hierba,0
+Earth,la Tierra,0
+ozone layer,la capa de ozono,0
+ozone,el ozono,0
+carbon,el carbono,0
+acid rain,la lluvia ácida,0
+rain,la lluvia,0
+aquifer,el acuífero,0
+ground,el suelo,0
+dirt,la tierra,0
+green,ecologista,0
+bog,el cenagal,0
+swamp,el pantano,0
+gulf,el golfo,0
+delta,el delta,0
+tributary,el afluente,0
+brook,el riachuelo,0
+stream,el arroyo,0
+river,el río,0
+lake,el lago,0
+ocean,el océano,0
+sea,el/la mar,0
+contamination,la contaminación,0
+pollution,la contaminación,0
+air,el aire,0
+water,el agua,0
+tree,el árbol,0
+outside,fuera,0
+weather,el tiempo,0
+plant,la planta,0
+climate,el clima,0
+environment,el medio ambiente,0

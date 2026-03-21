@@ -1,0 +1,46 @@
+American,estadounidense,0
+New Zealander,el neozelandés,0
+Australian,el australiano,0
+Canadian,el/la canadiense,0
+British,británico,0
+Filipino,el filipino,0
+Nigerian,nigeriano,0
+Pakistani,el/la pakistaní,0
+Indian,el indio,0
+Bolivian,el boliviano,0
+Costa Rican,el/la costarricense,0
+Ecuadorian,el ecuatoriano,0
+Salvadorian,el salvadoreño,0
+Spaniard,el español,0
+Guatemalan,el guatemalteco,0
+Honduran,el hondureño,0
+Nicaraguan,el/la nicaragüense,0
+Panamanian,el panameño,0
+Paraguayan,el paraguayo,0
+Uruguayan,el uruguayo,0
+Venezuelan,el venezolano,0
+Guinean,el guineo,0
+Peruvian,el peruano,0
+Puerto Rican,boricua,0
+Portuguese,portugués,0
+Italian,italiano,0
+Chilean,el chileno,0
+Thai,el tailandés,0
+Bulgarian,búlgaro,0
+Argentine,el argentino,0
+African,africano,0
+Asian,asiático,0
+European,europeo,0
+German,el alemán,0
+Colombian,el colombiano,0
+Puerto Rican,puertorriqueño,0
+Chinese,chino,0
+Korean,el coreano,0
+Dominican,dominicano,0
+Japanese,japonés,0
+French,francés,0
+Cuban,el cubano,0
+Mexican,el mexicano,0
+English,inglés,0
+nationality,la nacionalidad,0
+Spanish,español,0

@@ -1,0 +1,73 @@
+gym,el gimnasio,0
+hangar,el hangar,0
+parking garage,el garaje,0
+lighthouse,el faro,0
+train station,estación de ferrocarril,0
+bus station,la estación de autobuses,0
+airport,el aeropuerto,0
+bunker,el búnker,0
+barracks,el cuartel,0
+parliament,el parlamento,0
+post office,la oficina de correos,0
+police station,la comisaría,0
+fire station,la estación de bomberos,0
+embassy,la embajada,0
+courthouse,el palacio de justicia,0
+town hall,el ayuntamiento,0
+city hall,la alcaldía,0
+mosque,la mezquita,0
+pagoda,la pagoda,0
+temple,el templo,0
+synagogue,la sinagoga,0
+shrine,la ermita,0
+chapel,la capilla,0
+cathedral,la catedral,0
+church,la iglesia,0
+museum,el museo,0
+library,la biblioteca,0
+arena,la arena,0
+windmill,el molino de viento,0
+stable,el establo,0
+silo,el silo,0
+greenhouse,el invernadero,0
+granary,el granero,0
+farmhouse,la masada,0
+funeral home,la funeraria,0
+theater,el teatro,0
+car wash,el lavacoches,0
+resort,el complejo turístico,0
+casino,el casino,0
+inn,la posada,0
+motel,el motel,0
+hotel,el hotel,0
+prison,la prisión,0
+jail,la cárcel,0
+dormitory,la residencia estudiantil,0
+retirement home,el asilo de ancianos,0
+duplex,el adosado,0
+cottage,el casita de campo,0
+barn,el granero,0
+farm,la granja,0
+ranch,el rancho,0
+estate,la posesión,0
+property,la finca,0
+storehouse,el almacén,0
+construction,la construcción,0
+work,las obras,0
+hospital,el hospital,0
+school,la escuela,0
+office,la oficina,0
+factory,la factoría,0
+hut,la choza,0
+shopping center,las galerías,0
+mall,el centro comercial,0
+restaurant,el restaurante,0
+shelter,el refugio,0
+condominium,el condominio,0
+apartment building,el edificio de apartamentos,0
+house,la casa,0
+shed,la caseta,0
+design,la traza,0
+architecture,la arquitectura,0
+warehouse,el almacén,0
+building,el edificio,0

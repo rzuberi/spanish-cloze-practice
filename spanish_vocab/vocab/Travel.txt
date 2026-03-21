@@ -1,0 +1,150 @@
+country,el país,0
+plane,el avión,0
+square,la plaza,0
+World Heritage,el patrimonio de la humanidad,0
+to travel around the world,viajar por el mundo,0
+streetcar,el tranvía,0
+hotel room,la habitación de hotel,0
+waiting room,la sala de espera,0
+one-way,de ida,0
+postcard,la tarjeta postal,0
+souvenir,el souvenir,0
+attractions,los lugares de interés,0
+market,el mercado,0
+historic center,centro histórico,0
+museum,el museo,0
+view,la vista,0
+monument,el monumento,0
+town,el pueblo,0
+hemisphere,el hemisferio,0
+west,el oeste,0
+east,el este,0
+south,el sur,0
+north,el norte,0
+to go for a walk,pasear,0
+climate,el clima,0
+temperature,la temperatura,0
+geography,la geografía,0
+countryside,el campo,0
+city,la ciudad,0
+mountains,la montaña,0
+beach,la playa,0
+resort,el complejo turístico,0
+all-inclusive,con todo incluido,0
+excursion,la excursión,0
+hike,la caminata,0
+restaurant,el restaurante,0
+review,la reseña,0
+journey,el trayecto,0
+shuttle,el servicio regular de enlace,0
+ferry,el ferry,0
+metro,el metro,0
+train,el tren,0
+bus,el autobús,0
+to ride,montar,0
+first class,la primera,0
+tourist class,la clase turista,0
+traveler's check,el cheque de viajero,0
+to discover,descubrir,0
+to explore,explorar,0
+tour,el recorrido,0
+to travel around,recorrer,0
+backpack,la mochila,0
+backpacker,el mochilero,0
+to drive,conducir,0
+to sail,navegar,0
+travel agency,la agencia de viajes,0
+on the way,de camino,0
+way,el camino,0
+to walk,caminar,0
+passenger,el pasajero,0
+ticket,el pasaje,0
+captain,el capitán,0
+copilot,el/la copiloto,0
+pilot,el/la piloto,0
+seat belt,el cinturón de seguridad,0
+turbulence,la turbulencia,0
+customer service,el servicio al cliente,0
+cheap,barato,0
+expensive,caro,0
+reception,la recepción,0
+platform,el andén,0
+stop,la parada,0
+road,la carretera,0
+duty free shop,el duty free,0
+taxi,el taxi,0
+public transport,el transporte público,0
+rate,la tarifa,0
+to pack,empacar,0
+delayed,retrasado,0
+on time,a tiempo,0
+to go to the beach,ir a la playa,0
+to plan,planear,0
+to take a photo,tomar una foto,0
+to stay,quedarse,0
+to rent a car,alquilar un coche,0
+to fly,volar,0
+to travel abroad,viajar al extranjero,0
+to confirm,confirmar,0
+to book,reservar,0
+inn,la posada,0
+tourist,el/la turista,0
+tourism,el turismo,0
+brochure,el folleto,0
+guide,el/la guía,0
+parking lot,el estacionamiento,0
+cruise,el crucero,0
+hotel industry,la hostelería,0
+travel agent,el/la agente de viajes,0
+hostel,el hostal,0
+guest,el/la huésped,0
+hotel,el hotel,0
+room service,el servicio de habitación,0
+fee,la cuota,0
+runway,la pista de aterrizaje,0
+security check,el control de seguridad,0
+resident,el/la residente,0
+foreigner,el extranjero,0
+plane ticket,el boleto de avión,0
+round-trip ticket,el boleto de ida y vuelta,0
+one-way ticket,el boleto sencillo,0
+stopover,la escala,0
+identification,la identificación,0
+passport,el pasaporte,0
+visa,el visado,0
+departure,la salida,0
+arrival,la llegada,0
+route,la ruta,0
+customs,la aduana,0
+immigration,la inmigración,0
+baggage claim,la recogida de equipajes,0
+carry-on luggage,el equipaje de mano,0
+luggage,el equipaje,0
+destination,el destino,0
+round trip,el viaje de ida y vuelta,0
+aisle seat,el asiento de pasillo,0
+window seat,asiento de ventanilla,0
+light aircraft,la avioneta,0
+airport,el aeropuerto,0
+seat,el asiento,0
+row,la fila,0
+exit,la puerta de salida,0
+boarding gate,la puerta de embarque,0
+crew,la tripulación,0
+to check in,facturar,0
+on board,a bordo,0
+to take off,despegar,0
+to board,embarcar,0
+to disembark,desembarcar,0
+to land,aterrizar,0
+terminal,el/la terminal,0
+suitcase,la maleta,0
+flight number,el número de vuelo,0
+airline,la aerolínea,0
+flight attendant,el/la auxiliar de vuelo,0
+boarding pass,la tarjeta de embarque,0
+flight,el vuelo,0
+vacation,la vacación,0
+traveler,el viajero,0
+trip,el viaje,0
+to travel,viajar,0

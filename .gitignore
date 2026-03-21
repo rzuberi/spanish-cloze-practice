@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite*
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.DS_Store
+data/
+spanish_vocab/data/

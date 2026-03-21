@@ -1,0 +1,250 @@
+to compete,competir,0
+to teach,enseñar,0
+to send,enviar,0
+to come,venir,0
+to put,poner,0
+to see,ver,0
+to pay,pagar,0
+to challenge,desafiar,0
+to spell,deletrear,0
+to cure,curar,0
+to cross,cruzar,0
+to raise,criar,0
+to cost,costar,0
+to copy,copiar,0
+to answer,contestar,0
+to connect,conectar,0
+to check,comprobar,0
+to charge for,cobrar,0
+to encode,cifrar,0
+to celebrate,celebrar,0
+to hunt,cazar,0
+to tire,cansar,0
+to keep quiet,callar,0
+to heat,calentar,0
+to scuba dive,bucear,0
+to joke,bromear,0
+to bathe,bañar,0
+to go down,bajar,0
+to advance,avanzar,0
+to increase,aumentar,0
+to howl,aullar,0
+to catch,atrapar,0
+to attack,atacar,0
+to finish,apurar,0
+to take advantage of,aprovechar,0
+to press,apretar,0
+to crush,aplastar,0
+to turn off,apagar,0
+to accommodate,alojar,0
+to reach,alcanzar,0
+to add,agregar,0
+to shave,afeitarse,0
+to accumulate,acumular,0
+to act,actuar,0
+to advise,aconsejar,0
+to go with,acompañar,0
+to finish,acabar,0
+to tackle,abordar,0
+to return,volver,0
+to happen,suceder,0
+to travel around,recorrer,0
+to stay,permanecer,0
+to smell,oler,0
+to turn on,encender,0
+to hurt,doler,0
+to return,devolver,0
+to believe,creer,0
+to sew,coser,0
+to transmit,transmitir,0
+to gather,reunir,0
+to escape,huir,0
+to pretend,fingir,0
+to choose,elegir,0
+to amuse,divertir,0
+to say goodbye to,despedir,0
+to discover,descubrir,0
+to decide,decidir,0
+to treat,tratar,0
+to transport,transportar,0
+to touch,tocar,0
+to dry,secar,0
+to relax,relajarse,0
+to plan,proyectar,0
+to plan,programar,0
+to prepare,preparar,0
+to plan,planificar,0
+to hate,odiar,0
+to snow,nevar,0
+to change,mudar,0
+to improve,mejorar,0
+to kill,matar,0
+to swear,jurar,0
+to begin,iniciar,0
+to matter,importar,0
+to bake,hornear,0
+to fix,fijar,0
+to turn in,entregar,0
+to take a shower,ducharse,0
+to enjoy,disfrutar,0
+to rest,descansar,0
+to have breakfast,desayunar,0
+to develop,desarrollar,0
+to create,crear,0
+to trust in,confiar en,0
+to complete,completar,0
+to place,colocar,0
+to close,cerrar,0
+to have dinner,cenar,0
+to sing,cantar,0
+to kiss,besar,0
+to find out,averiguar,0
+to support,apoyar,0
+to encourage,animar,0
+to threaten,amenazar,0
+to rent,alquilar,0
+to adore,adorar,0
+to cuddle,acurrucar,0
+to camp,acampar,0
+to surprise,sorprender,0
+to use to,soler,0
+to move,mover,0
+to dare,atreverse,0
+to turn up,aparecer,0
+to serve,servir,0
+to die,morir,0
+to vote,votar,0
+to say hello to,saludar,0
+to jump,saltar,0
+to remember,recordar,0
+to worry,preocupar,0
+to practice,practicar,0
+to sting,picar,0
+to fish,pescar,0
+to comb,peinar,0
+to stop,parar,0
+to forget,olvidar,0
+to bother,molestar,0
+to cry,llorar,0
+to fill,llenar,0
+to retire,jubilarse,0
+to interest,interesar,0
+to put away,guardar,0
+to record,grabar,0
+to turn,girar,0
+to spend,gastar,0
+to train,entrenar,0
+to draw,dibujar,0
+to want,desear,0
+to marry,casar,0
+to change,cambiar,0
+to have lunch,almorzar,0
+to cheer up,alegrar,0
+to pet,acariciar,0
+to break,romper,0
+to seem,parecer,0
+to be born,nacer,0
+to grow,crecer,0
+to follow,seguir,0
+to happen,ocurrir,0
+to build,construir,0
+to attend,asistir,0
+to open,abrir,0
+to swim,nadar,0
+to ride,montar,0
+to shout,gritar,0
+to win,ganar,0
+to ski,esquiar,0
+to listen to,escuchar,0
+to enter,entrar,0
+to love,encantar,0
+to cut,cortar,0
+to brush,cepillar,0
+to fix,arreglar,0
+to walk,andar,0
+to sell,vender,0
+to bring,traer,0
+to lose,perder,0
+to fall,caer,0
+to wear,vestir,0
+to go up,subir,0
+to laugh,reír,0
+to prefer,preferir,0
+to lead,conducir,0
+to fly,volar,0
+to be left,quedar,0
+to show,mostrar,0
+to throw,echar,0
+to leave,dejar,0
+to take care of,cuidar,0
+to put to bed,acostar,0
+to rain,llover,0
+to read,leer,0
+to run,correr,0
+to introduce,presentar,0
+to paint,pintar,0
+to look at,mirar,0
+to fight,luchar,0
+to arrive,llegar,0
+to raise,levantar,0
+to find,encontrar,0
+to start,empezar,0
+to love,amar,0
+to understand,entender,0
+to owe,deber,0
+to drink,beber,0
+to live,vivir,0
+to feel,sentir,0
+to visit,visitar,0
+to ask,preguntar,0
+to think,pensar,0
+to pass,pasar,0
+to order,mandar,0
+to clean,limpiar,0
+to wake up,despertar,0
+to question,cuestionar,0
+to start,comenzar,0
+to write,escribir,0
+to turn into,convertir,0
+to wash,lavar,0
+to study,estudiar,0
+to wait for,esperar,0
+to ask for,pedir,0
+to get,conseguir,0
+to use,usar,0
+to sit,sentar,0
+to try,probar,0
+to cook,cocinar,0
+to dance,bailar,0
+to help,ayudar,0
+to contain,contener,0
+to need,necesitar,0
+to take,llevar,0
+to count,contar,0
+to look for,buscar,0
+to eat,comer,0
+to sleep,dormir,0
+to travel,viajar,0
+to have,haber,0
+to learn,aprender,0
+to hear,oír,0
+to take,tomar,0
+to call,llamar,0
+to walk,caminar,0
+to work,trabajar,0
+to know,conocer,0
+to play,jugar,0
+to know,saber,0
+to go out,salir,0
+to describe,describir,0
+to speak,hablar,0
+to like,gustar,0
+to buy,comprar,0
+to give,dar,0
+to want,querer,0
+to say,decir,0
+to have,tener,0
+to do,hacer,0
+to go,ir,0
+to be,estar,0
+to be,ser,0

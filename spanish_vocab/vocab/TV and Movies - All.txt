@@ -1,0 +1,114 @@
+parody,la parodia,0
+satire,la sátira,0
+crude,vulgar,0
+sense of humor,el sentido del humor,0
+humor,el humor,0
+laughter,la risa,0
+to be funny,tener gracia,0
+prank,la diablura,0
+to laugh,reír,0
+TV set,el aparato de televisión,0
+masterpiece,la obra maestra,0
+special effect,el efecto especial,0
+trailer,los avances,0
+soundtrack,la banda sonora,0
+cinematography,la cinematografía,0
+review,la reseña,0
+extra,el/la extra,0
+credits,los créditos,0
+adaptation,la adaptación,0
+epic,la película épica,0
+cartoon,la película de dibujos animados,0
+animated,animado,0
+screenwriter,el/la guionista,0
+screen,la pantalla,0
+movie star,la estrella de cine,0
+cast,el elenco,0
+documentary,el documental,0
+action movie,película de acción,0
+costume,el disfraz,0
+censor,el censor,0
+censorship,la censura,0
+still,el fotograma,0
+frame,el frame,0
+scary movie,la película de miedo,0
+producer,el productor,0
+to edit,montar,0
+plot,la trama,0
+pilot,el programa piloto,0
+media,medios de comunicación,0
+take,la toma,0
+shot,la toma,0
+role,el papel,0
+short,el corto,0
+picture,la imagen,0
+to watch a movie,ver una película,0
+to watch TV,ver la tele,0
+substitute,el/la suplente,0
+double,el/la doble,0
+advertisement,el anuncio,0
+ad,la cuña,0
+commercial,el spot,0
+talk show,el talk show,0
+quiz show,el concurso de televisión,0
+slot,el espacio,0
+newsreader,el locutor,0
+presenter,el conductor,0
+episode,el episodio,0
+to be set,situarse,0
+TV show,la serie de televisión,0
+subtitle,el subtítulo,0
+dubbed,doblado,0
+to dub,doblar,0
+host,el animador,0
+acting,la actuación,0
+to film,filmar,0
+director,el director,0
+image,la imagen,0
+showing,la proyección,0
+set,el set,0
+scene,la escena,0
+genre,el género,0
+view,la reproducción,0
+star,la estrella,0
+game show,el programa de concursos,0
+musical,el musical,0
+soap opera,la telenovela,0
+animation,la película de animación,0
+western,el wéstern,0
+thriller,el thriller,0
+science fiction,la ciencia ficción,0
+romance,el romance,0
+biography,la biografía,0
+story,el relato,0
+mystery,la película de misterio,0
+crime,policiaco,0
+comedy,el humorismo,0
+action,la acción,0
+drama,el drama,0
+station,la emisora,0
+channel,la cadena,0
+broadcast,la retransmisión,0
+broadcasting,la difusión,0
+fan,el/la fan,0
+seat,la butaca,0
+ticket,el ticket,0
+poster,el cartel,0
+short film,el cortometraje,0
+Harry Potter,Harry Potter,0
+news,las noticias,0
+show,el show,0
+to watch,ver,0
+actress,la actriz,0
+actor,el actor,0
+part,el papel,0
+main character,el personaje principal,0
+antagonist,el/la antagonista,0
+protagonist,el/la protagonista,0
+character,el carácter,0
+season,la temporada,0
+series,la serie,0
+program,el programa,0
+movie theater,el cinema,0
+TV,la TV,0
+movie,la película,0

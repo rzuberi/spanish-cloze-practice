@@ -1,0 +1,55 @@
+blue,azul,0
+gray,gris,0
+sapphire,el azul zafiro,0
+salmon,el color salmón,0
+ruby,el rojo rubí,0
+emerald,esmeralda,0
+champagne,el color champaña,0
+peach,el color durazno,0
+mauve,el malva,0
+lavender,el lavanda,0
+burgundy,burdeos,0
+teal,verde azulado,0
+plum,el color ciruela,0
+maroon,granate,0
+tan,habano,0
+aquamarine,el color aguamarina,0
+ivory,el color marfil,0
+copper,cobrizo,0
+bronze,de color bronce,0
+silver,plateado,0
+red,rojo,0
+yellow,amarillo,0
+green,verde,0
+black,negro,0
+white,blanco,0
+turquoise,turquesa,0
+dark blue,azul oscuro,0
+light blue,azul claro,0
+beige,beige,0
+dark green,verde oscuro,0
+light green,verde claro,0
+lilac,lila,0
+purple,morado,0
+light brown,el carmelita,0
+light-blue,celeste,0
+navy blue,azul marino,0
+orange,anaranjado,0
+orange,naranja,0
+magenta,el magenta,0
+violet,la violeta,0
+brown,el marrón,0
+cyan,cian,0
+ocher,el ocre,0
+olive,el oliva,0
+pink,el rosa,0
+platinum,platino,0
+gold,el color oro,0
+crimson,carmesí,0
+fuchsia,el fucsia,0
+scarlet,el escarlata,0
+indigo,añil,0
+carmine,el carmín,0
+cream,el color crema,0
+amber,ambarino,0
+khaki,caqui,0

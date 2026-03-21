@@ -1,0 +1,68 @@
+good night,buenas noches,0
+And you?,¿Y usted?,0
+good morning,buen día,0
+What's up?,¿Cómo te va?,0
+perfect,perfecto,0
+I'm doing really well,estoy muy bien,0
+What's up?,¿Qué cuentas?,0
+How's it going?,¿Cómo te va?,0
+What's up?,¿Qué pasa?,0
+long time no see,tanto tiempo sin verte,0
+How's life?,¿Qué tal tu vida?,0
+how was your day,qué tal estuvo tu día,0
+nothing new,nada nuevo,0
+all good,todo bien,0
+it's nice to see you again,me alegro de verlo de nuevo,0
+That's nice. I'm glad to hear that.,Qué bueno. Me alegro mucho.,0
+Everything's great. What about you?,Todo bien. ¿Y tú?,0
+And how are you?,¿Y tú cómo estás?,0
+I'm well,estoy bien,0
+I'm sad,estoy triste,0
+I'm tired,estoy cansado,0
+I feel sick,estoy mal,0
+I'm very well,estoy muy bien,0
+I'm happy,estoy feliz,0
+I'm bored,estoy aburrido,0
+thank you,very well, gracias,muy bien,0
+very busy,muy ocupado,0
+bad,mal,0
+not bad at all,nada mal,0
+the pleasure is mine,el gusto es mío,0
+how was your day,qué tal tu día,0
+where are you from,de dónde es,0
+so-so,así así,0
+to introduce,presentar,0
+I'm from,soy de,0
+excited,emocionado,0
+great,genial,0
+worried,preocupado,0
+frustrated,frustrado,0
+stressed,estresado,0
+not too bad,más o menos,0
+OK,OK,0
+pretty good,bastante bien,0
+How have you been?,¿Cómo has estado?,0
+How is it going?,¿Qué tal?,0
+how are things,cómo está todo,0
+and you,y Ud.,0
+to meet,conocer,0
+it's a pleasure to meet you,es un placer conocerte,0
+to greet,saludar,0
+welcome,bienvenido,0
+nice to meet you,encantado de conocerle,0
+nice to meet you,mucho gusto,0
+what's your name,cómo te llamas,0
+my name is,mi nombre es,0
+my name is,me llamo,0
+what's up,qué cuentas,0
+Hi!,¡Hola!,0
+introduction,la presentación,0
+salutation,la salutación,0
+greetings,la felicitación,0
+greeting,el saludo,0
+good evening,buenas noches,0
+How are you?,¿Cómo estás?,0
+good morning,buenos días,0
+and you,y tú,0
+good afternoon,buenas tardes,0
+Hello!,¡Hola!,0

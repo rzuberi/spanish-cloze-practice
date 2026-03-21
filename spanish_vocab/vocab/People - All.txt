@@ -1,0 +1,413 @@
+development,el desarrollo,0
+Jr.,júnior,0
+phlegm,la flema,0
+alien,el extranjero,0
+pal,el amigazo,0
+mate,el viejo,0
+BFF,el amigo del alma,0
+refugee,refugiado,0
+legacy,el legado,0
+body,el ente,0
+hacker,el/la hacker,0
+Gothic,gótico,0
+hippy,el/la hippy,0
+geek,el/la geek,0
+nerd,el/la nerd,0
+punk,punki,0
+furry,el/la furry,0
+sickly person,el canijo,0
+shrimp,el renacuajo,0
+empathy,la empatía,0
+extrovert,el extrovertido,0
+introvert,el introvertido,0
+crush,el crush,0
+contemporary,coetáneo,0
+muse,la musa,0
+instinct,el instinto,0
+Spaniard,el español,0
+Hispanic,hispano,0
+peasant,el campesino,0
+mission,la misión,0
+weight,el peso,0
+height,la altura,0
+composure,la compostura,0
+reflex,reflejo,0
+lonely,solitario,0
+guide,el/la guía,0
+throng,la muchedumbre,0
+age,la edad,0
+racism,el racismo,0
+client,el cliente,0
+customer,el cliente,0
+intermediate,intermedio,0
+beginner,el/la principiante,0
+old age,la vejez,0
+bald man,el calvo,0
+good-for-nothing,el/la inútil,0
+layabout,el haragán,0
+rascal,el pícaro,0
+network,la red,0
+narrow-minded,estrecho de miras,0
+conservative,conservador,0
+progressive,progresista,0
+temptress,la tentadora,0
+tempter,el tentador,0
+Caucasian,caucásico,0
+convention,la convención,0
+obscurity,la oscuridad,0
+mixed race,raza mixta,0
+honey,bonico,0
+bro,el hermano,0
+curled up,acurrucado,0
+darling,el cariño,0
+cousin,la prima,0
+aunt,la tía,0
+uncle,el tío,0
+inhabitant,el habitante,0
+culture,la cultura,0
+father,el padre,0
+mother,la madre,0
+grandfather,el abuelo,0
+grandmother,la abuela,0
+homeland,la patria,0
+native land,la tierra natal,0
+witness,el/la testigo,0
+saver,el ahorrador,0
+lover,el/la amante,0
+enthusiast,el/la entusiasta,0
+to eliminate,eliminar,0
+to make friends,hacer amigos,0
+pregnant,embarazada,0
+fingerprint,la huella dactilar,0
+coworker,compañero de trabajo,0
+colleague,el/la colega,0
+mourning,el luto,0
+contact,el contacto,0
+vet,el veterinario,0
+bias,el sesgo,0
+to get along with,llevarse bien con,0
+alias,el alias,0
+cuddle,el apapacho,0
+circle,el cenáculo,0
+fantasy,la fantasía,0
+compliment,el cumplido,0
+female,la fémina,0
+male,el varón,0
+tradition,la tradición,0
+false,falso,0
+prejudice,el prejuicio,0
+master,el señor,0
+madwoman,la loca,0
+madman,el trastornado,0
+lunatic,el lunático,0
+companion,el compañero,0
+friendliness,la simpatía,0
+kindness,la amabilidad,0
+troublemaker,el gamberro,0
+fling,el ligue,0
+national,nacional,0
+team,el equipo,0
+conduct,la conducta,0
+idiosyncrasy,la idiosincrasia,0
+skeleton,el esqueleto,0
+independence,la independencia,0
+unfamiliar,desconocido,0
+familiar,familiar,0
+unknown,desconocido,0
+important person,persona importante,0
+to bring up,educar,0
+ally,el aliado,0
+enemy,el enemigo,0
+ancestor,el antepasado,0
+daily life,la vida cotidiana,0
+IQ,el cociente intelectual,0
+individual,el individuo,0
+complainer,el quejoso,0
+bully,el acosador,0
+Mexican-American,el chicano,0
+Chicano,chicano,0
+self-esteem,la autoestima,0
+teenager,el/la adolescente,0
+godchildren,las ahijadas,0
+goddaughter,la ahijada,0
+godson,el ahijado,0
+rude,grosero,0
+warm,cariñoso,0
+friendly,amigo,0
+face to face,cara a cara,0
+kleptomaniac,el cleptómano,0
+member,el/la miembro,0
+respect,el respeto,0
+Arab,el/la árabe,0
+sadist,el/la sadista,0
+cooperation,la cooperación,0
+group,la cuadrilla,0
+gang,la pandilla,0
+bunch,la cuadrilla,0
+power,el poder,0
+humble,humilde,0
+owner,el dueño,0
+boss,el jefe,0
+employee,el empleado,0
+staff,el staff,0
+personnel,el personal,0
+personally,personalmente,0
+open-minded,mente abierta,0
+closed-minded,cerrado,0
+discrimination,la discriminación,0
+lookalike,el/la doble,0
+fraternal twin,el mellizo,0
+identical twin,el gemelo,0
+heritage,la herencia,0
+nickname,el apodo,0
+belief,la creencia,0
+sweetheart,el corazón,0
+saint,el santo,0
+angel,el ángel,0
+legend,el mito,0
+dignitary,el/la notable,0
+heartbreaker,el/la rompecorazones,0
+prizewinner,el premiado,0
+villain,el malo,0
+tough guy,el machito,0
+groom,el novio,0
+bride,la novia,0
+viewers,la teleaudiencia,0
+listeners,el público,0
+readership,el público,0
+fans,la hinchada,0
+audience,la audiencia,0
+public,el público,0
+living,el vivo,0
+little boy,el niñito,0
+little girl,la niñita,0
+kid,el chico,0
+ethnicity,la etnicidad,0
+ethnic,étnico,0
+mate,el amigo,0
+buddy,el compadre,0
+mentor,el mentor,0
+harmony,la armonía,0
+settlement,el poblado,0
+population,la población,0
+settled,arraigado,0
+based,radicado,0
+competition,la competencia,0
+rival,rival,0
+feeding,la alimentación,0
+patience,la paciencia,0
+LGBT,LGBT,0
+weakling,el debilucho,0
+native,el/la indígena,0
+to grow,crecer,0
+to meet,conocer,0
+honor,el honor,0
+loyalty,la lealtad,0
+immigration,la inmigración,0
+resident,el/la residente,0
+citizen,el ciudadano,0
+young adult,joven adulto,0
+young person,el/la joven,0
+youth,el/la joven,0
+famous person,el famoso,0
+brunette,la morena,0
+blonde,el rubio,0
+ginger,pelirrojo,0
+redhead,el pelirrojo,0
+right-handed,diestro,0
+left-handed,zurdo,0
+wellness,el bienestar,0
+ace,el ace,0
+position,el puesto,0
+friendship,la amistad,0
+reality,la realidad,0
+luck,la suerte,0
+nature,la índole,0
+agreement,el acuerdo,0
+to exist,existir,0
+mind,la mente,0
+Latin American,latinoamericano,0
+relative,el/la familiar,0
+blood,la sangre,0
+ability,la habilidad,0
+minor,el/la menor,0
+Black Lives Matter,Las vidas negras importan,0
+jealousy,los celos,0
+soul,el alma,0
+lifestyle,el estilo de vida,0
+acquaintance,el conocido,0
+stranger,el forastero,0
+idiot,el/la idiota,0
+genius,el genio,0
+lawyer,el abogado,0
+judge,el juez,0
+dead person,el muerto,0
+destiny,el destino,0
+freedom,la libertad,0
+swindler,el estafador,0
+cheat,tramposo,0
+sociable,sociable,0
+Latin American,el latino,0
+African American,afroamericano,0
+leadership,el liderazgo,0
+leader,el/la líder,0
+spouse,el/la cónyuge,0
+partner,la pareja,0
+girlfriend,la novia,0
+boyfriend,el novio,0
+marriage,el matrimonio,0
+love,el amor,0
+affair,el affaire,0
+cougar,la rompecunas,0
+society,la sociedad,0
+to raise,criar,0
+crowd,la muchedumbre,0
+mass,la masa,0
+group,el grupo,0
+best friend,mejor amigo,0
+fan,el aficionado,0
+amateur,amateur,0
+pro,el/la pro,0
+growth,el crecimiento,0
+guest,el invitado,0
+host,el anfitrión,0
+sex,el sexo,0
+chick,la chai,0
+guy,el tipo,0
+confidence,la confianza,0
+honesty,la honestidad,0
+adult,el adulto,0
+reunion,el reencuentro,0
+equality,la igualdad,0
+inequality,la desigualdad,0
+marital status,el estado civil,0
+life stage,la etapa de la vida,0
+worker,el trabajador,0
+wake,el velatorio,0
+background,el origen,0
+to dislike,malquerer,0
+to like,caer bien,0
+reaction,la reacción,0
+diversity,la diversidad,0
+mouth,la boca,0
+dream,el sueño,0
+memory,el recuerdo,0
+birth,el nacimiento,0
+personality,la personalidad,0
+to rescue,rescatar,0
+to kill,matar,0
+director,el director,0
+pianist,el/la pianista,0
+bass player,el/la bajista,0
+guitarist,el/la guitarrista,0
+drummer,el baterista,0
+vocalist,la voz,0
+noble,noble,0
+title,el título,0
+energy,la energía,0
+interests,intereses,0
+everyone,cada cual,0
+anyone,cualquier persona,0
+someone,alguien,0
+no one,nadie,0
+everybody,todo el mundo,0
+anybody,cualquier persona,0
+somebody,alguien,0
+nobody,nadie,0
+nobody,el quídam,0
+star,la estrella,0
+infancy,la niñez,0
+liar,el embustero,0
+millionaire,el millonario,0
+beggar,el mendigo,0
+rich man,el rico,0
+poor person,el/la pobre,0
+personal relations,las relaciones personales,0
+values,los valores,0
+heroine,la heroína,0
+hero,el héroe,0
+businessman,el empresario,0
+traveler,el viajero,0
+tourist,el/la turista,0
+drama,el drama,0
+to inhabit,habitar,0
+little one,pequeñín,0
+heritage,el patrimonio,0
+care,el cuidado,0
+birthday,el cumpleaños,0
+nurse,el enfermero,0
+doctor,el doctor,0
+emigrant,el/la emigrante,0
+immigrant,el/la inmigrante,0
+native,el nativo,0
+foreigner,el extranjero,0
+tribe,la tribu,0
+hunk,el mango,0
+babe,la mamacita,0
+neighbor,el vecino,0
+expert,el experto,0
+upbringing,la crianza,0
+manners,los modales,0
+sense,el juicio,0
+Ms.,Sra.,0
+Mrs.,Sra.,0
+Ms.,Dña.,0
+Mr.,D.,0
+Mr.,Sr.,0
+Miss,Srta.,0
+celebrity,la celebridad,0
+custom,la costumbre,0
+character,el carácter,0
+character,el personaje,0
+prince,el príncipe,0
+princess,la princesa,0
+queen,la reina,0
+king,el rey,0
+knight,el caballero,0
+gentleman,el caballero,0
+lady,la dama,0
+fool,el bobo,0
+ugliness,la fealdad,0
+beauty,la belleza,0
+race,la raza,0
+childhood,la infancia,0
+alive,vivo,0
+senior,la persona de la tercera edad,0
+single,soltero,0
+separated,separado,0
+divorced,divorciado,0
+married,casado,0
+humanity,la humanidad,0
+born,el nacido,0
+to die,morirse,0
+world,el mundo,0
+people,la gente,0
+to be born,nacer,0
+children,los hijos,0
+identity,la identidad,0
+surname,el apellido,0
+name,el nombre,0
+community,la comunidad,0
+gender,el género,0
+president,el presidente,0
+prime minister,el primer ministro,0
+governor,el gobernador,0
+mayor,la alcaldesa,0
+relationship,la relación,0
+student,el/la estudiante,0
+husband,el marido,0
+wife,la esposa,0
+life,la vida,0
+person,la persona,0
+newborn,recién nacido,0
+toddler,niño pequeño,0
+baby,el/la bebé,0
+friend,el amigo,0
+teacher,el profesor,0
+elderly woman,la anciana,0
+elderly man,el anciano,0
+girl,la chica,0
+boy,el muchacho,0
+child,el niño,0
+woman,la mujer,0
+man,el hombre,0

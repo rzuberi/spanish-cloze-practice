@@ -1,0 +1,241 @@
+silver,la plata,0
+gold,el oro,0
+coat,el abrigo,0
+stretchy,elástico,0
+trendy,moderno,0
+lined,forrado,0
+pleated,plisado,0
+in,in,0
+provocative,provocador,0
+brand,la marca,0
+to knit,tejer,0
+sophisticated,sofisticado,0
+chic,chic,0
+long,largo,0
+shorts,el short,0
+flared,acampanado,0
+plaid,la tela escocesa,0
+printed,estampado,0
+fleece,el forro polar,0
+to clean,limpiar,0
+to iron,planchar,0
+well-dressed,puesto,0
+loafer,el mocasín,0
+galosh,el chanclo,0
+espadrille,la alpargata,0
+clog,el zueco,0
+ballet flat,la baleta,0
+ankle boot,el botín,0
+cowboy boot,la campera,0
+blouse,la blusa,0
+bathrobe,el albornoz,0
+backpack,la mochila,0
+brooch,el prendedor,0
+cowboy hat,el tejano,0
+straw hat,la sarita,0
+beret,la boina,0
+pocket watch,el reloj de bolsillo,0
+cape,la capa,0
+swimming trunks,la calzoneta,0
+button-down shirt,la camisa,0
+sunglasses,las gafas de sol,0
+headband,la diadema,0
+polo shirt,el niki,0
+leggings,las mallas,0
+slipper,la zapatilla,0
+robe,la bata,0
+nightgown,el camisón,0
+swimsuit,el bañador,0
+undershirt,la camiseta,0
+tank top,la camiseta de tirantes,0
+hoodie,el hoodie,0
+silk,la seda,0
+nylon,el nylon,0
+pajamas,el/la pijama,0
+casual,casual,0
+fashionable,en boga,0
+stylish,estiloso,0
+untidy,desordenado,0
+wrinkled,arrugado,0
+tailored,a la medida,0
+striped,rayado,0
+checked,de cuadros,0
+floral,floral,0
+polka-dot,de lunares,0
+fitted,entallado,0
+slovenly,dejado,0
+hip,en onda,0
+to go with,combinar,0
+to go together,casar,0
+to clash,chillar,0
+to get wrinkled,arrugarse,0
+to try on,probarse,0
+fold,el plegado,0
+hang,la caída,0
+seat,la culera,0
+train,la cola,0
+tear,la raja,0
+casual,informal,0
+elegant,elegante,0
+cleaners,la tintorería,0
+measurement,la medida,0
+sleeveless,sin mangas,0
+sleeve,la manga,0
+to dry,secar,0
+to wash,lavar,0
+huipil,el huipil,0
+to wear,usar,0
+canvas shoe,la playera,0
+lace edging,la puntilla,0
+style,la línea,0
+edging,la cenefa,0
+kerchief,el paliacate,0
+flip-flop,la chancla,0
+sandal,la sandalia,0
+sewing,la costura,0
+bow,el lazo,0
+sheer,transparente,0
+lingerie,la lencería,0
+bra,el sujetador,0
+underwear,la ropa interior,0
+thong,el/la tanga,0
+boxers,los bóxers,0
+colorful,colorido,0
+pattern,el patrón,0
+polka dot,el lunar,0
+stripes,el rayado,0
+textile,el textil,0
+apron,el delantal,0
+smock,el mandilón,0
+smock,el babi,0
+pinafore,el pichi,0
+to shrink,encogerse,0
+pocket,el bolsillo,0
+design,el modelo,0
+uncomfortable,incómodo,0
+pump,el zapato de salón,0
+onesie,el pijama mono,0
+bonnet,la capota,0
+top hat,la chistera,0
+helmet,el casco,0
+parka,la parka,0
+poncho,el poncho,0
+wrap,el chal,0
+to make buttonholes on,ojalar,0
+stain,la mancha,0
+disguise,el disfraz,0
+haute couture,la alta costura,0
+to get ready,arreglarse,0
+suspenders,los tirantes,0
+belt,el cinturón,0
+gaiter,la polaina,0
+scarf,la bufanda,0
+beanie,la gorrita,0
+too small,demasiado pequeño,0
+too big,demasiado grande,0
+to fit,caber,0
+mitten,la manopla,0
+glove,el guante,0
+denim,la tela vaquera,0
+to put on,ponerse,0
+sneaker,la zapatilla,0
+tennis shoe,el zapato de tenis,0
+earring,la pantalla,0
+baseball cap,el sombrero de béisbol,0
+fascinator,el tocado,0
+headdress,la toca,0
+panties,la braga,0
+uniform,el uniforme,0
+large,grande,0
+medium,mediano,0
+diamond,el diamante,0
+fur,la piel,0
+short-sleeved shirt,camisa de mangas cortas,0
+long-sleeved shirt,la camisa de manga larga,0
+accessories,los complementos,0
+comfortable,confortable,0
+top,el top,0
+overcoat,el sobretodo,0
+boot,la bota,0
+raincoat,el impermeable,0
+jacket,la chaqueta,0
+bag,el bolso,0
+velvet,el terciopelo,0
+Velcro,el velcro,0
+suede,el ante,0
+leather,el cuero,0
+size,la talla,0
+fashion,la moda,0
+run,la carrera,0
+jumpsuit,el mono,0
+overalls,el mameluco,0
+wardrobe,el ropero,0
+costume,el disfraz,0
+acrylic,acrílico,0
+angora,la angora,0
+polyester,el poliéster,0
+linen,el lino,0
+cotton,el algodón,0
+wool,la lana,0
+texture,la textura,0
+ring,el anillo,0
+bracelet,la pulsera,0
+earring,el pendiente,0
+loose,ancho,0
+fabric,la tela,0
+buttons,la botonadura,0
+zipper,la cremallera,0
+zipper,la bragueta,0
+to break,romper,0
+to rip,rajar,0
+rip,el desgarrón,0
+glasses,las gafas,0
+to take off,quitarse,0
+to hem,hacer el dobladillo,0
+to wear,llevar,0
+tight,ajustado,0
+baggy,holgado,0
+small,chico,0
+big,grande,0
+wedge,la cuña,0
+high heels,los tacones,0
+hat,el gorro,0
+hat,el sombrero,0
+tights,leotardos,0
+sock,el calcetín,0
+outfit,el conjunto,0
+skirt,la falda,0
+dress,el vestido,0
+gown,el vestido largo,0
+to get dressed,vestirse,0
+purse,la bolsa,0
+wallet,la cartera,0
+gem,la gema,0
+bikini,el bikini,0
+bathing suit,el traje de baño,0
+tracksuit,el chándal,0
+sweatpants,el pantalón de chándal,0
+shirt,la camisa,0
+necktie,la corbata,0
+bow tie,la pajarita,0
+tie,la corbata,0
+cummerbund,la faja,0
+waistcoat,el chaleco,0
+vest,el chaleco,0
+tuxedo,el smoking,0
+suit,el traje,0
+dress shirt,la camisa de vestir,0
+T-shirt,la camiseta,0
+sweatshirt,la sudadera,0
+shorts,pantalones cortos,0
+jeans,los vaqueros,0
+pants,el pantalón,0
+necklace,el collar,0
+pantyhose,las medias,0
+sweater,el jersey,0
+shoe,el zapato,0
+gemstone,la piedra semipreciosa,0
+jewelry,las alhajas,0
+cloth,la tela,0
+clothes,la vestimenta,0
+clothing,la ropa,0

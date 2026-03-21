@@ -1,0 +1,30 @@
+journalist,el/la periodista,0
+ads,los anuncios publicitarios,0
+circulation,la circulación,0
+witness,el/la testigo,0
+to verify,verificar,0
+coverage,la cobertura,0
+celebrity magazines,la prensa rosa,0
+tabloid,el tabloide,0
+online,online,0
+broadcast,la retransmisión,0
+death notice,la esquela,0
+obituary,la necrológica,0
+editorial,el editorial,0
+statement,el atestado,0
+heading,el enunciado,0
+breaking news,las noticias de última hora,0
+article,el artículo,0
+meteorologist,el meteorólogo,0
+presenter,la presentadora,0
+reporter,el reportero,0
+reportedly,según se dice,0
+daily,diario,0
+magazine,la revista,0
+newspaper,el periódico,0
+media,medios de comunicación,0
+position,la posición,0
+source,la fuente,0
+interview,la entrevista,0
+news,las noticias,0
+news,la noticia,0

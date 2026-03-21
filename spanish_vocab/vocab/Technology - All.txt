@@ -1,0 +1,173 @@
+what,q,0
+what,k,0
+xoxo,tqm,0
+too,tb,0
+database,la base de datos,0
+table,la tabla,0
+programming,la programación,0
+search,la búsqueda,0
+query,la consulta,0
+script,el script,0
+asterisk,el asterisco,0
+semicolon,el punto y coma,0
+quotation marks,las comillas,0
+parenthesis,el paréntesis,0
+integer,el número entero,0
+decimal,decimal,0
+loop,el bucle,0
+hyphen,el guion,0
+underscore,el guion bajo,0
+parameter,el parámetro,0
+data,la información,0
+data,los datos,0
+syntax,la sintaxis,0
+feature,la prestación,0
+to log off,cerrar sesión,0
+to log off,desconectarse,0
+to go online,entrar en línea,0
+to attach,adjuntar,0
+to open,abrir,0
+to close,cancelar,0
+to enter,introducir,0
+to press,pulsar,0
+to press,oprimir,0
+to scroll,desplazar,0
+to click,cliquear,0
+to click on,hacer clic en,0
+to install,instalar,0
+to load,cargarse,0
+to connect,conectar,0
+to link,enlazar,0
+simulation,la simulación,0
+application,app,0
+to scan,escanear,0
+to print,imprimir,0
+command,la instrucción,0
+to enter,ingresar,0
+headphones,los auriculares,0
+to format,formatear,0
+computer science,la computación,0
+to program,programar,0
+program,el programa,0
+to refresh,actualizar,0
+speaker,el altavoz,0
+to charge,cargar,0
+user,el usuario,0
+portal,el portal,0
+to pirate,piratear,0
+piracy,la piratería,0
+SEO,SEO,0
+Web,el/la web,0
+device,el aparato,0
+video,el video,0
+RAM,RAM,0
+PIN,el pin,0
+software,el software,0
+hardware,el hardware,0
+microchip,el microchip,0
+chip,el chip,0
+to chat,chatear,0
+apparatus,el aparato,0
+machine,la máquina,0
+device,el dispositivo,0
+process,el procedimiento,0
+system,el sistema,0
+hacker,el/la hacker,0
+to hack,hackear,0
+virus,el virus,0
+bug,el bug,0
+to connect,hacer conexión,0
+to search for,buscar,0
+to Google,guglear,0
+to Google,consultar en Google,0
+streaming,el streaming,0
+video call,la videollamada,0
+link,el enlace,0
+battery,la pila,0
+battery,la batería,0
+to cut,cortar,0
+to delete,borrar,0
+to paste,pegar,0
+to save,guardar,0
+to copy,copiar,0
+environment,el entorno,0
+port,el puerto,0
+input,el input,0
+cookie,la cookie,0
+hosting,el hosting,0
+username,el nombre de usuario,0
+password,la contraseña,0
+virtual,virtual,0
+screen,la pantalla,0
+website,el sitio web,0
+webpage,la página web,0
+to WhatsApp,hablar por WhatsApp,0
+WhatsApp,WhatsApp,0
+offline,offline,0
+online,online,0
+computer expert,el informático,0
+to cancel,cancelar,0
+attached,anexo,0
+PC,PC,0
+desktop,el escritorio,0
+desktop,la computador de escritorio,0
+to surf,navegar por,0
+keywords,las palabras clave,0
+hashtag,el hashtag,0
+to tag,etiquetar,0
+to key in,picar,0
+hit,el jit,0
+FYI,para tu información,0
+ASAP,lo antes posible,0
+mode,el modo,0
+to hang up,colgar el teléfono,0
+to pick up,descolgar,0
+photo,la foto,0
+status,el estado,0
+message,la razón,0
+message,el recado,0
+keyboard,el teclado,0
+mouse,el ratón,0
+to restart,reinicializar,0
+to turn off,apagar,0
+to turn on,encender,0
+to call,llamar,0
+communication,la comunicación,0
+profile,el perfil,0
+like,el me gusta,0
+follower,el seguidor,0
+smartphone,el smartphone,0
+social network,la red social,0
+to stream,ver en streaming,0
+to download,descargar,0
+to upload,subir,0
+to share,compartir,0
+Wi-Fi,el/la wifi,0
+wireless,wireless,0
+cable,el cable,0
+radio,el radio,0
+programmer,el programador,0
+cloud,en la nube,0
+server,el servidor,0
+console,la consola,0
+video game,el videojuego,0
+to answer,contestar,0
+game,el juego,0
+television,la televisión,0
+network,la red,0
+SMS,el SMS,0
+text message,el mensaje de texto,0
+email address,la dirección de correo electrónico,0
+to email,enviar por correo electrónico,0
+to log out,cerrar sesión,0
+log in,inicia sesión,0
+friend,el amigo,0
+to follow,seguir,0
+cellphone,el celular,0
+cellphone,el móvil,0
+tablet,la tableta,0
+laptop,el/la portátil,0
+laptop,la laptop,0
+computer,el ordenador,0
+Internet,el/la Internet,0
+technology,la tecnología,0

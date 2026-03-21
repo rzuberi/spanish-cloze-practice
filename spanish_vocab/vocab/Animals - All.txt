@@ -1,0 +1,272 @@
+oyster,la ostra,0
+bull,el toro,0
+groundhog,la marmota de América,0
+shrew,la musaraña,0
+gerbil,el jerbo,0
+baboon,el babuino,0
+earwig,la tijereta,0
+ladybird,la mariquita,0
+crow,la corneja,0
+plankton,el plancton,0
+mahi-mahi,el dorado,0
+krill,el kril,0
+flounder,la acedia,0
+clown fish,el pez payaso,0
+narwhal,el narval,0
+hermit crab,el ermitaño,0
+conch,la caracola,0
+newt,el tritón,0
+slug,la babosa,0
+black widow,la viuda negra,0
+lioness,la leona,0
+puma,el puma,0
+canine,canino,0
+feline,el felino,0
+bobcat,el gato montés,0
+ocelot,el ocelote,0
+panther,la pantera,0
+tiger,el tigre,0
+diurnal,diurno,0
+carnivore,el/la carnívoro,0
+omnivore,el omnívoro,0
+herbivore,el herbívoro,0
+carnivorous,carnívoro,0
+nocturnal,nocturno,0
+wild,salvaje,0
+domesticated,domesticado,0
+tame,manso,0
+gentle,apacible,0
+docile,dócil,0
+ferocious,fiero,0
+stubborn,terco,0
+rabid,rabioso,0
+affectionate,afectuoso,0
+fluffy,esponjoso,0
+fierce,feroz,0
+loving,amoroso,0
+terrifying,aterrador,0
+cute,mono,0
+hare,la liebre,0
+chipmunk,la ardilla listada,0
+ferret,el hurón,0
+weasel,la comadreja,0
+zebra,la cebra,0
+mink,el visón,0
+raccoon,el mapache,0
+mole,el topo,0
+gazelle,la gacela,0
+stag,el venado,0
+sloth,el perezoso,0
+badger,el tejón,0
+antelope,el antílope,0
+beaver,el castor,0
+lynx,el lince,0
+snow leopard,la onza,0
+sea turtle,la tortuga de mar,0
+anaconda,la anaconda,0
+cobra,la cobra,0
+python,la pitón,0
+rattlesnake,el crótalo,0
+iguana,la iguana,0
+caiman,el caimán,0
+salamander,la salamandra,0
+leech,la sanguijuela,0
+snail,el caracol,0
+moth,la polilla,0
+lightning bug,la luciérnaga,0
+mite,el ácaro,0
+locust,la langosta,0
+weevil,el gorgojo,0
+aphid,el pulgón,0
+louse,el piojo,0
+beetle,el escarabajo,0
+flea,la pulga,0
+cockroach,la cucaracha,0
+praying mantis,la mantis religiosa,0
+ladybug,la mariquita,0
+dragonfly,la libélula,0
+cricket,el grillo,0
+grasshopper,el saltamontes,0
+grasshopper,el chapulín,0
+bedbug,el/la chinche,0
+cicada,la chicharra,0
+tarantula,la tarántula,0
+insect,el insecto,0
+bug,el bicho,0
+centipede,el ciempiés,0
+tick,la garrapata,0
+mosquito,el mosquito,0
+fly,la mosca,0
+caterpillar,la oruga,0
+bumblebee,el abejorro,0
+firefly,la luciérnaga,0
+scorpion,el escorpión,0
+scorpion,el alacrán,0
+piglet,el lechón,0
+alpaca,la alpaca,0
+llama,la llama,0
+kid,el chivo,0
+duckling,el patito,0
+hen,la gallina,0
+filly,la potra,0
+mule,el mulo,0
+vulture,el buitre,0
+turkey,el pavo,0
+toucan,el tucán,0
+falcon,el halcón,0
+stork,la cigüeña,0
+sparrow,el gorrión,0
+peacock,el pavo real,0
+ostrich,el avestruz,0
+robin,el petirrojo,0
+cockatoo,la cacatúa,0
+albatross,el albatros,0
+cardinal,el cardenal,0
+goose,el ganso,0
+flamingo,el flamenco,0
+trout,la trucha,0
+catfish,el bagre,0
+herring,el arenque,0
+carp,la carpa,0
+salmon,el salmón,0
+piranha,la piraña,0
+sea bass,la lubina,0
+swordfish,el emperador,0
+shrimp,la gamba,0
+shrimp,el camarón,0
+sponge,la esponja,0
+puffer fish,el pez globo,0
+sawfish,el pez sierra,0
+mackerel,la caballa,0
+whale calf,el ballenato,0
+eel,la anguila,0
+manatee,el manatí,0
+cod,el bacalao,0
+barracuda,la barracuda,0
+anchovy,el boquerón,0
+seahorse,el caballo de mar,0
+cuttlefish,la sepia,0
+clam,la almeja,0
+crab,el cangrejo,0
+coral,el coral,0
+mussel,el mejillón,0
+seagull,la gaviota,0
+pelican,el pelícano,0
+puffin,el frailecillo,0
+otter,la nutria,0
+starfish,la estrella de mar,0
+lobster,el bogavante,0
+scallop,la vieira,0
+jellyfish,la medusa,0
+killer whale,la orca,0
+squid,el calamar,0
+bark,el ladrido,0
+breed,la raza,0
+mew,el miau,0
+exercise,el ejercicio,0
+to swoop down,abatirse,0
+to take out for a walk,sacar a pasear,0
+to feed,dar de comer,0
+to pet,acariciar,0
+to growl,gruñir,0
+to mate,aparear,0
+to castrate,capar,0
+to purr,ronronear,0
+to neuter,castrar,0
+to spay,esterilizar,0
+to sterilize,esterilizar,0
+to tame,domar,0
+to bite,morder,0
+to sting,picar,0
+to gallop,galopar,0
+to fly,volar,0
+to swoop down on,abalanzarse sobre,0
+perch,la percha,0
+to scratch,arañar,0
+to scratch,rascar,0
+rhinoceros,el rinoceronte,0
+toad,el sapo,0
+budgie,el periquito,0
+goldfish,el pez dorado,0
+veterinarian,el veterinario,0
+toy,el juguete,0
+leash,la correa,0
+collar,el collar,0
+litter box,la caja de arena,0
+brush,el cepillo,0
+cage,la jaula,0
+doghouse,la casa del perro,0
+tortoise,la tortuga,0
+turtle,la tortuga,0
+bee,la abeja,0
+wasp,la avispa,0
+butterfly,la mariposa,0
+spider,la araña,0
+worm,la lombriz,0
+worm,el gusano,0
+dolphin,el/la delfín,0
+crocodile,el cocodrilo,0
+frog,la rana,0
+elephant,el elefante,0
+camel,el camello,0
+giraffe,la jirafa,0
+hippopotamus,el hipopótamo,0
+bat,el murciélago,0
+duck,el pato,0
+parrot,el loro,0
+penguin,el pingüino,0
+swan,el cisne,0
+dog,el can,0
+cat,el gato,0
+dog,el perro,0
+rabbit,el conejo,0
+squirrel,la ardilla,0
+pig,el cerdo,0
+bunny,el conejito,0
+guinea pig,el cuy,0
+guinea pig,el/la cobaya,0
+hamster,el hámster,0
+rat,la rata,0
+mouse,el ratón,0
+snake,la culebra,0
+snake,la serpiente,0
+viper,la víbora,0
+whale,la ballena,0
+shark,el tiburón,0
+fish,el pez,0
+gorilla,el/la gorila,0
+monkey,el mono,0
+fox,el zorro,0
+bear,el oso,0
+deer,el venado,0
+polar bear,el oso polar,0
+wolf,el lobo,0
+sea lion,el león marino,0
+seal,la foca,0
+lion,el león,0
+hyena,la hiena,0
+hummingbird,el colibrí,0
+eagle,el águila,0
+owl,el búho,0
+donkey,el burro,0
+ram,el carnero,0
+lamb,el cordero,0
+sheep,el borrego,0
+sheep,la oveja,0
+goat,la cabra,0
+horse,el caballo,0
+cow,la vaca,0
+ox,el buey,0
+octopus,el pulpo,0
+manta ray,la mantarraya,0
+bison,el bisonte,0
+sea urchin,el erizo de mar,0
+hedgehog,el erizo,0
+capybara,la capibara,0
+anteater,el oso hormiguero,0
+cheetah,el guepardo,0
+leopard,el leopardo,0
+jaguar,el jaguar,0
+coyote,el coyote,0
+opossum,la zarigüeya,0
+bird,el pájaro,0

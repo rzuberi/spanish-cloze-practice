@@ -1,0 +1,86 @@
+moisturizer,la crema hidratante,0
+concealer,el corrector,0
+foundation,la base,0
+brush,la brocha,0
+lip gloss,el brillo de labios,0
+lip liner,el delineador,0
+meditation,la meditación,0
+mindfulness,la concienciación,0
+wellness,el bienestar,0
+massage,el masaje,0
+relaxation,la relajación,0
+self-care,el autocuidado,0
+to treat oneself to,darse el gusto,0
+rest,el descanso,0
+yoga,el yoga,0
+sleep,el sueño,0
+high chair,la trona,0
+walker,el andador,0
+walker,la andadera,0
+baby carriage,el cochecito,0
+bottle,la mamadera,0
+overalls,el mameluco,0
+bib,el babero,0
+rattle,la sonaja,0
+bottle,el biberón,0
+cradle,la cuna,0
+thermometer,el termómetro,0
+onesie,el osito,0
+onesie,el pelele,0
+sock,el calcetín,0
+blanket,la manta,0
+wrap,el rebozo,0
+stroller,la sillita,0
+stroller,la carriola,0
+eye shadow,la sombra de ojos,0
+makeup,el maquillaje,0
+beauty product,el cosmético,0
+shave,el afeitado,0
+haircut,corte de pelo,0
+face mask,la mascarilla,0
+curler,el rulo,0
+curler,el tubo,0
+to get one's hair done,peinarse,0
+hair straightener,la plancha,0
+to comb one's hair,peinarse,0
+to take care of oneself,cuidarse,0
+perfume,el perfume,0
+Kleenex,el kleenex,0
+healthy lifestyle,estilo de vida saludable,0
+diaper,el pañal,0
+shower,la ducha,0
+wash your hands,lávate las manos,0
+well-being,el bienestar,0
+health,la salud,0
+to take a bath,bañarse,0
+personal hygiene,el aseo personal,0
+toiletries,el útiles de aseo,0
+nail clippers,el cortaúñas,0
+nail polish remover,el quitaesmalte,0
+nail file,la lima,0
+nail polish,el esmalte de uñas,0
+shower gel,el gel de ducha,0
+eyeliner,el delineador,0
+tweezers,las pinzas,0
+sunblock,la crema protectora,0
+toner,la loción tonificante,0
+blush,el colorete,0
+to floss,limpiarse con hilo dental,0
+face powder,el polvo,0
+comb,el peine,0
+lotion,la loción,0
+conditioner,el acondicionador,0
+headband,la diadema,0
+deodorant,desodorante,0
+cologne,la colonia,0
+soap,el jabón,0
+mascara,el rímel,0
+shampoo,el shampoo,0
+brush,el cepillo,0
+lipstick,la barra de labios,0
+lipstick,el pintalabios,0
+toothpaste,el dentífrico,0
+toothpaste,la pasta de dientes,0
+razor,la rasuradora,0
+razor,la maquinilla,0
+toothbrush,el cepillo de dientes,0

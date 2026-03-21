@@ -1,0 +1,22 @@
+arrow,la flecha,0
+cross,la cruz,0
+decagon,el decágono,0
+octagon,el octógono,0
+octagon,el octágono,0
+hexagon,el hexágono,0
+rhombus,el rombo,0
+trapezium,el trapecio,0
+trapezium,el trapezoide,0
+triangle,el triángulo,0
+star,la estrella,0
+oval,oval,0
+circle,el redondel,0
+circle,el círculo,0
+form,la forma,0
+pentagon,el pentágono,0
+rectangle,el rectángulo,0
+diamond,el rombo,0
+square,el cuadrado,0
+square,el cuadro,0
+cone,el cono,0
+shape,la forma,0

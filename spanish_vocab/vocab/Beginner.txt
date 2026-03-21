@@ -1,0 +1,1000 @@
+country,el país,0
+to compete,competir,0
+to teach,enseñar,0
+season,la estación,0
+plane,el avión,0
+sure,seguro,0
+square,la plaza,0
+small,pequeño,0
+to send,enviar,0
+to come,venir,0
+one hundred,cien,0
+journalist,el/la periodista,0
+development,el desarrollo,0
+earthquake,el terremoto,0
+last night,anoche,0
+Monday,el lunes,0
+to put,poner,0
+silver,la plata,0
+gold,el oro,0
+coat,el abrigo,0
+to see,ver,0
+blue,azul,0
+car,el coche,0
+Sunday,el domingo,0
+exam,el examen,0
+to pay,pagar,0
+to be able to,poder,0
+bed,la cama,0
+good night,buenas noches,0
+artist,el/la artista,0
+gray,gris,0
+green,verde,0
+white,blanco,0
+black,negro,0
+yellow,amarillo,0
+red,rojo,0
+brown,el marrón,0
+orange,anaranjado,0
+purple,morado,0
+pink,rosado,0
+color,el color,0
+to do,hacer,0
+to say,decir,0
+to go out,salir,0
+to want,querer,0
+to speak,hablar,0
+boyfriend,el novio,0
+movie theater,el cine,0
+to have,tener,0
+to ask for,pedir,0
+to take,tomar,0
+boring,aburrido,0
+food,la comida,0
+rich,rico,0
+calm,tranquilo,0
+to go,ir,0
+to eat,comer,0
+to return,volver,0
+young,joven,0
+countryside,el campo,0
+music,la música,0
+to know,saber,0
+to start,empezar,0
+on,sobre,0
+to hurt,doler,0
+store,la tienda,0
+coffee,el café,0
+big,grande,0
+to be,estar,0
+to live,vivir,0
+to get up,levantarse,0
+fun,divertido,0
+film,la película,0
+clothing,la ropa,0
+kitchen,la cocina,0
+water,el agua,0
+month,el mes,0
+January,el enero,0
+February,el febrero,0
+March,el marzo,0
+April,el abril,0
+May,el mayo,0
+June,el junio,0
+July,el julio,0
+August,el agosto,0
+September,el septiembre,0
+October,el octubre,0
+November,el noviembre,0
+December,el diciembre,0
+summer,el verano,0
+winter,el invierno,0
+fall,el otoño,0
+spring,la primavera,0
+week,la semana,0
+Tuesday,el martes,0
+Wednesday,el miércoles,0
+Thursday,el jueves,0
+Friday,el viernes,0
+Saturday,el sábado,0
+to lose,perder,0
+also,también,0
+to go to bed,acostarse,0
+to dance,bailar,0
+someone,alguien,0
+table,la mesa,0
+a lot of,mucho,0
+company,la empresa,0
+bag,la bolsa,0
+forest,el bosque,0
+some,alguno,0
+pollution,la contaminación,0
+to be,ser,0
+to arrive,llegar,0
+to know,conocer,0
+to sleep,dormir,0
+should,deber,0
+after,después,0
+to tell,contar,0
+nice,simpático,0
+to spend,gastar,0
+house,la casa,0
+chair,la silla,0
+happy,contento,0
+hardworking,trabajador,0
+fish,el pescado,0
+actor,el actor,0
+mall,el centro comercial,0
+market,el mercado,0
+never,nunca,0
+schedule,el horario,0
+yesterday,ayer,0
+today,hoy,0
+tomorrow,mañana,0
+weekend,el fin de semana,0
+before,antes,0
+day,el día,0
+year,el año,0
+jacket,la chaqueta,0
+shy,tímido,0
+doctor,el médico,0
+history,la historia,0
+bank,el banco,0
+environment,el medio ambiente,0
+police officer,el/la policía,0
+writer,el escritor,0
+actress,la actriz,0
+sofa,el sofá,0
+to look for,buscar,0
+to read,leer,0
+always,siempre,0
+good,bueno,0
+to rest,descansar,0
+to study,estudiar,0
+to win,ganar,0
+neither,tampoco,0
+tall,alto,0
+hand,la mano,0
+sweet,dulce,0
+wardrobe,el armario,0
+T-shirt,la camiseta,0
+intelligent,inteligente,0
+theater,el teatro,0
+teacher,el profesor,0
+prize,el premio,0
+nature,la naturaleza,0
+museum,el museo,0
+nervous,nervioso,0
+to write,escribir,0
+to play,jugar,0
+Spanish,el español,0
+to like,gustar,0
+to travel,viajar,0
+then,luego,0
+to drink,beber,0
+sad,triste,0
+to end,terminar,0
+what,qué,0
+woman,la mujer,0
+game,el partido,0
+street,la calle,0
+to take a shower,ducharse,0
+painting,el cuadro,0
+work,el trabajo,0
+child,el niño,0
+brother,el hermano,0
+lawyer,el abogado,0
+head,la cabeza,0
+team,el equipo,0
+arm,el brazo,0
+grandmother,la abuela,0
+leg,la pierna,0
+father,el padre,0
+rice,el arroz,0
+chicken,el pollo,0
+price,el precio,0
+engineer,el ingeniero,0
+tennis,el tenis,0
+gym,el gimnasio,0
+to recycle,reciclar,0
+television,el televisor,0
+restaurant,el restaurante,0
+art,el arte,0
+lamp,la lámpara,0
+river,el río,0
+to take,llevar,0
+to follow,seguir,0
+to get,conseguir,0
+to buy,comprar,0
+to run,correr,0
+something,algo,0
+to put on,ponerse,0
+to get dressed,vestirse,0
+because,porque,0
+to take a bath,bañarse,0
+short,bajo,0
+to cook,cocinar,0
+late,tarde,0
+time,el tiempo,0
+hour,la hora,0
+date,la fecha,0
+noon,el mediodía,0
+midnight,la medianoche,0
+morning,la mañana,0
+time,la hora,0
+century,el siglo,0
+people,la gente,0
+handsome,guapo,0
+no one,nadie,0
+to need,necesitar,0
+bread,el pan,0
+door,la puerta,0
+city,la ciudad,0
+expensive,caro,0
+health,la salud,0
+pretty,bonito,0
+blond,rubio,0
+swimming pool,la piscina,0
+mouth,la boca,0
+ugly,feo,0
+to save,ahorrar,0
+to go shopping,ir de compras,0
+cake,el pastel,0
+comfortable,cómodo,0
+difficult,difícil,0
+paper,el papel,0
+money,el dinero,0
+to solve,resolver,0
+plate,el plato,0
+other,otro,0
+milk,la leche,0
+mother,la madre,0
+stairs,la escalera,0
+which,cuál,0
+director,el director,0
+sport,el deporte,0
+competition,el concurso,0
+bookstore,la librería,0
+drink,la bebida,0
+tomato,el tomate,0
+to work,funcionar,0
+concert,el concierto,0
+to wait for,esperar,0
+to look at,mirar,0
+place,el lugar,0
+to work,trabajar,0
+too,demasiado,0
+to prefer,preferir,0
+to sing,cantar,0
+to taste,probar,0
+to swim,nadar,0
+to share,compartir,0
+foot,el pie,0
+to bother,molestar,0
+English,el inglés,0
+dinner,la cena,0
+to discover,descubrir,0
+sister,la hermana,0
+book,el libro,0
+school,la escuela,0
+couple,la pareja,0
+meat,la carne,0
+sea,el/la mar,0
+skirt,la falda,0
+beach,la playa,0
+serious,serio,0
+church,la iglesia,0
+to protect,proteger,0
+manager,el/la gerente,0
+singer,el/la cantante,0
+exit,la salida,0
+entrance,la entrada,0
+ma'am,la señora,0
+park,el parque,0
+nose,la nariz,0
+grandfather,el abuelo,0
+interesting,interesante,0
+friend,el amigo,0
+patient,paciente,0
+can,la lata,0
+eye,el ojo,0
+egg,el huevo,0
+painting,la pintura,0
+firefighter,el bombero,0
+parents,los padres,0
+painter,el pintor,0
+supermarket,el supermercado,0
+politics,la política,0
+energy,la energía,0
+to find,encontrar,0
+to think,pensar,0
+to be left,quedar,0
+to touch,tocar,0
+still,todavía,0
+besides,además,0
+enough,bastante,0
+older,mayor,0
+between,entre,0
+to have dinner,cenar,0
+to rain,llover,0
+to cost,costar,0
+dark-haired,moreno,0
+to discuss,discutir,0
+bad,malo,0
+easy,fácil,0
+backpack,la mochila,0
+to have breakfast,desayunar,0
+to paint,pintar,0
+long,largo,0
+dessert,el postre,0
+neighborhood,el barrio,0
+to improve,mejorar,0
+library,la biblioteca,0
+tree,el árbol,0
+dangerous,peligroso,0
+class,la clase,0
+garden,el jardín,0
+open,abierto,0
+knee,la rodilla,0
+salt,la sal,0
+sir,el señor,0
+light,la luz,0
+lettuce,la lechuga,0
+to recommend,recomendar,0
+swimming,la natación,0
+lake,el lago,0
+population,la población,0
+fish,el pez,0
+in front of,delante de,0
+center,el centro,0
+old,antiguo,0
+soccer,el fútbol,0
+illness,la enfermedad,0
+advertisement,el anuncio,0
+soda,el refresco,0
+coach,el entrenador,0
+employment,el empleo,0
+nurse,el enfermero,0
+mountain,la montaña,0
+fruit,la fruta,0
+architect,el arquitecto,0
+profession,la profesión,0
+stomach,el estómago,0
+politician,el político,0
+to wear,llevar,0
+when,cuando,0
+because of,por,0
+to learn,aprender,0
+to believe,creer,0
+then,entonces,0
+from,desde,0
+to walk,caminar,0
+to wake up,despertarse,0
+to help,ayudar,0
+old,viejo,0
+to sell,vender,0
+to die,morir,0
+daughter,la hija,0
+to remember,recordar,0
+kind,amable,0
+hotel,el hotel,0
+breakfast,el desayuno,0
+dog,el perro,0
+to draw,dibujar,0
+to fall,caerse,0
+hospital,el hospital,0
+man,el hombre,0
+uncle,el tío,0
+suit,el traje,0
+dress,el vestido,0
+mirror,el espejo,0
+dining room,el comedor,0
+neck,el cuello,0
+why,por qué,0
+present,el regalo,0
+suddenly,de repente,0
+ice cream,el helado,0
+newspaper,el periódico,0
+unfriendly,antipático,0
+wall,la pared,0
+dirty,sucio,0
+oil,el aceite,0
+boss,el jefe,0
+apple,la manzana,0
+to explain,explicar,0
+screen,la pantalla,0
+animal,el animal,0
+cat,el gato,0
+waiter,el camarero,0
+jungle,la selva,0
+interview,la entrevista,0
+girl,la chica,0
+war,la guerra,0
+orange,la naranja,0
+no,ninguno,0
+custom,la costumbre,0
+clean,limpio,0
+party,la fiesta,0
+cheese,el queso,0
+flu,la gripe,0
+salesclerk,el dependiente,0
+towel,la toalla,0
+flower,la flor,0
+hot,picante,0
+to vacuum,pasar la aspiradora,0
+family,la familia,0
+under,debajo de,0
+salad,la ensalada,0
+pharmacy,la farmacia,0
+pill,la pastilla,0
+aunt,la tía,0
+vegetable,la verdura,0
+technology,la tecnología,0
+café,la cafetería,0
+to give,dar,0
+to bring,traer,0
+for,para,0
+to open,abrir,0
+to call,llamar,0
+to stay,quedarse,0
+until,hasta,0
+to receive,recibir,0
+to pick up,recoger,0
+in,en,0
+however,sin embargo,0
+to want,desear,0
+to break,romper,0
+to change,cambiar,0
+to turn off,apagar,0
+strong,fuerte,0
+happy,alegre,0
+thin,delgado,0
+son,el hijo,0
+network,la red,0
+to get married,casarse,0
+cheap,barato,0
+floor,el piso,0
+shirt,la camisa,0
+to ski,esquiar,0
+to comb one's hair,peinarse,0
+to fall asleep,dormirse,0
+suitcase,la maleta,0
+or,o,0
+window,la ventana,0
+during,durante,0
+new,nuevo,0
+body,el cuerpo,0
+tie,la corbata,0
+boat,el barco,0
+bird,el pájaro,0
+song,la canción,0
+teacher,el maestro,0
+soap,el jabón,0
+to request,solicitar,0
+armchair,el sillón,0
+healthy,sano,0
+cough,la tos,0
+basketball,el baloncesto,0
+to have a good time,pasarlo bien,0
+kid,el chico,0
+behind,detrás de,0
+bus,el autobús,0
+cook,el cocinero,0
+to exercise,hacer ejercicio,0
+safety,la seguridad,0
+bottle,la botella,0
+university,la universidad,0
+airport,el aeropuerto,0
+responsible,responsable,0
+office,la oficina,0
+to make the bed,hacer la cama,0
+mechanic,el mecánico,0
+shampoo,el champú,0
+excursion,la excursión,0
+modern,moderno,0
+hamburger,la hamburguesa,0
+sunglasses,las gafas de sol,0
+literature,la literatura,0
+monument,el monumento,0
+comedy,la comedia,0
+secretary,el secretario,0
+audience,el público,0
+credit card,la tarjeta de crédito,0
+ATM,el cajero automático,0
+Hello!,¡Hola!,0
+to understand,entender,0
+number,el número,0
+zero,cero,0
+one,uno,0
+two,dos,0
+three,tres,0
+four,cuatro,0
+five,cinco,0
+six,seis,0
+seven,siete,0
+eight,ocho,0
+nine,nueve,0
+ten,diez,0
+eleven,once,0
+twelve,doce,0
+thirteen,trece,0
+fourteen,el catorce,0
+fifteen,quince,0
+sixteen,dieciséis,0
+seventeen,diecisiete,0
+eighteen,el dieciocho,0
+nineteen,el diecinueve,0
+twenty,veinte,0
+to listen to,escuchar,0
+to drive,conducir,0
+to close,cerrar,0
+to serve,servir,0
+to begin,comenzar,0
+I'm sorry,lo siento,0
+to go for a walk,pasear,0
+love,el amor,0
+to answer,contestar,0
+tired,cansado,0
+to forget,olvidar,0
+nothing,nada,0
+to visit,visitar,0
+living room,la sala,0
+alone,solo,0
+heart,el corazón,0
+to drive,manejar,0
+to repeat,repetir,0
+to leave,irse,0
+notebook,el cuaderno,0
+cousin,el primo,0
+to skate,patinar,0
+test,la prueba,0
+trip,el viaje,0
+to shave,afeitarse,0
+appointment,la cita,0
+to practice,practicar,0
+who,quién,0
+less,menos,0
+bathroom,el baño,0
+land,la tierra,0
+life,la vida,0
+cereal,el cereal,0
+short,corto,0
+niece,la sobrina,0
+owner,el dueño,0
+sugar,el/la azúcar,0
+key,la llave,0
+rug,la alfombra,0
+friendship,la amistad,0
+soup,la sopa,0
+onion,la cebolla,0
+butter,la mantequilla,0
+cap,la gorra,0
+salary,el sueldo,0
+stone,la piedra,0
+twenty-one,veintiuno,0
+twenty-two,veintidós,0
+twenty-three,veintitrés,0
+twenty-four,veinticuatro,0
+twenty-five,veinticinco,0
+twenty-six,veintiséis,0
+twenty-seven,veintisiete,0
+twenty-eight,veintiocho,0
+twenty-nine,el veintinueve,0
+thirty,el treinta,0
+forty,cuarenta,0
+fifty,cincuenta,0
+sixty,sesenta,0
+seventy,setenta,0
+eighty,ochenta,0
+ninety,noventa,0
+one hundred and one,ciento uno,0
+two hundred,doscientos,0
+three hundred,trescientos,0
+four hundred,cuatrocientos,0
+five hundred,quinientos,0
+six hundred,seiscientos,0
+seven hundred,el setecientos,0
+eight hundred,ochocientos,0
+nine hundred,novecientos,0
+thousand,mil,0
+two thousand,dos mil,0
+one hundred thousand,cien mil,0
+two hundred thousand,doscientos mil,0
+million,el millón,0
+fair,justo,0
+the day before yesterday,anteayer,0
+carrot,la zanahoria,0
+food,el alimento,0
+red-haired,pelirrojo,0
+fork,el tenedor,0
+when,cuándo,0
+employee,el empleado,0
+ham,el jamón,0
+brave,valiente,0
+mouse,el ratón,0
+to sunbathe,tomar el sol,0
+closed,cerrado,0
+blanket,la manta,0
+how much,cuánto,0
+to reduce,reducir,0
+train,el tren,0
+hat,el sombrero,0
+problem,el problema,0
+accountant,el contador,0
+climate,el clima,0
+telephone,el teléfono,0
+metro,el metro,0
+where,dónde,0
+company,la compañía,0
+map,el mapa,0
+pants,el pantalón,0
+grape,la uva,0
+scientist,el científico,0
+player,el jugador,0
+west,el oeste,0
+untidy,desordenado,0
+crafts,la artesanía,0
+cookie,la galleta,0
+housing,la vivienda,0
+shoe,el zapato,0
+hairdresser,el peluquero,0
+boot,la bota,0
+customer,el cliente,0
+grandparents,los abuelos,0
+performance,la actuación,0
+shoe store,la zapatería,0
+mathematics,las matemáticas,0
+free time,el tiempo libre,0
+dance,la danza,0
+important,importante,0
+meeting,la reunión,0
+to pollute,contaminar,0
+yogurt,el yogur,0
+culture,la cultura,0
+passport,el pasaporte,0
+volleyball,el voleibol,0
+musician,el músico,0
+to listen to music,escuchar música,0
+documentary,el documental,0
+better,mejor,0
+like,como,0
+to leave,dejar,0
+to hear,oír,0
+thank you,gracias,0
+but,pero,0
+already,ya,0
+to return,regresar,0
+this,este,0
+check,la cuenta,0
+now,ahora,0
+with,con,0
+to feel,sentirse,0
+birthday,el cumpleaños,0
+lazy,perezoso,0
+ready,listo,0
+to add,añadir,0
+town,el pueblo,0
+often,a menudo,0
+to be born,nacer,0
+nephew,el sobrino,0
+to run,dirigir,0
+lunch,el almuerzo,0
+last name,el apellido,0
+pencil,el lápiz,0
+career,la carrera,0
+language,el idioma,0
+to offer,ofrecer,0
+name,el nombre,0
+desk,el escritorio,0
+very,muy,0
+pain,el dolor,0
+maybe,tal vez,0
+ball,la pelota,0
+to fight,luchar,0
+first,primero,0
+second,segundo,0
+third,tercero,0
+fourth,cuarto,0
+fifth,quinto,0
+sixth,sexto,0
+seventh,séptimo,0
+eighth,octavo,0
+ninth,noveno,0
+tenth,décimo,0
+shame,la vergüenza,0
+advice,el consejo,0
+knife,el cuchillo,0
+excuse me,perdón,0
+road,la carretera,0
+to obtain,obtener,0
+bad,mal,0
+pen,el bolígrafo,0
+garlic,el ajo,0
+student,el/la estudiante,0
+tasty,sabroso,0
+to act,actuar,0
+drama,el drama,0
+arrival,la llegada,0
+throat,la garganta,0
+star,la estrella,0
+stadium,el estadio,0
+pepper,la pimienta,0
+to invite,invitar,0
+athlete,el/la deportista,0
+blouse,la blusa,0
+to fall in love,enamorarse,0
+corn,el maíz,0
+computer,el ordenador,0
+design,el diseño,0
+image,la imagen,0
+package,el paquete,0
+elegant,elegante,0
+for example,por ejemplo,0
+medicine,la medicina,0
+desert,el desierto,0
+show,el espectáculo,0
+baseball,el béisbol,0
+tea,el té,0
+sculpture,la escultura,0
+jewelry store,la joyería,0
+article,el artículo,0
+equality,la igualdad,0
+education,la educación,0
+apartment,el apartamento,0
+dancer,el bailarín,0
+recycling,el reciclaje,0
+sculptor,el escultor,0
+French,el francés,0
+volunteer,el voluntario,0
+toothpaste,la pasta de dientes,0
+product,el producto,0
+historical,histórico,0
+there,allá,0
+night,la noche,0
+game,el juego,0
+video game,el videojuego,0
+travel agency,la agencia de viajes,0
+to take out,sacar,0
+to have fun,divertirse,0
+well,bien,0
+to achieve,lograr,0
+almost,casi,0
+to use,usar,0
+to take care of,cuidar,0
+face,la cara,0
+homework,la tarea,0
+without,sin,0
+hair,el pelo,0
+happy,feliz,0
+to save,guardar,0
+little,poco,0
+angry,enojado,0
+to fill,llenar,0
+watch,el reloj,0
+to cross,cruzar,0
+fat,gordo,0
+to prepare,preparar,0
+worse,peor,0
+room,la habitación,0
+to develop,desarrollar,0
+horse,el caballo,0
+trash,la basura,0
+mail,el correo,0
+noise,el ruido,0
+grandson,el nieto,0
+landscape,el paisaje,0
+poor,pobre,0
+wife,la esposa,0
+slow,lento,0
+hall,el pasillo,0
+thing,la cosa,0
+magazine,la revista,0
+husband,el esposo,0
+to snow,nevar,0
+spoon,la cuchara,0
+stove,la estufa,0
+to hate,odiar,0
+to bargain,regatear,0
+to record,grabar,0
+to surprise,sorprender,0
+close to,cerca de,0
+before,antes de,0
+no,no,0
+yes,sí,0
+turkey,el pavo,0
+heavy,pesado,0
+each,cada,0
+my,mi,0
+all,todo,0
+there,allí,0
+close,cerca,0
+far,lejos,0
+so much,tanto,0
+so,tan,0
+to have,haber,0
+nice to meet you,mucho gusto,0
+happy birthday,feliz cumpleaños,0
+even though,aunque,0
+while,mientras,0
+if,si,0
+and,y,0
+well,pues,0
+to seem,parecer,0
+to have lunch,almorzar,0
+to enjoy,disfrutar,0
+to go down,bajar,0
+to attend,asistir,0
+to fall,caer,0
+to fit,caber,0
+to laugh,reír,0
+fear,el miedo,0
+pizza,la pizza,0
+chocolate,el chocolate,0
+truth,la verdad,0
+position,el puesto,0
+voice,la voz,0
+sound,el sonido,0
+translator,el traductor,0
+pronunciation,la pronunciación,0
+room,el cuarto,0
+doctor,el doctor,0
+weather,el tiempo,0
+according to,según,0
+from,de,0
+of,de,0
+to complain,quejarse,0
+with you,contigo,0
+who,quien,0
+to sit,sentarse,0
+early,temprano,0
+to pass,pasar,0
+to translate,traducir,0
+to earn,ganar,0
+to clean,limpiar,0
+to happen,pasar,0
+to treat,tratar,0
+to choose,escoger,0
+to return,devolver,0
+to stop,parar,0
+to throw,echar,0
+to feel,sentir,0
+to take away,quitar,0
+to turn in,entregar,0
+to finish,acabar,0
+to reach,alcanzar,0
+you're welcome,de nada,0
+please,por favor,0
+to,a,0
+things,las cosas,0
+to order,ordenar,0
+hurry,la prisa,0
+up,arriba,0
+idea,la idea,0
+Hey!,¡Oye!,0
+mango,el mango,0
+wave,la ola,0
+wish,el deseo,0
+tail,la cola,0
+to approach,acercarse,0
+rabbit,el conejo,0
+both,ambos,0
+to hit,golpear,0
+purpose,el propósito,0
+lost,perdido,0
+list,la lista,0
+China,la China,0
+to pretend,fingir,0
+stick,el palo,0
+to pray,rezar,0
+legal,legal,0
+to encourage,animar,0
+scared,asustado,0
+nap,la siesta,0
+bland,soso,0
+lamb,el cordero,0
+harvest,la cosecha,0
+drawer,el cajón,0
+to bite,morder,0
+translation,la traducción,0
+to pursue,perseguir,0
+demanding,exigente,0
+any,cualquiera,0
+piece,el pedazo,0
+to push,empujar,0
+treasure,el tesoro,0
+common,común,0
+pocket,el bolsillo,0
+apology,la disculpa,0
+amazing,asombroso,0
+wet,mojado,0
+favor,el favor,0
+to sew,coser,0
+Australia,Australia,0
+bacon,el tocino,0
+blind,ciego,0
+noun,el sustantivo,0
+United States,Estados Unidos,0
+coconut,el coco,0
+German,el alemán,0
+finger,el dedo,0
+children,los hijos,0
+to celebrate,celebrar,0
+silent,callado,0
+to damage,dañar,0
+ear,la oreja,0
+healthy,saludable,0
+luggage,el equipaje,0
+weird,raro,0
+accommodations,el alojamiento,0
+to last,durar,0
+government,el gobierno,0
+elevator,el ascensor,0
+to stop,dejar de,0
+sociable,sociable,0
+washing machine,la lavadora,0
+keyboard,el teclado,0
+storm,la tormenta,0
+news,las noticias,0
+path,el sendero,0
+tidy,ordenado,0
+south,el sur,0
+to set the table,poner la mesa,0
+driver,el conductor,0
+to insist,insistir,0
+tuna,el atún,0
+computer,la computadora,0
+program,el programa,0
+plant,la planta,0
+salesperson,el vendedor,0
+to take out the trash,sacar la basura,0
+channel,el canal,0
+hobby,el pasatiempo,0
+offer,la oferta,0
+poverty,la pobreza,0
+freedom,la libertad,0
+destination,el destino,0
+delicious,delicioso,0
+lively,animado,0
+host,el anfitrión,0
+in the morning,por la mañana,0
+garage,el garaje,0
+impatient,impaciente,0
+to investigate,investigar,0
+novel,la novela,0
+guide,el/la guía,0
+play,la obra de teatro,0
+after,después de,0
+dentist,el/la dentista,0
+to play sports,practicar deportes,0
+calculator,la calculadora,0
+hurricane,el huracán,0
+factory,la fábrica,0
+architecture,la arquitectura,0
+transportation,el transporte,0
+romantic,romántico,0
+classical,clásico,0
+menu,el menú,0
+that,que,0
+to hope,esperar,0
+to go up,subir,0
+to walk,andar,0
+to send,mandar,0
+east,el este,0
+how,cómo,0
+to show,mostrar,0
+here,aquí,0
+to wash,lavar,0
+to love,encantar,0
+to lend,prestar,0
+to fix,arreglar,0
+same,mismo,0
+to ring,sonar,0
+word,la palabra,0
+hopefully,ojalá,0
+to understand,comprender,0
+to ask,preguntar,0
+to avoid,evitar,0
+to cut,cortar,0
+letter,la carta,0
+clock,el reloj,0
+more,más,0

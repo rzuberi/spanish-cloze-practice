@@ -1,0 +1,148 @@
+receding hairline,las entradas,0
+ovary,el ovario,0
+nervous system,el sistema nervioso,0
+member,el miembro,0
+canal,el canal,0
+system,el aparato,0
+immune system,el sistema inmunitario,0
+genitals,los genitales,0
+pupil,la pupila,0
+jaw,la mandíbula,0
+anatomy,la anatomía,0
+mustache,el bigote,0
+beard,la barba,0
+goatee,la chiva,0
+sideburn,la patilla,0
+ponytail,la coleta,0
+bangs,el flequillo,0
+knuckle,el nudillo,0
+little finger,el meñique,0
+torso,el torso,0
+freckle,la peca,0
+wrinkle,la arruga,0
+dimple,el hoyuelo,0
+upper leg,el pernil,0
+upper foreleg,el codillo,0
+eyelid,el párpado,0
+fingertip,la yema,0
+fist,el puño,0
+gum,la encía,0
+molar,la muela,0
+mole,el lunar,0
+scalp,el cuero cabelludo,0
+side,el lado,0
+iris,la iris,0
+cornea,la córnea,0
+appendix,el apéndice,0
+kidney,el riñón,0
+rectum,el recto,0
+testicle,el testículo,0
+uterus,la matriz,0
+cervix,el/la cérvix,0
+urethra,la uretra,0
+womb,la matriz,0
+vulva,la vulva,0
+pituitary gland,la hipófisis,0
+thyroid,el/la tiroides,0
+gland,la glándula,0
+pancreas,el páncreas,0
+lymph node,el nódulo linfático,0
+capillary,el capilar,0
+artery,la arteria,0
+aorta,la aorta,0
+spleen,el bazo,0
+large intestine,el intestino grueso,0
+small intestine,el intestino delgado,0
+gallbladder,la vesícula,0
+esophagus,el esófago,0
+trachea,la tráquea,0
+kneecap,la rótula,0
+armpit,la axila,0
+diaphragm,el diafragma,0
+navel,el ombligo,0
+larynx,la laringe,0
+pharynx,la faringe,0
+nape,la nuca,0
+Adam's apple,la nuez,0
+ligament,el ligamento,0
+tendon,el tendón,0
+collarbone,la clavícula,0
+bone marrow,la médula ósea,0
+palate,el paladar,0
+uvula,la campanilla,0
+sinus,el seno,0
+temple,la sien,0
+earlobe,el lóbulo,0
+nostril,la fosa nasal,0
+eardrum,el tímpano,0
+vein,la vena,0
+skeleton,el esqueleto,0
+skull,el cráneo,0
+liver,el hígado,0
+shin,la espinilla,0
+palm,la palma,0
+nipple,el pezón,0
+belly button,el ombligo,0
+anus,el ano,0
+pinky,el dedo meñique,0
+ring finger,el anular,0
+middle finger,el dedo medio,0
+index finger,el dedo índice,0
+big toe,el dedo gordo,0
+toenail,la uña del pie,0
+fingernail,la uña,0
+vagina,la vagina,0
+penis,el pene,0
+butt,el poto,0
+lower back,el lomo,0
+abdomen,el abdomen,0
+belly,el vientre,0
+forearm,el antebrazo,0
+spine,la espina,0
+throat,la garganta,0
+back,la espalda,0
+thumb,el pulgar,0
+thigh,el muslo,0
+calf,la pantorrilla,0
+heart,el corazón,0
+teeth,la dentadura,0
+lip,el labio,0
+blood,la sangre,0
+head,la cabeza,0
+face,el rostro,0
+hair,el cabello,0
+ear,la oreja,0
+eye,el ojo,0
+tongue,la lengua,0
+forehead,la frente,0
+neck,el cuello,0
+chest,el pecho,0
+breast,el seno,0
+shoulder,el hombro,0
+arm,el brazo,0
+wrist,la muñeca,0
+hand,la mano,0
+finger,el dedo,0
+stomach,la barriga,0
+rib,la costilla,0
+skin,la piel,0
+leg,la pierna,0
+knee,la rodilla,0
+ankle,el tobillo,0
+foot,el pie,0
+toe,el dedo del pie,0
+eyebrow,la ceja,0
+tooth,el diente,0
+bone,el hueso,0
+organ,el órgano,0
+nail,la uña,0
+brain,el cerebro,0
+elbow,el codo,0
+muscle,el músculo,0
+lung,el pulmón,0
+waist,la cintura,0
+hip,la cadera,0
+buttocks,las nalgas,0
+joint,la articulación,0
+heel,el talón,0
+mouth,la boca,0

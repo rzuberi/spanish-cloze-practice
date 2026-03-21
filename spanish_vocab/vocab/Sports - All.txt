@@ -1,0 +1,341 @@
+to compete,competir,0
+indoor,bajo techo,0
+outdoor,al aire libre,0
+swimsuit,el bañador,0
+bathing suit,el traje de baño,0
+inning,la entrada,0
+to tackle,entrarle a,0
+to tackle,hacer un placaje a,0
+tackle,el tackle,0
+friendly match,el amistoso,0
+bullring,la plaza de toros,0
+arena,la arena,0
+climbing,la escalada,0
+mountaineering,el alpinismo,0
+junior,el/la cadete,0
+green,el green,0
+corner,el saque de esquina,0
+home run,el home run,0
+team member,el/la integrante del equipo,0
+to call,pitar,0
+to warm up,precalentar,0
+to convert,convertir,0
+season,la temporada,0
+enthusiast,el aficionado,0
+amateur,amateur,0
+to knock out,noquear,0
+to eliminate,eliminar,0
+winger,el/la ala,0
+wing,el ala,0
+fly ball,el fly,0
+to disallow,anular,0
+lane,la calle,0
+fairway,la calle,0
+baseball bat,el bate de béisbol,0
+hockey stick,el palo de hockey,0
+stick,el palo,0
+golf club,el palo de golf,0
+qualification,la clasificación,0
+saddle,el sillín,0
+balance beam,la barra de equilibrio,0
+surfing,el surfing,0
+course,el campo,0
+to jog,trotar,0
+to trot,trotar,0
+form,la forma física,0
+KO,KO,0
+goalie,el portero,0
+skipper,el patrón,0
+sideline,la banda,0
+footballer,el/la futbolista,0
+wall,la barrera,0
+soccer jersey,la camiseta de fútbol,0
+soccer goal,la portería de fútbol,0
+soccer team,el equipo de fútbol,0
+soccer ball,la pelota de fútbol,0
+soccer cleat,la bota de fútbol,0
+soccer practice,el entrenamiento de fútbol,0
+football pitch,el campo de fútbol,0
+offside,el offside,0
+defense,la zaga,0
+midfielder,el/la centrocampista,0
+catcher,el/la catcher,0
+batter,el bateador,0
+pitcher,el/la pitcher,0
+to defend,jugar de defensa,0
+fight,el combate,0
+to trade,traspasar,0
+partner,la pareja,0
+pugilist,el púgil,0
+boxer,el boxeador,0
+attack,el ataque,0
+mitt,el guante,0
+pump,el inflador,0
+period,el tiempo,0
+cup,la copa,0
+cup,copero,0
+racket,la raqueta,0
+paddle,la pala,0
+to train,entrenarse,0
+crowd,la entrada,0
+spectator,el espectador,0
+apparatus,el aparato,0
+competitor,el/la concursante,0
+competitor,el/la rival,0
+rivalry,la rivalidad,0
+competition,el concurso,0
+competition,la competición,0
+time,la marca,0
+record,el récord,0
+quarter,el cuarto,0
+jai alai,la cesta punta,0
+jai alai,el jai alai,0
+badminton,el bádminton,0
+equipment,el aparato,0
+rink,la pista,0
+court,la cancha,0
+goalposts,el marco,0
+ace,el ace,0
+punch,la pegada,0
+to hit,batear,0
+hit,el hit,0
+bobsled,el bobsleigh,0
+snowboarding,el snowboard,0
+cross-country skiing,el esquí de fondo,0
+cross-country running,la carrera a campo traviesa,0
+breaststroke,la braza,0
+backstroke,el dorso,0
+crawl,el crol,0
+butterfly,la mariposa,0
+to intercept,abarajar,0
+blocker,el bloqueador,0
+semifinal,la semifinal,0
+final,la final,0
+qualifying heat,la serie,0
+heat,la prueba,0
+finish line,la línea de llegada,0
+start,la salida,0
+lead,la delantera,0
+oar,el remo,0
+rowing,el remo,0
+canoe,la canoa,0
+kayak,el kayak,0
+putt,el putt,0
+swing,el swing,0
+stroke,la brazada,0
+stroke,la tacada,0
+to work out,entrenar,0
+diving board,el trampolín,0
+sporty,deportista,0
+sportsperson,el/la deportista,0
+rules,el reglamento,0
+scoreboard,el marcador,0
+athletics,el atletismo,0
+diamond,el cuadro,0
+fitness,la forma física,0
+target,el blanco,0
+title,el cetro,0
+half,el tiempo,0
+trainer,el preparador,0
+active,activo,0
+heat,la prueba eliminatoria,0
+event,la prueba,0
+open tournament,el abierto,0
+open,el open,0
+to fence,practicar esgrima,0
+stamina,el fondo,0
+draw,el empate,0
+point,el tanto,0
+water sports,los deportes acuáticos,0
+pitch,el campo,0
+track,la pista,0
+heat,la eliminatoria,0
+walk,el paseo,0
+ride,la cabalgata,0
+round,el round,0
+lap,la vuelta,0
+lap,el largo,0
+position,la posición,0
+to skate,patinar,0
+athlete,el/la deportista,0
+to be victorious,vencer,0
+to beat,ganar,0
+defeat,la derrota,0
+sailing,la navegación a vela,0
+match,el partido,0
+to dive,zambullirse,0
+scuba diving,el submarinismo,0
+hike,la andada,0
+long walk,la caminata,0
+ramble,la caminata,0
+race,la carrera,0
+yoga,el yoga,0
+athletic,atlético,0
+hiking,el senderismo,0
+halftime,el entretiempo,0
+fault,la falta,0
+pool,la piscina,0
+pool,el pool,0
+manager,el técnico,0
+one-two,la pared,0
+to swim,nadar,0
+practice,el entrenamiento,0
+gym,el gimnasio,0
+running,el pedestrismo,0
+healthy,sano,0
+striker,el ariete,0
+exercise,el ejercicio,0
+dribble,el regate,0
+dribbling,el regateo,0
+to dribble past,regatear,0
+to catch,atrapar,0
+penalty,el penalty,0
+extra time,el tiempo extra,0
+amazing goal,el golazo,0
+thrashing,la goleada,0
+to block,placar,0
+block,el tapón,0
+injured,lesionado,0
+sweeper,el/la líbero,0
+handball,la mano,0
+warning,la amonestación,0
+own goal,el autogol,0
+rebound,el rebote,0
+rebound,el rechace,0
+kick,el lanzamiento,0
+overtime,el tiempo extra,0
+overtime,el tiempo suplementario,0
+shot,el chut,0
+uniform,el uniforme,0
+jersey,la camiseta,0
+jersey,la camisola,0
+whistle,el pito,0
+flag,la bandera,0
+sock,el calcetín,0
+shorts,pantalones cortos,0
+shin guard,la espinillera,0
+stadium,el estadio,0
+referee,el juez,0
+referee,el árbitro,0
+foul,el foul,0
+to blow the whistle for,pitar,0
+goal scorer,el goleador,0
+scorer,el anotador,0
+forward,el delantero,0
+to score,meter un goal,0
+to score,encestar,0
+to score,marcar,0
+bench,el banquillo,0
+home base,la base del bateador,0
+home,la goma,0
+cleat,zapato de fútbol,0
+playoff,el play-off,0
+puck,el puck,0
+substitute,el/la reserva,0
+red card,la tarjeta roja,0
+card,la cartulina,0
+center,el/la pívot,0
+shot,el chute,0
+kick-off,el puntapié inicial,0
+defender,el zaguero,0
+header,el remate,0
+goalkeeper,el arquero,0
+keeper,el portero,0
+to score a goal,meter un gol,0
+game,el partido,0
+soccer game,el partido de fútbol,0
+locker room,el vestuario,0
+team,el equipo,0
+soccer player,el/la futbolista,0
+player,el jugador,0
+line-up,la alineación,0
+squad,la plantilla,0
+captain,el capitán,0
+winger,el lateral,0
+coach,el entrenador,0
+fan,el/la fan,0
+hooligan,el/la hooligan,0
+World Cup,la Copa Mundial,0
+championship,el campeonato,0
+net,las mallas,0
+to shoot,chutar,0
+to kick,patear,0
+to kick,dar,0
+to head,cabecear,0
+to throw,lanzar,0
+to throw,tirar,0
+throw,el tiro,0
+pass,el pase,0
+to dribble past,driblear,0
+to dribble,driblar,0
+to touch,tocar,0
+to caution,amonestar,0
+to throw out,expulsar,0
+to score a lot of goals against,golear,0
+to meet,enfrentarse,0
+to clear,despejar,0
+to win,ganar,0
+to lose,perder,0
+tie,el empate,0
+ice hockey,el hockey sobre hielo,0
+field hockey,el hockey,0
+handball,el balonmano,0
+relay race,la carrera de relevos,0
+marathon,el/la maratón,0
+racing,carreras,0
+paddle tennis,el pádel,0
+squash,el squash,0
+discus throwing,el lanzamiento de disco,0
+javelin throw,el lanzamiento de jabalina,0
+weight lifting,la halterofilia,0
+softball,el sóftbol,0
+cycling,el ciclismo,0
+football,el fútbol,0
+fencing,la esgrima,0
+triathlon,el triatlón,0
+polo,el polo,0
+water polo,el waterpolo,0
+skating,el patinaje,0
+figure skating,el patinaje artístico,0
+martial art,la arte marcial,0
+sport climbing,la escalada deportiva,0
+gymnastics,la gimnasia,0
+biking,el ciclismo,0
+billiards,el billar,0
+bowling,el boliche,0
+bowling,los bolos,0
+boxing,el boxeo,0
+bullfighting,la tauromaquia,0
+jogging,el jogging,0
+karate,el karate,0
+ping-pong,el ping-pong,0
+skateboarding,el skateboard,0
+skiing,el esquí,0
+surfing,el surf,0
+swimming,la natación,0
+rafting,el rafting,0
+wrestling,la lucha libre,0
+freestyle wrestling,la lucha libre,0
+baseball,el béisbol,0
+helmet,el casco,0
+basketball,el baloncesto,0
+soccer,el fútbol,0
+lacrosse,el lacrosse,0
+American football,el fútbol americano,0
+base,la base,0
+ball,el balón,0
+basket,el enceste,0
+basket,la canasta,0
+baseball mitt,el guante de béisbol,0
+bat,el bate,0
+glove,el guante,0
+club,el club,0
+field,el campo,0
+trophy,el trofeo,0
+tournament,el torneo,0
+goal,el gol,0
+goal,la portería,0
+golf,el golf,0
+tennis,el tenis,0
+volleyball,el voleibol,0
+track and field,el atletismo,0

@@ -1,0 +1,35 @@
+dwarf,el enano,0
+sparkle,el destello,0
+glitter,la purpurina,0
+horn,el cuerno,0
+magic,mágico,0
+magical,mágico,0
+Cyclops,el cíclope,0
+phoenix,el fénix,0
+griffin,el grifo,0
+troll,el trol,0
+ogre,el ogro,0
+fairy,el hada,0
+werewolf,el hombre lobo,0
+yeti,el yeti,0
+leprechaun,el duende,0
+chupacabra,el chupacabras,0
+dragon,el dragón,0
+curse,el embrujo,0
+spell,el hechizo,0
+vampire,el vampiro,0
+ghost,el fantasma,0
+Martian,el marciano,0
+boogeyman,el coco,0
+possession,la posesión,0
+to exist,existir,0
+apparition,la aparición,0
+genie,el genio,0
+freak,el fenómeno,0
+creature,la criatura,0
+imaginary,imaginario,0
+mythical,mítico,0
+unicorn,el unicornio,0
+wizard,el mago,0
+witch,la bruja,0
+mermaid,la sirena,0

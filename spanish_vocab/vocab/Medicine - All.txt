@@ -1,0 +1,268 @@
+bypass,el bypass,0
+cardiac arrest,el paro cardíaco,0
+ICU,la unidad de cuidados intensivos,0
+ICU,UTI,0
+food poisoning,la intoxicación por alimentos,0
+yeast infection,la candidiasis,0
+thermometer,el termómetro,0
+cystitis,la cistitis,0
+gonorrhea,la gonorrea,0
+syphilis,la sífilis,0
+hemorrhage,la hemorragia,0
+chicken pox,la varicela,0
+typhoid fever,el tifus abdominal,0
+typhoid,la tifoidea,0
+cirrhosis,la cirrosis,0
+tuberculosis,la tuberculosis,0
+arthritis,la artritis,0
+tetanus,el tétano,0
+hemorrhoids,la almorrana,0
+smallpox,la viruela,0
+hepatitis,la hepatitis,0
+leukemia,la leucemia,0
+meningitis,la meningitis,0
+pneumonia,la neumonía,0
+pneumonia,la pulmonía,0
+mumps,las paperas,0
+HIV,VIH,0
+AIDS,el sida,0
+IV,IV,0
+exam table,la camilla,0
+gurney,la camilla,0
+stretcher,la camilla,0
+to resuscitate,reanimar,0
+antidote,el antídoto,0
+fracture,la fisura,0
+incision,la incisión,0
+prognosis,el pronóstico,0
+diagnosis,la diagnosis,0
+intravenous,intravenoso,0
+germ,el germen,0
+CPR,RCP,0
+epilepsy,la epilepsia,0
+Band-Aid,el/la curita,0
+serum,el suero,0
+dehydrated,deshidratado,0
+vein,la vena,0
+nausea,el mareo,0
+unconscious,inconsciente,0
+cast,el yeso,0
+physician's assistant,el médico asociado,0
+physician,el facultativo,0
+physician,el galeno,0
+cancer,el cáncer,0
+bandage,la venda,0
+tumor,el tumor,0
+brace,el aparato,0
+swollen,hinchado,0
+poison,el veneno,0
+fatal,mortal,0
+fatal,fatal,0
+injured,herido,0
+injured,lesionado,0
+limb,el miembro,0
+to examine,examinar,0
+spasm,el espasmo,0
+stiff,entumecido,0
+condition,la afección,0
+stiffness,las agujetas,0
+sprain,el esguince,0
+wound,la herida,0
+bone,el hueso,0
+to moan,quejarse,0
+stomachache,el dolor de estómago,0
+earache,el dolor de oídos,0
+fracture,la fractura,0
+broken bone,el hueso roto,0
+sore throat,el dolor de garganta,0
+diarrhea,la diarrea,0
+cramps,dolor menstrual,0
+bruise,el moretón,0
+heartburn,el ardor de estómago,0
+heartburn,la acidez,0
+headache,la jaqueca,0
+heart attack,el ataque al corazón,0
+heart attack,el infarto,0
+flu,la gripe,0
+sickness,la enfermedad,0
+body,el cuerpo,0
+to deliver,atender el parto,0
+nursing,la enfermería,0
+to be late,llegar tarde,0
+deficiency,carencia de,0
+to bring up,devolver,0
+migraine,la migraña,0
+depressed,deprimido,0
+phlegm,la flema,0
+face mask,el barbijo,0
+face mask,el cubrebocas,0
+reflex,el reflejo,0
+depression,la depresión,0
+to conceive,concebir,0
+remedy,el remedio,0
+to inhale,inhalar,0
+acute,agudo,0
+fit,la crisis,0
+breakdown,la crisis,0
+mastectomy,la mastectomía,0
+scratch,el arañazo,0
+seriously ill,grave,0
+social distancing,distanciamiento social,0
+louse,el piojo,0
+to make ill,enfermar,0
+delicate,delicado,0
+pregnant,embarazada,0
+pediatrician,el/la pediatra,0
+ibuprofen,el ibuprofeno,0
+chill,el enfriamiento,0
+rubbing alcohol,el alcohol,0
+to explore,explorar,0
+to blow one's nose,sonarse la nariz,0
+reaction,la reacción,0
+case,el caso,0
+pill,la píldora,0
+aneurysm,el/la aneurisma,0
+resident,el/la residente,0
+residency,la residencia,0
+tract,la vía,0
+drops,las gotas,0
+wash your hands,lávate las manos,0
+infection,el contagio,0
+infection,la infección,0
+pap,la papilla,0
+lesion,la lesión,0
+to gain weight,ganar peso,0
+nausea,la náusea,0
+anxiety,la ansiedad,0
+doctor's office,el consultorio médico,0
+deaf,sordo,0
+pound,la libra,0
+cane,la muletilla,0
+burn,la quemadura,0
+weight,el peso,0
+cough,la tos,0
+obesity,la obesidad,0
+rabies,la rabia,0
+to throw up,devolver,0
+Dr.,Dra.,0
+Dr.,Dr.,0
+mental health,la salud mental,0
+therapy,la terapia,0
+gas,el gas,0
+attack,la crisis,0
+critical,crítico,0
+birth,el parto,0
+allergy,la alergia,0
+shot,la inyección,0
+vaccine,la vacuna,0
+contraction,la contracción,0
+disability,la discapacidad,0
+period,la regla,0
+delivery,el parto,0
+ailment,el padecimiento,0
+mentally unbalanced,perturbado,0
+doctor's office,el consultorio,0
+surgery,el consultorio,0
+surgery,la cirugía,0
+get well soon,que te mejores,0
+weak,endeble,0
+X-ray,la radiografía,0
+to set,ensalmar,0
+to set,encasar,0
+to quarantine,poner en cuarentena,0
+to get,pillar,0
+symptom,el síntoma,0
+symptom complex,el cuadro,0
+first aid kit,el botiquín,0
+first aid,los primeros auxilios,0
+wellness,el bienestar,0
+wellness,la salud integral,0
+oral,oral,0
+bite,la picada,0
+virus,el virus,0
+sanity,la cordura,0
+blocker,el bloqueador,0
+prescription,la receta,0
+to catch,coger,0
+temperature,la fiebre,0
+stroke,el ictus,0
+How are you feeling?,¿Cómo te encuentras?,0
+pandemic,la pandemia,0
+immune system,el sistema inmunitario,0
+upset,revuelto,0
+stone,el cálculo,0
+to hurt oneself,lastimarse,0
+sac,la bolsa,0
+to gain weight,engordar,0
+to lose weight,adelgazar,0
+examination,la exploración,0
+nervous,nervioso,0
+numb,adormecido,0
+cold,el resfriado,0
+withdrawal symptoms,el mono,0
+dentist,el odontólogo,0
+dentist,el/la dentista,0
+glasses,los anteojos,0
+glasses,las gafas,0
+stitch,el punto,0
+stitch,el flato,0
+death,el fallecimiento,0
+death,la muerte,0
+coma,el coma,0
+to cut oneself,cortarse,0
+blood test,la prueba de sangre,0
+care,los cuidados,0
+doctor,el médico,0
+to repeat on,repetir,0
+nutrition,la nutrición,0
+fever,la calentura,0
+fever,la fiebre,0
+injury,la lesión,0
+to treat,tratar,0
+drug,el fármaco,0
+disease,la enfermedad,0
+disease,la afección,0
+diabetes,la diabetes,0
+quarantine,la cuarentena,0
+lockdown,la cuarentena,0
+to take,tomar,0
+health care,la atención médica,0
+healthcare worker,el sanitario,0
+patient,el enfermo,0
+ill,enfermo,0
+emergency,la emergencia,0
+self-isolation,el autoaislamiento,0
+self-isolation,el aislamiento domiciliario,0
+cut,el corte,0
+pharmacy,la farmacia,0
+well,bien,0
+well-being,el bienestar,0
+hygiene,la higiene,0
+to take care of,cuidar,0
+nurse,el enfermero,0
+to die,morir,0
+outbreak,el brote,0
+outbreak,la ola,0
+hurt,dolido,0
+rash,el brote,0
+rash,el sarpullido,0
+organs of the human body,órganos del cuerpo humano,0
+ill,mal,0
+coronavirus,el coronavirus,0
+doctor,el doctor,0
+mask,la mascarilla,0
+healthy,saludable,0
+healthy,sano,0
+illness,la enfermedad,0
+pain,el dolor,0
+anatomy,la anatomía,0
+human body,el cuerpo humano,0
+physical,la revisión médica,0
+alive,vivo,0
+sick,mareado,0
+sick,enfermo,0
+hospital,el hospital,0
+medicine,el fármaco,0
+medicine,la medicina,0
+health,la salud,0
+medical,médico,0

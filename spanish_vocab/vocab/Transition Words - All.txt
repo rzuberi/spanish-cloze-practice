@@ -1,0 +1,109 @@
+thus,por ello,0
+thus,por lo tanto,0
+thus,de ese modo,0
+thus,de este modo,0
+therefore,por consiguiente,0
+therefore,por lo tanto,0
+since,ya que,0
+on account of,debido a,0
+hence,de ahí que,0
+for that reason,por ese motivo,0
+accordingly,consecuentemente,0
+while,mientras que,0
+while,mientras,0
+whenever,siempre que,0
+when,cuando,0
+this time,esta vez,0
+until now,hasta ahora,0
+then,pues entonces,0
+subsequently,posteriormente,0
+soon,próximamente,0
+sometimes,en ocasiones,0
+so far,hasta aquí,0
+simultaneously,simultáneamente,0
+once,una vez que,0
+now,a continuación,0
+never,nunca,0
+later,más adelante,0
+in the meantime,mientras tanto,0
+immediately,ipso facto,0
+following,siguiente,0
+during,durante,0
+at length,detenidamente,0
+always,siempre,0
+afterwards,posteriormente,0
+after,después de,0
+too,también,0
+second,segundo,0
+next,siguiente,0
+moreover,por otra parte,0
+lastly,finalmente,0
+in addition,en adición,0
+in the second place,en segundo lugar,0
+furthermore,por otro lado,0
+further,más allá,0
+firstly,en primer lugar,0
+first,primero,0
+even more,aún más,0
+besides,además,0
+as a result,como resultado,0
+not,no,0
+or,u,0
+or,o,0
+and,e,0
+and,y,0
+also,también,0
+again,otra vez,0
+additionally,por otra parte,0
+otherwise,de lo contrario,0
+on the contrary,al contrario,0
+nonetheless,empero,0
+nevertheless,sin embargo,0
+however,no obstante,0
+in contrast,en contraste,0
+despite,a pesar de,0
+but,pero,0
+although,es verdad que,0
+after all,a fin de cuentas,0
+after all,al fin y al cabo,0
+that is,es decir,0
+specifically,específicamente,0
+for instance,sin ir más lejos,0
+for example,por ejemplo,0
+e.g.,p. ej.,0
+primarily,prioritariamente,0
+most importantly,más importante aún,0
+chiefly,principalmente,0
+here,aquí,0
+over and above,más allá,0
+below,a continuación,0
+above,por encima de,0
+whatever,da igual,0
+likewise,de igual manera,0
+in the same way,de la misma manera,0
+of course,naturalmente,0
+naturally,naturalmente,0
+it's true,es cierto que,0
+to conclude,para concluir,0
+in the end,al final,0
+in conclusion,en conclusión,0
+lastly,para terminar,0
+finally,por fin,0
+yes,sí,0
+without a doubt,sin duda,0
+undoubtedly,no cabe duda de que,0
+surely,seguro que,0
+of course,por supuesto,0
+no,no,0
+indeed,en efecto,0
+in fact,de hecho,0
+to this end,a este fin,0
+so that,para que,0
+to summarize,en síntesis,0
+to sum up,en conclusión,0
+in short,en resumidas cuentas,0
+in summary,en resumen,0
+in brief,en fin,0
+finally,finalmente,0
+on the other hand,en cambio,0
+on the other hand,por otro lado,0

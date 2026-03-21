@@ -1,0 +1,83 @@
+to hold up,asaltar,0
+to offend,ultrajar,0
+to steal,hurtar,0
+to question,interrogar,0
+to indict,enjuiciar,0
+to convict,condenar,0
+to commit a crime,delinquir,0
+to assassinate,asesinar,0
+to rape,violar,0
+to attack,atacar,0
+to mug,asaltar,0
+to steal,robar,0
+to sue,demandar,0
+to prosecute,procesar,0
+to prosecute,encausar,0
+to interrogate,someter a interrogatorio,0
+to sentence,condenar,0
+to judge,juzgar,0
+to appeal,apelar,0
+to fine,multar,0
+to escape,escapar,0
+locked up,encerrado,0
+to break into,violentar,0
+forensic,forense,0
+to bribe,sobornar,0
+charge,la acusación,0
+prison,la cárcel,0
+jail,la cárcel,0
+death penalty,la pena de muerte,0
+gallows,la horca,0
+to escape,huir,0
+wanted,se busca,0
+evidence,la evidencia,0
+to counterfeit,falsificar,0
+undercover,en secreto,0
+to uncover,destapar,0
+dealer,el camello,0
+drug dealer,el/la traficante de drogas,0
+to report,denunciar,0
+to witness,presenciar,0
+witness,el/la testigo,0
+to kill,matar,0
+plot,la trama,0
+interview,la entrevista,0
+investigation,la investigación,0
+crime,el delito,0
+fix,el apaño,0
+sweep,la barrida,0
+knife,el fierro,0
+case,el caso,0
+to release,excarcelar,0
+thief,el ladrón,0
+deceitful,engañoso,0
+to acquit,absolver,0
+to charge,inculpar,0
+bail,la fianza,0
+sin,el pecado,0
+questioning,el interrogatorio,0
+to mug,atracar,0
+to rob,asaltar,0
+to arrest,arrestar,0
+to apprehend,apresar,0
+robber,el/la asaltante,0
+kleptomaniac,el cleptómano,0
+gang,la pandilla,0
+to murder,asesinar,0
+to betray,traicionar,0
+sadist,el sádico,0
+to hurt,lastimar,0
+kidnapping,el secuestro,0
+to kidnap,raptar,0
+attack,el ataque,0
+rifle,el rifle,0
+weapon,el arma,0
+accident,el accidente,0
+robbery,el asalto,0
+robbery,el robo,0
+rope,la cuerda,0
+uprising,el levantamiento,0
+pistol,la pistola,0
+pirate,el/la pirata,0
+to frame,hacer aparecer como culpable,0
+crime,el crimen,0

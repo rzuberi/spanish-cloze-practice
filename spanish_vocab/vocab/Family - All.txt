@@ -1,0 +1,150 @@
+second cousin,el primo segundo,0
+grandkid,el nieto,0
+maternal grandparents,los abuelos maternos,0
+paternal grandparents,abuelos paternos,0
+grandchildren,los nietos,0
+first cousin,el primo hermano,0
+great-grandchildren,bisnietos,0
+great-granddaughter,la bisnieta,0
+great-grandson,el bisnieto,0
+great-grandmother,la bisabuela,0
+great-grandfather,el bisabuelo,0
+great-great-grandchild,el tataranieto,0
+great-great-granddaughter,la tataranieta,0
+great-great-grandparents,los tatarabuelos,0
+great-great-grandson,el tataranieto,0
+great-great-grandmother,la tatarabuela,0
+great-great-grandfather,el tatarabuelo,0
+great-aunt,la tía abuela,0
+great-uncle,el tío abuelo,0
+stepchildren,los hijastros,0
+son-in-law,el yerno,0
+daughter-in-law,la nuera,0
+in-laws,la familia política,0
+parents-in-law,los suegros,0
+father-in-law,el suegro,0
+mother-in-law,la suegra,0
+brother-in-law,el cuñado,0
+older brother,hermano mayor,0
+older sister,hermana mayor,0
+big sister,hermana mayor,0
+big brother,hermano mayor,0
+younger brother,el hermano menor,0
+younger sister,la hermana menor,0
+little brother,el hermanito,0
+little sister,la hermanita,0
+brother and sister,hermano y hermana,0
+husband and wife,los esposos,0
+newlyweds,recién casados,0
+high chair,la trona,0
+walker,el tacatá,0
+baby carriage,el cochecito,0
+bib,el babero,0
+stroller,el cochecito,0
+rattle,la sonaja,0
+sock,el calcetín,0
+blanket,la manta,0
+wrap,el rebozo,0
+stroller,la carriola,0
+overalls,el mameluco,0
+onesie,el osito,0
+diaper,el pañal,0
+thermometer,el termómetro,0
+bottle,el biberón,0
+baby bottle,el chupón,0
+crib,la cuna,0
+child car seat,el asiento infantil,0
+cradle,la cuna,0
+inheritance,la herencia,0
+sis,el carnalito,0
+adopted,adoptado,0
+Junior,júnior,0
+care,el cuidado,0
+better half,media naranja,0
+other half,la costilla,0
+clan,el clan,0
+tribe,la tribu,0
+stepmother,la madrastra,0
+stepson,el hijastro,0
+stepdaughter,la hijastra,0
+stepbrother,el hermanastro,0
+stepsister,la hermanastra,0
+last name,el apellido,0
+to adore,adorar,0
+spouse,el/la cónyuge,0
+relation,el pariente,0
+ancestor,el antepasado,0
+extended family,la familia extendida,0
+goddaughter's mother,la comadre,0
+goddaughter's father,el compadre,0
+goddaughter,la ahijada,0
+godson,el ahijado,0
+reunion,el reencuentro,0
+partner,la pareja,0
+same-sex,homoparental,0
+niece,la sobrina,0
+senior,sénior,0
+to spoil,malcriar,0
+bride,la novia,0
+guardian,el tutor,0
+family name,el apellido,0
+mommy,la mamacita,0
+to get together,juntarse,0
+grandparents,los abuelos,0
+blood,la sangre,0
+sister-in-law,la cuñada,0
+stepfather,el padrastro,0
+siblings,los hermanos,0
+single,soltero,0
+single,el single,0
+grandson,el nieto,0
+foster,de acogida,0
+love,el amor,0
+granddaughter,la nieta,0
+affection,el cariño,0
+marriage,el matrimonio,0
+younger,menor,0
+to get married,casarse,0
+girlfriend,la novia,0
+boyfriend,el novio,0
+to raise,criar,0
+twin,mellizo,0
+twin,gemelo,0
+little,pequeño,0
+I love you,te amo,0
+family tree,el árbol genealógico,0
+lover,el/la amante,0
+uncle,el tío,0
+married,casado,0
+grandfather,el abuelo,0
+grandmother,la abuela,0
+auntie,la tita,0
+cousin,el primo,0
+cousin,la prima,0
+daughter,la hija,0
+dear,mijo,0
+sister,la hermana,0
+wedding,la boda,0
+aunt,la tía,0
+relative,el/la familiar,0
+parents,los padres,0
+child,el niño,0
+nephew,el sobrino,0
+brother,el hermano,0
+children,los hijos,0
+son,el hijo,0
+dating,salir en citas,0
+husband,el marido,0
+pop,el papi,0
+daddy,el papi,0
+father,el padre,0
+dad,el papá,0
+relationship,la relación,0
+wife,la esposa,0
+baby,el/la baby,0
+mommy,la mami,0
+mum,la mamá,0
+mom,la mamá,0
+mother,la madre,0
+family member,el/la miembro de la familia,0
+family,la familia,0

@@ -1,0 +1,266 @@
+bed,la cama,0
+game room,la sala de juegos,0
+kennel,la perrera,0
+terrace,la terraza,0
+backyard,jardín trasero,0
+bedroom,la habitación,0
+bedroom,el dormitorio,0
+chimney,la chimenea,0
+side table,la mesilla,0
+footrest,el reposapiés,0
+bedside table,la mesita de noche,0
+patio,el patio,0
+end table,la mesa auxiliar,0
+downstairs,en el piso de abajo,0
+upstairs,arriba,0
+to clean,limpiar,0
+to take out the trash,sacar la basura,0
+to dust,quitar el polvo,0
+laundry room,el cuarto de lavar,0
+front yard,el patio delantero,0
+bunk bed,la cama marinera,0
+tree house,casita del árbol,0
+to wash the dishes,lavar los platos,0
+to feed the dog,dar de comer al perro,0
+to feed the cat,dar de comer al gato,0
+to do the laundry,lavar la ropa,0
+to cook,cocinar,0
+to go shopping,ir de compras,0
+to mop the floor,trapear el piso,0
+to mow the lawn,cortar el césped,0
+to walk the dog,pasear al perro,0
+to clear the table,limpiar la mesa,0
+to set the table,poner la mesa,0
+to weed,desyerbar,0
+to water the plants,regar las plantas,0
+to mop,fregar,0
+clean the floor,limpiar el piso,0
+to clean the bathroom,limpiar el baño,0
+to clean the kitchen,limpiar la cocina,0
+vase,el jarrón,0
+rocking chair,la mecedora,0
+poster,el cartel,0
+picture,el cuadro,0
+painting,el cuadro,0
+lampshade,la pantalla,0
+alarm clock,el despertador,0
+headboard,la cabecera,0
+bedspread,la colcha,0
+duvet,el edredón,0
+tea towel,el paño,0
+fruit bowl,el frutero,0
+tablecloth,el mantel,0
+bottle opener,el abridor,0
+bottle,la botella,0
+can opener,el abrelatas,0
+peeler,el pelador,0
+garlic press,el triturador,0
+colander,el colador,0
+skimmer,la espumadera,0
+footstool,el reposapiés,0
+nightstand,la mesilla,0
+crib,la cuna,0
+coffee table,la mesa de centro,0
+dressing table,la coqueta,0
+filing cabinet,el archivero,0
+futon,el futón,0
+gas stove,la estufa de gas,0
+water heater,el calentador de agua,0
+microwave,el microondas,0
+fort,la fortaleza,0
+manor,la casa solariega,0
+mansion,la mansión,0
+hut,la cabaña,0
+greenhouse,el invernadero,0
+porch,el porche,0
+games room,el salón de juegos,0
+garage,el garaje,0
+sunroom,el solario,0
+study,el estudio,0
+nursery,el cuarto de los niños,0
+guest bedroom,el dormitorio de huéspedes,0
+hedge,el seto,0
+stuffing,el relleno,0
+apartment building,el edificio de apartamentos,0
+property,la finca,0
+lawn,el césped,0
+desk,el escritorio,0
+wallpaper,el empapelado,0
+border,la frontera,0
+recycling,el reciclaje,0
+gated community,la privada,0
+light bulb,el bombillo,0
+leak,el escape,0
+loft,el loft,0
+to live,vivir,0
+fountain,la fuente,0
+to lease,tomar en arriendo,0
+mortgage,la hipoteca,0
+to buy,comprar,0
+rent,el alquiler,0
+residence,la residencia,0
+chest,el cofre,0
+cutlery,los cubiertos,0
+to make the bed,hacer la cama,0
+skylight,el tragaluz,0
+balcony,el balcón,0
+housing development,la urbanización,0
+interior design,el interiorismo,0
+abode,la morada,0
+dwelling,la vivienda,0
+to tidy up,poner en orden,0
+to iron,planchar,0
+pantry,la despensa,0
+skip,el contenedor,0
+back door,la puerta trasera,0
+front door,puerta principal,0
+hall,el pasillo,0
+foyer,el hall,0
+vestibule,el portal,0
+candle,la vela,0
+chandelier,la araña,0
+step,el escalón,0
+powder room,el tocador,0
+restroom,el baño,0
+cozy,acogedor,0
+address,la dirección,0
+toiletries,el útiles de aseo,0
+dormer,la buhardilla,0
+attic,el ático,0
+telephone,el teléfono,0
+television,el televisor,0
+radio,el radio,0
+machine,la máquina,0
+bookshelf,el estante de libros,0
+shelf,la balda,0
+cabinet,el armario,0
+cupboard,la alacena,0
+main,el cable principal,0
+plumbing,la plomería,0
+chest of drawers,la cómoda,0
+bookcase,la librera,0
+dresser,el tocador,0
+organization,la organización,0
+towel,la toalla,0
+hammock,la hamaca,0
+floor,el suelo,0
+palace,el palacio,0
+broken,roto,0
+design,el diseño,0
+entrance,la entrada,0
+gate,la puerta,0
+sheet,la sábana,0
+decorations,la decoración,0
+curtain,la cortina,0
+neat,pulcro,0
+curio,la curiosidad,0
+house rules,las normas de convivencia,0
+my room,mi habitación,0
+jar,el bote,0
+bin,el tacho de basura,0
+trash,la basura,0
+fan,el ventilador,0
+comb,el peine,0
+screen,la pantalla,0
+messy,desordenado,0
+to sweep the floor,barrer el suelo,0
+cellar,el sótano,0
+basement,el sótano,0
+utensil,el utensilio,0
+clean,limpio,0
+flight,el tramo,0
+tidy,ordenado,0
+swimming pool,la piscina,0
+vacuum cleaner,la aspiradora,0
+soap,el jabón,0
+accommodations,el alojamiento,0
+duplex,el adosado,0
+condominium,el condominio,0
+apartment,el apartamento,0
+housing,la vivienda,0
+gardening,la jardinería,0
+closet,el armario,0
+wardrobe,el armario,0
+bench,el banco,0
+shed,la caseta,0
+barn,el establo,0
+bird,el pájaro,0
+dog,el perro,0
+cat,el gato,0
+pet,la mascota,0
+leaf,la hoja,0
+to rake,rastrillar,0
+lawnmower,el cortacésped,0
+grass,la hierba,0
+yard,el jardín,0
+garden,el jardín,0
+window,la luna,0
+fence,la cerca,0
+dishwasher,el lavavajillas,0
+oven,el horno,0
+stove,la cocina,0
+fridge,el/la refri,0
+dryer,la secadora,0
+washing machine,la lavadora,0
+real estate,los inmuebles,0
+to set,tender,0
+radiator,el radiador,0
+air conditioning,el aire acondicionado,0
+heating,la calefacción,0
+carpet,la alfombra,0
+rug,la alfombra,0
+blanket,la manta,0
+pillow,la almohada,0
+stairs,la escalera,0
+dining room,el comedor,0
+mirror,el espejo,0
+stool,el taburete,0
+seat,el asiento,0
+fence,la valla,0
+appliance,el electrodoméstico,0
+neighbor,el vecino,0
+my house,mi casa,0
+fireplace,la chimenea,0
+fire,el fuego,0
+fly swatter,el matamoscas,0
+homeless,sin hogar,0
+clock,el reloj,0
+outside,fuera,0
+inside,dentro,0
+key,la llave,0
+lamp,la lámpara,0
+pan,la cacerola,0
+pot,la olla,0
+spoon,la cuchara,0
+knife,el cuchillo,0
+fork,el tenedor,0
+glass,la copa,0
+glass,el vaso,0
+bowl,el bol,0
+sink,el lavabo,0
+toilet,el retrete,0
+dishes,la vajilla,0
+roof,el tejado,0
+ceiling,el techo,0
+wall,la pared,0
+office chair,la silla de oficina,0
+armchair,el sillón,0
+sofa,el sofá,0
+couch,el diván,0
+chair,la silla,0
+bathtub,la bañera,0
+shower,la ducha,0
+housework,los quehaceres,0
+to help at home,ayudar en casa,0
+window,la ventana,0
+door,la puerta,0
+table,la mesa,0
+household,el hogar,0
+living room,la sala,0
+room,el cuarto,0
+bathroom,el baño,0
+furniture,el mobiliario,0
+chores,las tareas domésticas,0
+kitchen,la cocina,0
+house,la casa,0
+home,el hogar,0

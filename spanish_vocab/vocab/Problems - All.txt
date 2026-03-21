@@ -1,0 +1,116 @@
+earthquake,el terremoto,0
+eruption,la erupción,0
+mudslide,el huaico,0
+avalanche,el alud,0
+avalanche,la avalancha,0
+blizzard,la ventisca,0
+tsunami,el tsunami,0
+forest fire,el incendio forestal,0
+tornado,el tornado,0
+hurricane,el huracán,0
+battle,la batalla,0
+discrimination,la discriminación,0
+senselessness,la insensatez,0
+stupidity,la estupidez,0
+foolishness,la insensatez,0
+male chauvinism,el machismo,0
+jealousy,los celos,0
+argument,la riña,0
+favor,el favor,0
+struggle,la lucha,0
+misfortune,la desgracia,0
+predicament,el apuro,0
+censorship,la censura,0
+to rescue,rescatar,0
+war,la guerra,0
+landslide,el alud,0
+drought,la sequía,0
+flood,la inundación,0
+bolt of lightning,el relámpago,0
+to complain,quejarse,0
+peace,la paz,0
+burn,la quemadura,0
+sexism,el sexismo,0
+mess,el lío,0
+lack of,falta de,0
+objection,la objeción,0
+racism,el racismo,0
+to burst,reventar,0
+mold,el moho,0
+remedy,el remedio,0
+choice,el remedio,0
+crisis,la crisis,0
+to explode,estallar,0
+waste,el desperdicio,0
+burden,el lastre,0
+solution,la solución,0
+opportunity,el/la chance,0
+evil,malvado,0
+to fail,suspender,0
+to fail,fracasar,0
+fall,la caída,0
+F,el suspenso,0
+to wallop,zurrar,0
+louse,el piojo,0
+to murder,asesinar,0
+to give in,ceder,0
+illness,la enfermedad,0
+weak point,la punto débil,0
+mistake,el error,0
+disruption,el trastorno,0
+wrong,mal,0
+trouble,la cuita,0
+storm,la tormenta,0
+setback,el contratiempo,0
+to scream,gritar,0
+fix,el apuro,0
+issue,el asunto,0
+to get hurt,dañarse,0
+to break,romper,0
+poison,el veneno,0
+advantage,la ventaja,0
+paradox,la paradoja,0
+venom,el veneno,0
+to threaten,amenazar,0
+sword,la espada,0
+troublemaker,el alborotador,0
+troublemaker,el/la pendenciero,0
+troublemaker,el gamberro,0
+fault,la culpa,0
+crack,la grieta,0
+injury,la lesión,0
+to take on a challenge,asumir un reto,0
+threat,la amenaza,0
+concern,la preocupación,0
+support,el apoyo,0
+split,la escisión,0
+to betray,traicionar,0
+to hurt,hacer daño,0
+invitation,la invitación,0
+to prevent,impedir,0
+attack,el ataque,0
+controversy,la polémica,0
+to argue,discutir,0
+to fight,batallar,0
+to fight,luchar,0
+fight,la bronca,0
+fight,la pelea,0
+fight,la lucha,0
+shove,el empujón,0
+mystery,la incógnita,0
+approach,el acercamiento,0
+robbery,el robo,0
+problem,el inconveniente,0
+spot,la mancha,0
+farce,el circo,0
+farce,el cachondeo,0
+rifle,el rifle,0
+gun,la pistola,0
+conflict,el conflicto,0
+to work out,descifrar,0
+emergency,la emergencia,0
+challenge,el reto,0
+key,la llave,0
+problem,el problema,0
+leak,el escape,0
+accident,el accidente,0

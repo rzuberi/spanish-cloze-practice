@@ -1,0 +1,126 @@
+to be set,situarse,0
+vocabulary,el vocabulario,0
+to summarize,resumir,0
+summary,el resumen,0
+fluency,la fluidez,0
+comprehension,la comprensión,0
+pen name,el seudónimo,0
+metaphor,la metáfora,0
+first edition,príncipe,0
+special issue,el número extraordinario,0
+special edition,el extraordinario,0
+censorship,la censura,0
+storytelling,la narración de cuentos,0
+hyperbole,la hipérbole,0
+mythology,la mitología,0
+alliteration,la aliteración,0
+works cited,las obras citadas,0
+bibliography,la bibliografía,0
+footnote,la nota al pie de página,0
+foot,el pie,0
+rhyme,la rima,0
+speech bubble,el bocadillo,0
+scribe,el escriba,0
+ghostwriter,el negro,0
+translator,el traductor,0
+critic,el crítico,0
+biographer,el biógrafo,0
+playwright,el dramaturgo,0
+essayist,el/la ensayista,0
+novelist,el/la novelista,0
+poet,el/la poeta,0
+plot,el argumento,0
+comic,el tebeo,0
+manga,el manga,0
+reading matter,la lectura,0
+thesaurus,el diccionario de sinónimos,0
+notes,los apuntes,0
+publication,la publicación,0
+to publish,editar,0
+print,la letra de imprenta,0
+author,el escritor,0
+issue,el número,0
+fascicle,la entrega,0
+installment,la entrega,0
+travel guidebook,la guía turística,0
+self-help,la autoayuda,0
+guide,la guía,0
+draft,el borrador,0
+horoscope,el horóscopo,0
+reader,el lector,0
+textbook,el libro de texto,0
+reference,la referencia bibliográfica,0
+memoirs,las memorias,0
+journalism,el periodismo,0
+essay,el ensayo,0
+autobiography,la autobiografía,0
+biography,la biografía,0
+tragicomedy,la tragicomedia,0
+tall tale,la patraña,0
+satire,la sátira,0
+magic realism,el realismo mágico,0
+legend,la leyenda,0
+humour,el humor,0
+fable,la fábula,0
+fiction,la ficción,0
+thriller,el thriller,0
+horror,de terror,0
+fantasy,la literatura fantástica,0
+science fiction,la ciencia ficción,0
+suspense,el suspense,0
+mystery,la novela de misterio,0
+comedy,la comedia,0
+romantic novel,la novela rosa,0
+literature,la literatura,0
+line,las letras,0
+section,la sección,0
+chapter,el capítulo,0
+editor,el editor,0
+to edit,editar,0
+journal,la revista,0
+review,la reseña,0
+copy,el ejemplar,0
+myth,el mito,0
+fairy tale,cuento de hadas,0
+main character,el personaje principal,0
+antagonist,el/la antagonista,0
+protagonist,el/la protagonista,0
+stanza,la estrofa,0
+verse,el verso,0
+volume,el volumen,0
+tome,el tomo,0
+quarterly,la publicación trimestral,0
+magazine,la revista,0
+newsletter,el boletín informativo,0
+newspaper,el periódico,0
+page,la página,0
+appendix,el apéndice,0
+supplement,el anejo,0
+genre,el género,0
+subtitle,el subtítulo,0
+title,el título,0
+text,el texto,0
+binding,la encuadernación,0
+quote,la cita,0
+idyll,el idilio,0
+headline,el encabezado,0
+editorial,el editorial,0
+article,el artículo,0
+proverb,el proverbio,0
+saying,el refrán,0
+poem,el poema,0
+poetry,la poesía,0
+dictionary,el diccionario,0
+sentence,la oración,0
+Harry Potter,Harry Potter,0
+short story,el relato corto,0
+tale,la conseja,0
+bookstore,la librería,0
+library,la biblioteca,0
+theme,el tema,0
+character,el personaje,0
+reading,la lectura,0
+to read,leer,0
+notebook,el cuaderno,0
+story,el cuento,0
+book,el libro,0

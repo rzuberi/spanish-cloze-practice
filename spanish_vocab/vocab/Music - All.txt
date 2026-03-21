@@ -1,0 +1,109 @@
+score,la partitura,0
+staff,la pauta,0
+lyrics,la letra,0
+to strum,rasguear,0
+piccolo,el flautín,0
+conductor,el director de orquesta,0
+turntable,el plato,0
+semibreve,la redonda,0
+whole note,la redonda,0
+intro,la intro,0
+breve,la cuadrada,0
+maestro,el maestro,0
+piece,la composición,0
+cover,el cover,0
+pianist,el/la pianista,0
+to twerk,perrear,0
+duo,el dúo,0
+solo,el solo,0
+trio,el terceto,0
+album,el álbum,0
+cumbia,la cumbia,0
+saxophone,el saxofón,0
+performance,la performance,0
+tenor,el tenor,0
+soprano,el/la soprano,0
+high,agudo,0
+low,grave,0
+tango,el tango,0
+minor,menor,0
+bachata,la bachata,0
+musical,musical,0
+musical,el musical,0
+minim,la blanca,0
+half note,la blanca,0
+flamenco,el flamenco,0
+key,la tecla,0
+clef,la clave,0
+to perform,ejecutar,0
+note,la nota,0
+rhythm,el compás,0
+tempo,el tempo,0
+movement,el movimiento,0
+listeners,el público,0
+audience,el público,0
+mix,la mezcla,0
+harmony,la armonía,0
+modulation,la modulación,0
+salsa,la salsa,0
+keyboard,el teclado,0
+piano,el piano,0
+rap,el rap,0
+percussión,la percusión,0
+drum kit,la batería,0
+to listen,escuchar,0
+track,la pista,0
+stanza,la estrofa,0
+verse,la estrofa,0
+rock,el rock,0
+MP3,el MP3,0
+CD,CD,0
+conductor,el director,0
+musical instrument,instrumento musical,0
+voice,la voz,0
+scale,la escala,0
+genre,el género,0
+star,la estrella,0
+hit,el éxito,0
+hit,el hit,0
+swing,el swing,0
+fan,el/la fan,0
+choir,el coro,0
+chorus,el estribillo,0
+studio,el estudio,0
+concert,el concierto,0
+rest,el silencio,0
+soundbox,la caja,0
+drum,el tambor,0
+pop,el pop,0
+instrument,el instrumento,0
+dance,el baile,0
+singer,el/la cantante,0
+harp,el arpa,0
+trumpet,la trompeta,0
+clarinet,el clarinete,0
+cello,el cello,0
+flute,la flauta,0
+organ,el órgano,0
+la,el la,0
+G,el sol,0
+F,el fa,0
+E,el mi,0
+D,el re,0
+C,el do,0
+bass,el bajo,0
+music,la música,0
+to play,tocar,0
+to sing,cantar,0
+to tune,afinar,0
+to record,grabar,0
+to accompany,acompañar,0
+to arrange,hacer los arreglos de,0
+to compose,componer,0
+to conduct,dirigir,0
+to hum,tararear,0
+to sing in tune,afinar,0
+to pluck,puntear,0
+to strum,tañer,0
+to strike,pisar,0
+to drum,tamborilear,0

@@ -1,0 +1,302 @@
+country,el país,0
+square,la plaza,0
+police station,la comisaría,0
+fire station,la estación de bomberos,0
+map,el mapa,0
+Puerto Rico,Puerto Rico,0
+South Africa,Sudáfrica,0
+Bermuda,la Bermudas,0
+India,la India,0
+United States,Estados Unidos,0
+United Kingdom,el Reino Unido,0
+Trinidad and Tobago,Trinidad y Tobago,0
+New Zealand,Nueva Zelanda,0
+Jamaica,Jamaica,0
+Ireland,Irlanda,0
+Guyana,Guyana,0
+Canada,Canadá,0
+Belize,el Belice,0
+Barbados,Barbados,0
+Bahamas,la Bahamas,0
+Antigua and Barbuda,Antigua y Barbuda,0
+Australia,Australia,0
+Panama,Panamá,0
+Argentina,la Argentina,0
+Paraguay,Paraguay,0
+Uruguay,el Uruguay,0
+Bolivia,Bolivia,0
+Chile,Chile,0
+Colombia,Colombia,0
+Costa Rica,Costa Rica,0
+Dominican Republic,la República Dominicana,0
+Cuba,la Cuba,0
+Ecuador,Ecuador,0
+El Salvador,El Salvador,0
+Equatorial Guinea,Guinea Ecuatorial,0
+Honduras,Honduras,0
+Guatemala,Guatemala,0
+Mexico,México,0
+Nicaragua,Nicaragua,0
+Peru,Perú,0
+Spain,España,0
+Venezuela,la Venezuela,0
+shipyard,el astillero,0
+hollow,la depresión,0
+prison,la prisión,0
+jail,la cárcel,0
+viewpoint,el mirador,0
+classroom,el aula,0
+corner,la esquina,0
+storehouse,el almacén,0
+lot,el solar,0
+barn,el establo,0
+seat,la sede,0
+headquarters,la sede,0
+source,la fuente,0
+gas station,la gasolinera,0
+club,el club,0
+reservoir,el embalse,0
+swamp,el pantano,0
+bog,el cenagal,0
+universe,el universo,0
+monument,el monumento,0
+everywhere,por todas partes,0
+orchard,el huerto,0
+border,la frontera,0
+shed,la caseta,0
+habitat,el hábitat,0
+quarter,el casco,0
+old quarter,casco antiguo,0
+ATM,el cajero automático,0
+dormitory,la residencia estudiantil,0
+nursing home,hogar de ancianos,0
+boarding house,la fonda,0
+isolated,aislado,0
+balcony,el balcón,0
+ski resort,la estación de esquí,0
+golf course,el campo de golf,0
+bowling alley,la bolera,0
+box office,la taquilla,0
+courthouse,el palacio de justicia,0
+graveyard,el cementerio,0
+tomb,la tumba,0
+grave,la tumba,0
+desert,el desierto,0
+path,el sendero,0
+canal,el canal,0
+field,el campo,0
+repair shop,el taller,0
+garage,el garaje,0
+workshop,el taller,0
+mine,la mina,0
+AU,UA,0
+travel agency,la agencia de viajes,0
+outskirts,las afueras,0
+suburbs,las cercanías,0
+closing,el cierre,0
+reopening,la reapertura,0
+grand opening,gran apertura,0
+tent,la tienda de campaña,0
+rainforest,la selva tropical,0
+jungle,la jungla,0
+woods,el bosque,0
+shore,la costa,0
+shore,la orilla,0
+planet,el planeta,0
+Latin America,Latinoamérica,0
+closet,el armario,0
+stadium,el estadio,0
+floor,el suelo,0
+castle,el castillo,0
+palace,el palacio,0
+surroundings,el entorno,0
+fence,la valla,0
+gate,la puerta,0
+stand,el puesto,0
+dump,el vertedero,0
+tip,el extremo,0
+entrance,la entrada,0
+exit,la salida,0
+Antarctica,la Antártida,0
+Oceania,Oceanía,0
+Asia,Asia,0
+Africa,África,0
+North America,Norteamérica,0
+Central America,América Central,0
+South America,Sudamérica,0
+Europe,Europa,0
+plain,la llanura,0
+plot,el solar,0
+department store,los grandes almacenes,0
+national park,el parque nacional,0
+estate,la hacienda,0
+reserve,el coto,0
+plantation,la plantación,0
+hill,la colina,0
+abroad,al extranjero,0
+hostel,el albergue,0
+motel,el motel,0
+inn,la posada,0
+wine cellar,la bodega,0
+winery,la bodega,0
+cellar,el sótano,0
+basement,el sótano,0
+reef,el arrecife,0
+forest,el bosque,0
+bus stop,la parada de autobús,0
+bus station,la estación de autobuses,0
+train station,estación de ferrocarril,0
+station,la estación,0
+area,la zona,0
+space,el espacio,0
+region,la región,0
+scene,la escena,0
+scene,el escenario,0
+rural,rural,0
+urban,urbano,0
+bottom,el fondo,0
+top,la parte superior,0
+middle,el medio,0
+pond,el estanque,0
+lake,el lago,0
+highway,la autovía,0
+sports center,el polideportivo,0
+center,el centro,0
+main square,la plaza mayor,0
+destination,el destino,0
+island,la isla,0
+dining hall,el comedor,0
+pool,la piscina,0
+housing,la vivienda,0
+spot,el lugar,0
+court,el juzgado,0
+mountain,la montaña,0
+traffic island,la isleta,0
+roundabout,la glorieta,0
+refuge,el refugio,0
+shelter,el albergue,0
+shelter,el refugio,0
+land,la tierra,0
+office,el despacho,0
+study,el despacho,0
+place of birth,el lugar de nacimiento,0
+warehouse,el almacén,0
+post office,la oficina de correos,0
+staircase,la escalera,0
+near,cerca,0
+far,lejos,0
+barber shop,la barbería,0
+hair salon,la peluquería,0
+developing country,el país en desarrollo,0
+nation,la nación,0
+fountain,la fuente,0
+county,el condado,0
+block,la manzana,0
+atmosphere,la atmósfera,0
+environment,el ambiente,0
+shopping center,el centro comercial,0
+mall,el centro comercial,0
+pharmacy,la farmacia,0
+wall,la muralla,0
+capital,la capital,0
+flea market,el mercadillo,0
+market,el mercado,0
+theater,el teatro,0
+movie theater,el cinema,0
+house,la casa,0
+apartment building,el edificio de apartamentos,0
+hovel,la casucha,0
+hut,la choza,0
+shack,la chabola,0
+building,el edificio,0
+sea,el/la mar,0
+bay,la bahía,0
+ocean,el océano,0
+position,la ubicación,0
+pier,el muelle,0
+amusement park,el parque de atracciones,0
+marina,el puerto deportivo,0
+port,el puerto,0
+gym,el gimnasio,0
+fort,el fuerte,0
+community,la comunidad,0
+science museum,el museo de la ciencia,0
+art museum,el museo de arte,0
+museum,el museo,0
+zoo,el zoo,0
+nowhere,en ninguna parte,0
+anywhere,cualquier lugar,0
+there,ahí,0
+here,aquí,0
+bridge,el puente,0
+town hall,el concejo,0
+city hall,el ayuntamiento,0
+pasture,el acampo,0
+stable,el establo,0
+ranch,el rancho,0
+farm,la granja,0
+tabernacle,el tabernáculo,0
+mosque,la mezquita,0
+temple,el templo,0
+synagogue,la sinagoga,0
+church,la iglesia,0
+river,el río,0
+window,la ventana,0
+door,la puerta,0
+location,la ubicación,0
+meadow,la pradera,0
+neighborhood,el barrio,0
+street,la calle,0
+park,el parque,0
+backyard,jardín trasero,0
+front yard,el jardín delantero,0
+vegetable garden,el huerto,0
+yard,el jardín,0
+garden,el jardín,0
+bank,el banco,0
+patio,el patio,0
+cafeteria,la cantina,0
+pub,el pub,0
+bar,el bar,0
+café,el café,0
+library,la biblioteca,0
+retirement home,la residencia de ancianos,0
+daycare center,la guardería,0
+public school,la escuela pública,0
+private school,la escuela privada,0
+boarding school,el internado,0
+university,la universidad,0
+inside,dentro,0
+outside,fuera,0
+stationery store,la papelería,0
+bookshop,la librería,0
+bookstore,la librería,0
+toy store,la juguetería,0
+hardware store,la ferretería,0
+bakery,la panadería,0
+greengrocer's,la frutería,0
+grocery store,la tienda de comestibles,0
+supermarket,el supermercado,0
+butcher's,la carnicería,0
+dentist,el/la dentista,0
+doctor's office,el consultorio médico,0
+hospital,el hospital,0
+countryside,el campo,0
+hotel,el hotel,0
+beach,la playa,0
+skyscraper,el rascacielos,0
+office,la oficina,0
+stall,el puesto,0
+kiosk,el quiosco,0
+shop,la tienda,0
+business,el negocio,0
+hamlet,la aldea,0
+village,el pueblo,0
+town,el pueblo,0
+city,la ciudad,0
+airport,el aeropuerto,0
+place,el lugar,0
+restaurant,el restaurante,0
+high school,el instituto,0
+school,el colegio,0
+school,la escuela,0

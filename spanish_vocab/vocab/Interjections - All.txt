@@ -1,0 +1,48 @@
+Bang!,¡Zas!,0
+Haha!,¡Ja ja!,0
+patience,paciencia,0
+boy, caramba,ay,0
+hurray,aleluya,0
+Sorry?,cómo,0
+congratulations,felicidades,0
+no way,de ningún modo,0
+no way,nada de eso,0
+no way,ni hablar,0
+yes,sí,0
+calm down,tranquilízate,0
+calm down,tranquilo,0
+congratulations,enhorabuena,0
+boo,bu,0
+Alright!,¡Órale!,0
+okay,de acuerdo,0
+hello,bueno,0
+ok,bueno,0
+bravo,bravo,0
+sure,¡Anjá!,0
+ow,ay,0
+cool,guay,0
+Ha!,¡Ja!,0
+come in,adelante,0
+Go ahead!,¡Dale!,0
+bravo,olé,0
+enough,basta,0
+perfect,perfecto,0
+be careful,ojo,0
+hopefully,ojalá,0
+poor dear,pobre,0
+Nonsense!,¡Ca!,0
+great,genial,0
+great,regio,0
+very good,muy bien,0
+down with,abajo,0
+below,abajo,0
+come on,ánimo,0
+be careful,cuidado,0
+hey,eh,0
+Wow!,¡Jo!,0
+Wow!,¡Caray!,0
+Wow!,¡Guau!,0
+Wow!,¡Caramba!,0
+Hey!,¡Oye!,0
+hurrah,viva,0
+ah,ah,0

@@ -1,0 +1,279 @@
+to compete,competir,0
+to draw,dibujar,0
+to take photos,sacar fotos,0
+to play basketball,jugar al baloncesto,0
+to cook,cocinar,0
+to write,escribir,0
+to play sports,practicar deportes,0
+to play the piano,tocar el piano,0
+to dance,bailar,0
+to swim,nadar,0
+to fish,pescar,0
+to scuba dive,bucear,0
+to jog,trotar,0
+to sing,cantar,0
+to knit,tejer,0
+to go to the museum,ir al museo,0
+to collect coins,coleccionar monedas,0
+to play soccer,jugar al fútbol,0
+to play board games,jugar juegos de mesa,0
+to do yoga,hacer yoga,0
+to act,actuar,0
+to learn languages,aprender idiomas,0
+to make handicrafts,hacer manualidades,0
+to watch movies,ver películas,0
+to climb,trepar,0
+to hang out with friends,juntarse con amigos,0
+to go skydiving,hacer paracaidismo,0
+to skate,patinar,0
+to play,jugar,0
+to skip,brincar,0
+to jump,saltar,0
+to hop,saltar a la pata coja,0
+tag,el corre que te pillo,0
+to hide,esconder,0
+hide-and-seek,las escondidas,0
+swing,el columpio,0
+sandbox,el cajón de arena,0
+playground,el parque infantil,0
+to push,empujar,0
+to pull,jalar,0
+toy,el juguete,0
+Frisbee,el frisbee,0
+rope,la cuerda,0
+tree house,casa del árbol,0
+roller coaster,la montaña rusa,0
+Ferris wheel,la noria,0
+carousel,el carrusel,0
+slide,el tobogán,0
+bumper cars,carros chocones,0
+acrobat,el/la acróbata,0
+clown,el payaso,0
+popcorn,el popcorn,0
+costume,el disfraz,0
+stilt,el zanco,0
+trapeze,el trapecio,0
+magician,el mago,0
+juggler,el/la malabarista,0
+cotton candy,el dulce de algodón,0
+prize,el premio,0
+food court,plaza de comida,0
+games of chance,los juegos de azar,0
+to ride,montar,0
+fireworks,los fuegos artificiales,0
+arts and crafts,las manualidades,0
+to sunbathe,tomar el sol,0
+to tell stories,contar cuentos,0
+climbing,la escalada,0
+mountain climbing,el montañismo,0
+mountaineering,el alpinismo,0
+to play golf,jugar al golf,0
+to play volleyball,jugar al voleibol,0
+piccolo,el flautín,0
+to drive,conducir,0
+to shoot,disparar,0
+networking,la creación de una red de contactos,0
+to talk on the phone,hablar por teléfono,0
+to jump rope,saltar a la cuerda,0
+to play games,jugar juegos,0
+to warm up,calentar,0
+to hum,tararear,0
+to nap,descansar,0
+to take a nap,tomar una siesta,0
+editing,la edición,0
+to take pictures,tomar fotos,0
+manga,el manga,0
+track and field,el atletismo,0
+theater,el teatro,0
+to twerk,perrear,0
+magic,la magia,0
+album,el álbum,0
+cumbia,la cumbia,0
+doodle,el monigote,0
+ice skating,el patinaje sobre hielo,0
+saxophone,el saxofón,0
+bowling,los bolos,0
+to sleep,dormir,0
+to play chess,jugar al ajedrez,0
+to write stories,escribir cuentos,0
+gymnastics,la gimnasia,0
+to dance tango,bailar tango,0
+scooter,el monopatín,0
+skateboarding,el skateboard,0
+expert,el experto,0
+intermediate,de nivel intermedio,0
+beginner,el/la principiante,0
+horseback riding,la equitación,0
+piracy,la piratería,0
+softball,el sóftbol,0
+road trip,el viaje por carretera,0
+musical,el musical,0
+boxing,el boxeo,0
+flamenco,el flamenco,0
+to design,diseñar,0
+to run,correr,0
+cake,el pastel,0
+to collect,coleccionar,0
+paddle,la pala,0
+keyboard,el teclado,0
+to train,entrenarse,0
+to compose,componer,0
+to perform,interpretar,0
+hockey,el hockey,0
+to relax,relajarse,0
+to laugh,reír,0
+to rap,rapear,0
+to read magazines,leer revistas,0
+adventure,la aventura,0
+to go to the beach,ir a la playa,0
+to play the drums,tocar la batería,0
+to play baseball,jugar al béisbol,0
+wrestling,la lucha libre,0
+series,la serie,0
+surfing,el surfing,0
+philosophy,la filosofía,0
+to get a haircut,cortarse el pelo,0
+to pull a prank,hacer una travesura,0
+to work out,hacer ejercicio,0
+to ride a bike,montar en bici,0
+to ride a horse,montar a caballo,0
+to style one's hair,peinarse,0
+homework,la tarea,0
+housework,los quehaceres,0
+spare time,el tiempo libre,0
+fitness,el mantenimiento,0
+ceramics,la cerámica,0
+amusement park,el parque de atracciones,0
+squash,el squash,0
+interests,intereses,0
+coaching,el entrenamiento,0
+astrology,la astrología,0
+skiing,el esquí,0
+to text,enviar mensajes de texto,0
+radio,el radio,0
+to watch videos,ver videos,0
+crochet,el crochet,0
+knitting,la labor de punto,0
+sewing,la costura,0
+gardening,la jardinería,0
+handball,el balonmano,0
+fashion,la moda,0
+water sports,los deportes acuáticos,0
+dominoes,el dominó,0
+checkers,las damas,0
+chess,el ajedrez,0
+drama,el drama,0
+choir,el coro,0
+to study,estudiar,0
+to go for a walk,pasear,0
+roller skating,el patinaje sobre ruedas,0
+figure skating,el patinaje artístico,0
+to play video games,jugar videojuegos,0
+to play tennis,jugar al tenis,0
+to go to concerts,ir a conciertos,0
+match,el partido,0
+fishing,la pesca,0
+poetry,la poesía,0
+to tell jokes,contar chistes,0
+golf,el golf,0
+customs and traditions,costumbres y tradiciones,0
+to go camping,ir de camping,0
+to have fun,divertirse,0
+to play an instrument,tocar un instrumento,0
+scuba diving,el submarinismo,0
+diving,el buceo,0
+to walk,andar,0
+trekking,el trekking,0
+mountain biking,ciclismo de montaña,0
+biking,el ciclismo,0
+volleyball,el voleibol,0
+leisure,el ocio,0
+yoga,el yoga,0
+athletics,el atletismo,0
+to rehearse,ensayar,0
+essay,el ensayo,0
+watercolor painting,la acuarela,0
+oil painting,la pintura al óleo,0
+to read the newspaper,leer el periódico,0
+to watch the news,ver las noticias,0
+entertainment,el entretenimiento,0
+film,la película,0
+hiking,el senderismo,0
+to go to the library,ir a la biblioteca,0
+pastel,el dibujo al pastel,0
+to sketch,esbozar,0
+drawing,el dibujo,0
+dancing,el baile,0
+show,el show,0
+singing,el canto,0
+dice,los dados,0
+to watch TV,ver la tele,0
+rest,el descanso,0
+cruise,el crucero,0
+gambling,las apuestas,0
+pool,el billar,0
+martial art,la arte marcial,0
+to ski,esquiar,0
+song,la canción,0
+to play the guitar,tocar la guitarra,0
+to fly,volar,0
+things to do,cosas que hacer,0
+jigsaw puzzle,el puzzle,0
+pastime,el pasatiempo,0
+media,medios de comunicación,0
+organ,el órgano,0
+ball,la pelota,0
+team,el equipo,0
+video game,el videojuego,0
+practice,el entrenamiento,0
+photography,la fotografía,0
+kayak,el kayak,0
+canoe,la canoa,0
+sailing,la navegación a vela,0
+boat,el barco,0
+gym,el gimnasio,0
+character,el personaje,0
+to paint,pintar,0
+zoo,el zoo,0
+jogging,el jogging,0
+running,el pedestrismo,0
+World Cup,la Copa Mundial,0
+swimming,la natación,0
+program,el programa,0
+reading,la lectura,0
+outdoors,al aire libre,0
+horoscope,el horóscopo,0
+cinema,el cinema,0
+television,la televisión,0
+baseball,el béisbol,0
+culture,la cultura,0
+notebook,el cuaderno,0
+free time,el tiempo libre,0
+story,el cuento,0
+exercise,el ejercicio,0
+garden,el jardín,0
+football,el fútbol,0
+to color,colorear,0
+routine,la rutina,0
+basketball,el baloncesto,0
+dance,el baile,0
+bass,el bajo,0
+to read,leer,0
+movie,la película,0
+party,la fiesta,0
+games,los juegos,0
+book,el libro,0
+art,el arte,0
+tourism,el turismo,0
+to travel,viajar,0
+soccer,el fútbol,0
+conversation,la conversación,0
+cooking,la cocina,0
+shopping,las compras,0
+activity,la actividad,0
+chores,las tareas domésticas,0
+vacation,la vacación,0
+holidays,la vacación,0
+music,la música,0
+hobby,el hobby,0
+sports,los deportes,0

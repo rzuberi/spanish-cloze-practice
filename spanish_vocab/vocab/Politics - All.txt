@@ -1,0 +1,158 @@
+register,el censo,0
+to elect,elegir,0
+elect,electo,0
+overthrow,el derrocamiento,0
+veto,el veto,0
+debate,el debate,0
+plan,el plan,0
+to give a speech,dar un discurso,0
+public,el público,0
+international,internacional,0
+nonprofit,sin ánimo de lucro,0
+governmental,gubernamental,0
+economic,económico,0
+social,social,0
+cultural,cultural,0
+Democratic,demócrata,0
+democratic,democrático,0
+Republican,el republicano,0
+republican,republicano,0
+fascist,fascista,0
+refugee,refugiado,0
+comrade,el compañero,0
+comrade,el/la camarada,0
+loyal,leal,0
+censorship,la censura,0
+seat,el escaño,0
+regional government,la Junta,0
+campaign,la campaña,0
+mission,la misión,0
+green,verde,0
+to rise up,sublevarse,0
+progressive,progresista,0
+sit-in,la sentada,0
+convention,la convención,0
+demonstration,la manifestación,0
+vote,la votación,0
+tie,el empate,0
+to abdicate,abdicar,0
+speaker,el expositor,0
+to conquer,conquistar,0
+candidate,el candidato,0
+connections,el enchufe,0
+contact,la palanca,0
+me too,yo también,0
+Black Lives Matter,Las vidas negras importan,0
+racism,el racismo,0
+idealistic,idealista,0
+realistic,realista,0
+to govern,regir,0
+to govern,gobernar,0
+migration,la migración,0
+to rebel,sublevarse,0
+freedom,la libertad,0
+lobby,el lobby,0
+to pass,aprobar,0
+member,afiliado,0
+French Revolution,Revolución francesa,0
+revolution,la revolución,0
+power,el poder,0
+riot,la revuelta,0
+machine,la máquina,0
+ban,la prohibición,0
+human trafficking,la trata,0
+secretariat,el secretariado,0
+conflict,el conflicto,0
+human rights,los derechos humanos,0
+loyalty,la lealtad,0
+dove,la paloma,0
+law,la ley,0
+citizen,el ciudadano,0
+leader,el/la dirigente,0
+palace,el palacio,0
+protest,la protesta,0
+battle,la batalla,0
+opponent,el opositor,0
+leadership,el liderazgo,0
+bill,proyecto de ley,0
+development,el devenir,0
+army,el ejército,0
+vote,el voto,0
+inequality,la desigualdad,0
+council,la diputación,0
+reaction,la reacción,0
+espionage,el espionaje,0
+candidacy,la candidatura,0
+ticket,la fórmula,0
+march,la marcha,0
+global,global,0
+struggle,la lucha,0
+dictatorship,la dictadura,0
+dictator,el dictador,0
+authoritarian,autoritario,0
+occupied,ocupado,0
+independence,la independencia,0
+nomination,el nombramiento,0
+election,las elecciones,0
+advisor,el consejero,0
+minister,el ministro,0
+minister,el secretario,0
+minister,el consejero,0
+cabinet,el gabinete,0
+cabinet,el consejo de ministros,0
+chancellor,el/la canciller,0
+prime minister,el primer ministro,0
+president,el presidente,0
+mayor,la alcaldesa,0
+mayor,el alcalde,0
+representative,el diputado,0
+senator,el senador,0
+politician,el político,0
+king,el rey,0
+queen,la reina,0
+position,la posición,0
+position,la postura,0
+position,el cargo,0
+economy,la economía,0
+tribe,la tribu,0
+right,el derecho,0
+flag,la bandera,0
+movement,el movimiento,0
+population,la población,0
+change,el cambio,0
+developing country,el país en desarrollo,0
+welfare state,el estado del bienestar,0
+health care,la asistencia sanitaria,0
+state,el estado,0
+nation,la nación,0
+peace,la paz,0
+weapon,el arma,0
+state,el estado,0
+party,el partido,0
+war,la guerra,0
+policy,la política,0
+mandate,el mandato,0
+to run,concurrir,0
+news,las noticias,0
+committee,el comité,0
+royal,regio,0
+royal,el/la miembro de la familia real,0
+constitution,la constitución,0
+republic,la república,0
+monarchy,la monarquía,0
+crown,el trono,0
+fight,la lucha,0
+political,político,0
+socialist,socialista,0
+Communist,comunista,0
+anarchist,el/la anarquista,0
+libertarian,el libertario,0
+liberal,liberal,0
+conservative,conservador,0
+right,la derecha,0
+left,la izquierda,0
+opinion,la opinión,0
+map,el mapa,0
+immigration,la inmigración,0
+government,el gobierno,0
+politics,la política,0

@@ -1,0 +1,1187 @@
+to compete,competir,0
+to teach,enseñar,0
+to send,enviar,0
+to come,venir,0
+to put,poner,0
+to see,ver,0
+to pay,pagar,0
+to be able to,poder,0
+to slow down,ralentizar,0
+to drive crazy,enloquecer,0
+to hang,suspender,0
+to wash the dishes,lavar los platos,0
+to impose,imponer,0
+to be in charge of,estar al mando de,0
+to not give a straight answer,responder con evasivas,0
+to cover oneself,cubrirse,0
+to make stand on end,erizar,0
+to hedge,cercar con un seto,0
+to faint,desvanecerse,0
+to vanish,esfumarse,0
+to wear out,ajar,0
+to have an afternoon snack,merendar,0
+to get divorced,divorciarse,0
+to correct,corregir,0
+to impress,impresionar,0
+to frighten,asustar,0
+to shock,escandalizar,0
+to make impossible,imposibilitar,0
+to exclude,excluir,0
+to calm down,calmarse,0
+to instill,inculcar,0
+to stay,hospedarse,0
+to break up,desguazar,0
+to throw away,desechar,0
+to rule out,descartar,0
+to sunbathe,tomar el sol,0
+to rescue,rescatar,0
+to seat,talonar,0
+to look forward to,estar deseando,0
+to feel like,tener ganas de,0
+to hike,hacer senderismo,0
+to claim,reclamar,0
+to protest,protestar,0
+to agree with,estar de acuerdo,0
+to weigh,levar,0
+to flatten,allanar,0
+to try,procurar,0
+to fall behind,atrasarse,0
+to charge at,arremeter,0
+to whip,azotar,0
+to agree,concordar,0
+to campaign,hacer campaña,0
+to envy,envidiar,0
+to sit,sentar,0
+to climb,trepar,0
+to fall ill,enfermar,0
+to get dirty,ensuciarse,0
+to collect,recaudar,0
+to lift,elevar,0
+to cheer up,animarse,0
+to stop,dejar de,0
+to redefine,redefinir,0
+to clear,atrabancar,0
+to push up,hacer subir,0
+to vomit,vomitar,0
+to bring up,sacar a relucir,0
+to appear,figurar,0
+to color in with crayons,pintar con ceras,0
+to send a message to,enviar un mensaje a,0
+to lower,agachar,0
+to unite,unificar,0
+to give,conceder,0
+to ring out,repiquetear,0
+to echo,resonar,0
+to drum,tamborilear,0
+to play the drums,tocar la batería,0
+to play drums,tocar el tambor,0
+to bet,apostar,0
+to catch,atrapar,0
+to become less deep,hacerse menos profundo,0
+to encode,cifrar,0
+to codify,codificar,0
+to charge for,cobrar,0
+to outline,explicar a grandes rasgos,0
+to outline,perfilar,0
+to sketch,esbozar,0
+to staff,dotar de personal,0
+to greet one another,saludarse,0
+to be happy,ser feliz,0
+to abut,lindar con,0
+to share a border with,limitar con,0
+to stockpile,acaparar,0
+to corral,acorralar,0
+to set a trap,tender una trampa,0
+to make,elaborar,0
+to formulate,formular,0
+to frame,enmarcar,0
+to stay,mantenerse,0
+to shop,hacer compras,0
+to require,requerir,0
+to assert,afirmar,0
+to state,declarar,0
+to fan,aventar,0
+to conceive,concebir,0
+to wake up,despertar,0
+to cry,lagrimar,0
+to escape,escaparse,0
+to scare,dar miedo,0
+to hoe again,binar,0
+to cure,curar,0
+to remedy,remediar,0
+to fill with,infundir,0
+to stimulate,estimular,0
+to inspire,inspirar,0
+to network,conectar a la red,0
+to network,establecer contactos,0
+to place,situar,0
+to position,posicionar,0
+to upset,disgustar,0
+to evade,burlar,0
+to jump rope,saltar a la cuerda,0
+to extend,prolongar,0
+to emigrate,emigrar,0
+to take care of oneself,cuidarse,0
+to curse,echar una maldición a,0
+to curse,maldecir,0
+to scrape,raspar,0
+to cross out,tachar,0
+to scratch,rascar,0
+to dress up,ataviar,0
+to exhibit,exhibir,0
+to arrange,disponer,0
+to explode,estallar,0
+to waste,desperdiciar,0
+to waste,malgastar,0
+to thrive,crecerse,0
+to type,escribir a máquina,0
+to type,teclear,0
+to undress,desnudar,0
+to make ... fall in love,enamorar,0
+to forge,falsificar,0
+to overwhelm,agobiar,0
+to boil,bullir,0
+to buzz,zumbar,0
+to sing softly,canturrear,0
+to sing to oneself,tararear,0
+to finance,financiar,0
+to authenticate,autenticar,0
+to become,convertirse,0
+to plant,plantar,0
+to go up to,subir a,0
+to come into,entrar en,0
+to go in,meterse,0
+to wait for,aguardar,0
+to propel,impulsar,0
+to promote,promover,0
+to ride a bicycle,ir en bicicleta,0
+to chance to,dar la casualidad de que,0
+to risk,arriesgarse a,0
+to rebuild,reconstruir,0
+to feel like,apetecer,0
+to beat,apalear,0
+to anger,enojar,0
+to live,habitar,0
+to contact,contactar,0
+to get to,llegar a,0
+to publish,editar,0
+to pile up,apilar,0
+to pour,diluviar,0
+to flow,fluir,0
+to invest in,invertir en,0
+to collapse,desplomarse,0
+to cultivate,cultivar,0
+to warp,urdir,0
+to plot,maquinar,0
+to expose,dejar al descubierto,0
+to bring to light,sacar a la luz,0
+to open,destapar,0
+to turn into,convertir,0
+to benefit from,beneficiarse,0
+to fall asleep,dormirse,0
+to keep quiet,callar,0
+to exercise,ejercitarse,0
+to elbow,dar un codazo a,0
+to write reviews,escribir críticas,0
+to review,pasar revista a,0
+to review,reseñar,0
+to analyze,analizar,0
+to shake,temblar,0
+to witness,dar testimonio,0
+to testify,atestiguar,0
+to witness,presenciar,0
+to be,encontrarse,0
+to lie in,radicar,0
+to imagine,representarse,0
+to eliminate,suprimir,0
+to shed,mudar de,0
+to spill,derramar,0
+to abdicate,abdicar,0
+to determine,determinar,0
+to plot,tramar,0
+to stand out,destacarse,0
+to offer,ofrecer,0
+to count on,contar con,0
+to exacerbate,exacerbar,0
+to make worse,agravar,0
+to list,listar,0
+to make a mistake,equivocarse,0
+to remove,eliminar,0
+to make friends,hacer amigos,0
+to average out,promediar,0
+to venerate,venerar,0
+to worship,rendirle culto a,0
+to worship,idolatrar,0
+to ache for,suspirar por,0
+to long for,ansiar,0
+to get some fresh air,ventilarse,0
+to receive,acoger,0
+to welcome,dar la bienvenida,0
+to favor,favorecer,0
+to sew,coser,0
+to justify,justificar,0
+to proclaim boastfully,vociferar,0
+to storm,tomar por asalto,0
+to shake,menear,0
+to bathe,bañar,0
+to cycle,hacer en bici,0
+to go by bike,ir en bici,0
+to calm down,ponerse tranquilo,0
+to refrigerate,refrigerar,0
+to cool,enfriar,0
+to annoy,fastidiar,0
+to paste,pegar,0
+to repair,reparar,0
+to spread,difundir,0
+to explore,explorar,0
+to predispose,predisponer,0
+to condition,condicionar,0
+to format,formatear,0
+to confer a doctorate on,doctorar,0
+to twerk,perrear,0
+to distribute,distribuir,0
+to flow,manar,0
+to publish,publicar,0
+to abandon,desertar,0
+to break down,desglosar,0
+to injure oneself,lesionarse,0
+to complain,lamentarse,0
+to test,poner a prueba,0
+to value,tasar,0
+to tax,cobrar impuestos,0
+to tax,gravar,0
+to have,poseer,0
+to cover,revestir,0
+to put in a cast,escayolar,0
+to pawn,empeñar,0
+to curl up,acurrucarse,0
+to know oneself,conocerse,0
+to pill,formar bolitas,0
+to be afraid,tener miedo,0
+to machine,fabricar a máquina,0
+to slide,deslizarse,0
+to wind,serpentear,0
+to hammer,clavar,0
+to detach,desprender,0
+to wear for the first time,estrenar,0
+to release,poner en libertad,0
+to free,liberar,0
+to poison,envenenar,0
+to fantasize,fantasear,0
+to landscape,ajardinar,0
+to contain,contener,0
+to round,redondear,0
+to scold,regañar,0
+to continue,continuar,0
+to congratulate,congratular,0
+to enter,ingresar,0
+to pile up,amontonar,0
+to tilt to one side,ladear,0
+to cool,refrescar,0
+to bear,cargar con,0
+to beach,varar,0
+to dominate,dominar,0
+to bundle up,abrigar,0
+to recover from,recuperarse de,0
+to nurse,amamantar,0
+to spell,deletrear,0
+to invite,invitar,0
+to be used to,estar acostumbrado,0
+to adore,adorar,0
+to move away,distanciarse,0
+to make the bed,hacer la cama,0
+to govern,regir,0
+to sin,pecar,0
+to print,imprimir,0
+to search,registrar,0
+to question,cuestionar,0
+to decorate,engalanar,0
+to doll up,emperifollar,0
+to snap,chasquear,0
+to crack,resquebrajar,0
+to crack,agrietar,0
+to call me,llamarme,0
+to lift,alzar,0
+to wait for,esperar,0
+to foresee,prever,0
+to seat,acomodar,0
+to thank,agradecer,0
+to knock down,tumbar,0
+to make taboo,convertir en tabú,0
+to chargrill,asar al carbón,0
+to chargrill,asar a las brasas,0
+to realize,darse cuenta,0
+to can,enlatar,0
+to shine,brillar,0
+to incite to rebellion,rebelar,0
+to entail,conllevar,0
+to carry,acarrear,0
+to carry,llevar encima,0
+to undergo,someterse,0
+to hold,sostener,0
+to rejoice,regocijarse,0
+to appreciate,apreciar,0
+to surf,surfear,0
+to intimidate,intimidar,0
+to imagine,imaginarse,0
+to transfer,ceder,0
+to bend,doblarse,0
+to lean,inclinarse,0
+to be jealous,tener celos,0
+to stray,desviarse,0
+to undo,deshacer,0
+to yawn,bostezar,0
+to link,enlazar,0
+to join,unir,0
+to poll,encuestar,0
+to scratch,rayar,0
+to brush,cepillar,0
+to be hot,tener calor,0
+to disappoint,decepcionar,0
+to apprehend,aprehender,0
+to suggest,plantear,0
+to expose,exponer,0
+to invade,invadir,0
+to hunt,cazar,0
+to initialize,inicializar,0
+to pass,promulgar,0
+to jog,trotar,0
+to miss,faltar a,0
+to go for a walk,pasear,0
+to salivate,salivar,0
+to get upset,inmutarse,0
+to trust in,confiar en,0
+to concern,incumbir,0
+to concern,concernir,0
+to worry,preocupar,0
+to postpone,retrasar,0
+to mold,moldear,0
+to knock out,dejar K.O.,0
+to knock out,noquear,0
+to export,exportar,0
+to distribute,repartir,0
+to divide,dividir,0
+to respect,respetar,0
+to interrupt,interrumpir,0
+to beat,latir,0
+to palpitate,palpitar,0
+to crush,machacar,0
+to dare,atreverse,0
+to have lunch,almorzar,0
+to destroy,destrozar,0
+to inform,enterar,0
+to write,redactar,0
+to sand,lijar,0
+to polish,pulir,0
+to enter,entrar a,0
+to access,acceder a,0
+to mine,minar,0
+to burn,quemar,0
+to wound,herir,0
+to look like,parecerse a,0
+to level,nivelar,0
+to dirty,ensuciar,0
+to betray,traicionar,0
+to unfold,desdoblar,0
+to pull someone's leg,tomar el pelo,0
+to subjugate,avasallar,0
+to step on,pisar,0
+to doubt,dudar,0
+to reason,razonar,0
+to shrink,encoger,0
+to propel,propulsar,0
+to get off,bajarse,0
+to fall,descender,0
+to shield,escudar,0
+to watch TV,ver la tele,0
+to postpone,posponer,0
+to defend,defender,0
+to return,devolver,0
+to focus on,centrarse en,0
+to pass the time,pasar el rato,0
+to enumerate,enumerar,0
+to cite,citar,0
+to trade,comerciar,0
+to go through,traspasar,0
+to exchange,intercambiar,0
+to be detrimental to,perjudicar,0
+to hurt,hacer daño,0
+to kidnap,raptar,0
+to last,durar,0
+to send by express mail,enviar por correo exprés,0
+to draw lots for,sortear,0
+to introduce,presentar,0
+to line up,alinear,0
+to mediate,intermediar,0
+to blow,soplar,0
+to motivate,motivar,0
+to push,empujar,0
+to cause,dar lugar a,0
+to confess,confesar,0
+to dawn,amanecer,0
+to touch the bottom,tocar fondo,0
+to comb,peinar,0
+to prevent,prevenir,0
+to attack,atacar,0
+to tire,cansar,0
+to predict,pronosticar,0
+to tilt,inclinar,0
+to handle,toquetear,0
+to except,exceptuar,0
+to insist,insistir,0
+to reimburse,reembolsar,0
+to structure,estructurar,0
+to design,diseñar,0
+to inject,inyectar,0
+to pump,bombear,0
+to bless,bendecir,0
+to gesture,hacer gestos,0
+to engrave,inscribir,0
+to riot,amotinarse,0
+to riot,provocar disturbios,0
+to supply,suministrar,0
+to stipulate,estipular,0
+to provide,proporcionar,0
+to invent,inventar,0
+to drop,dejar caer,0
+to fail,fallar,0
+to cover,forrar,0
+to cover,recubrir,0
+to confront,afrontar,0
+to face,mirar a,0
+to give,dar a,0
+to tutor,dar clases particulares,0
+to store,almacenar,0
+to house,albergar,0
+to nick,mellar,0
+to chip,desportillar,0
+to produce,rendir,0
+to carry out,ejecutar,0
+to interpret,interpretar,0
+to represent,representar,0
+to carry out,desempeñar,0
+to howl,aullar,0
+to achieve,cumplir,0
+to haggle,regatear,0
+to negotiate,negociar,0
+to approach,acercarse a,0
+to board,abordar,0
+to approach,aproximarse,0
+to dedicate,dedicar,0
+to spend,gastar,0
+to tell,narrar,0
+to flatter,halagar,0
+to congratulate,felicitar,0
+to be on a diet,hacer régimen,0
+to go on a diet,hacer dieta,0
+to collect,coleccionar,0
+to wrap,envolver,0
+to decrease,menguar,0
+to lighten,clarear,0
+to break up,dispersarse,0
+to pick out,entresacar,0
+to dilute,diluir,0
+to resign,renunciar,0
+to replace,reemplazar,0
+to connect,relacionar,0
+to make buttonholes on,ojalar,0
+to practice,ejercitar,0
+to mention,mencionar,0
+to allow,consentir,0
+to make out,divisar,0
+to get angry,enojarse,0
+to express,expresar,0
+to tie,atar,0
+to examine,examinar,0
+to complain,quejarse,0
+to decode,descodificar,0
+to decipher,descifrar,0
+to threaten,amenazar,0
+to promise,prometer,0
+to pay attention,prestar atención,0
+to reassume,reasumir,0
+to put one's makeup on,pintarse,0
+to reveal,revelar,0
+to get ready,arreglarse,0
+to gather,reunir,0
+to turn up,aparecer,0
+to get in line,hacer cola,0
+to upset,afligir,0
+to challenge,desafiar,0
+to develop,desarrollar,0
+to forgive,perdonar,0
+to exhaust,agotar,0
+to devise,idear,0
+to calculate,calcular,0
+to solve,resolver,0
+to go well,salir bien,0
+to enjoy oneself,gozar,0
+to water,abrevar,0
+to exonerate,exculpar,0
+to tell on,chivarse de,0
+to inform on,delatar,0
+to come,acudir,0
+to relax,relajarse,0
+to find,hallar,0
+to be out of place,desentonar,0
+to connect,conectar,0
+to have to,tener que,0
+to press,apretar,0
+to smash,estrellar,0
+to reduce,reducir,0
+to cheat,hacer trampa,0
+to swindle,estafar,0
+to swindle,timar,0
+to communicate,comunicarse,0
+to transmit,transmitir,0
+to drip,chorrear,0
+to wave,ondear,0
+to lock up,encerrar,0
+to hit,dar un golpe,0
+to rap,rapear,0
+to belly land,aterrizar de panza,0
+to raze to the ground,arrasar,0
+to make a good impression,quedar bien,0
+to rise,ascender,0
+to be worth,valer,0
+to cloud,nublar,0
+to twist,torcer,0
+to focus,enfocar,0
+to bury,enterrar,0
+to hate,odiar,0
+to embroider,bordar,0
+to excel in,lucirse en,0
+to assemble,armar,0
+to build,erigir,0
+to create,crear,0
+to make up,constituir,0
+to found,fundar,0
+to run,dirigir,0
+to prevent,impedir,0
+to be lucky,tener suerte,0
+to save,salvar,0
+to dumbfound,dejar helado,0
+to demolish,derribar,0
+to pave,pavimentar,0
+solar,solar,0
+to murmur,murmurar,0
+to exist,existir,0
+to leave,largarse,0
+to cause,causar,0
+to splash,salpicar,0
+to riddle,acribillar,0
+to season with pepper,sazonar con pimienta,0
+to pray,rezar,0
+to shoot,disparar,0
+to plant,sembrar,0
+to provide,proveer,0
+to be enough,bastar,0
+to denounce,denunciar,0
+to report,dar parte de,0
+to produce,reportar,0
+to report,informar sobre,0
+to fascinate,fascinar,0
+to change,mudar,0
+to establish,establecer,0
+to give birth,parir,0
+to litter,tirar basura,0
+to worry,preocuparse,0
+to grab,agarrar,0
+to be quiet,callarse,0
+to be quiet,guardar silencio,0
+to go on tour around,ir de gira por,0
+to visit,visitar,0
+to work,funcionar,0
+to crash into,chocar contra,0
+to affect,afectar,0
+to experience,experimentar,0
+to catch,pillar,0
+to reflect,reflexionar,0
+to classify,clasificar,0
+to sprout,brotar,0
+to leaf through,hojear,0
+to tread,hollar,0
+to frequent,frecuentar,0
+to toast,brindar,0
+to toast,tostar,0
+to value,valorar,0
+to roof,techar,0
+to deserve,merecer,0
+to kiss,besar,0
+to contribute,aportar,0
+to face up to,hacer frente a,0
+to assure,asegurar,0
+to moan,plañir,0
+to confirm,acreditar,0
+to cheer up,alegrar,0
+to give a scholarship to,becar,0
+to pretend,fingir,0
+to track,ir dejando,0
+to weigh,pesar,0
+to recognize,reconocer,0
+to invoice,pasarle la factura a,0
+to announce,anunciar,0
+to get angry,enfadarse,0
+to hold,mantener,0
+to retire,retirarse,0
+to retire,jubilarse,0
+to bone,deshuesar,0
+to stone,lapidar,0
+to emphasize,destacar,0
+to find out,averiguar,0
+to use,emplear,0
+to be a boarder,estar interno,0
+to lodge,hospedar,0
+to get on,subirse a,0
+to board,embarcarse,0
+to exercise,hacer ejercicio,0
+to collaborate,colaborar,0
+to admit,admitir,0
+to tolerate,tolerar,0
+to knock over,volcar,0
+to disturb,trastornar,0
+to not agree with,sentar mal,0
+to alter,alterar,0
+to offend,ofender,0
+to fart,tirarse un pedo,0
+to save,ahorrar,0
+to turn,girar,0
+to disappear,desaparecer,0
+to saw,serrar,0
+to beg,rogar,0
+to regret it,arrepentirse,0
+to choose,escoger,0
+to stress out,estresar,0
+to stoke,avivar,0
+to fan,abanicar,0
+to accommodate,alojar,0
+to hide,ocultar,0
+to sieve,cribar,0
+to filter,filtrar,0
+to emit,emitir,0
+to joke,bromear,0
+to check,comprobar,0
+to act,actuar,0
+to fix,arreglar,0
+to trip up,hacerle la zancadilla a,0
+to stumble,tropezar,0
+to sweep,barrer,0
+to entrust,encomendar,0
+to avoid,eludir,0
+to border,bordear,0
+to surround,rodear,0
+to stay the night,hacer noche,0
+to stop over,hacer escala,0
+to protect,proteger,0
+to prepare,prepararse,0
+to derive from,derivar,0
+to begin,iniciar,0
+to turn up,presentarse,0
+to hurt oneself,lastimarse,0
+to start,arrancar,0
+to excavate,excavar,0
+to dig,cavar,0
+to record,grabar,0
+to be bored,aburrirse,0
+to aim,apuntar,0
+to like,caer bien,0
+to sign,firmar,0
+to escape,huir,0
+to track,rastrear,0
+to hurry,meter prisa,0
+to block,bloquear,0
+to confuse,confundir a,0
+to be addressed to,ir dirigido a,0
+to space out,espaciar,0
+to go with,acompañar,0
+to derail,descarrilar,0
+to live on,perdurar,0
+to pound,aporrear,0
+to cancel,cancelar,0
+to imitate,imitar,0
+to crush,aplastar,0
+to challenge,retar,0
+to put to bed,acostar,0
+to climb,escalar,0
+to suffer,sufrir,0
+to lose weight,adelgazar,0
+to guide,guiar,0
+to lie,mentir,0
+to swear,jurar,0
+to scream,chillar,0
+to request,solicitar,0
+to disperse,dispersar,0
+to promote,fomentar,0
+to numb,entumecer,0
+to make sleepy,adormecer,0
+to hit,golpear,0
+to have breakfast,desayunar,0
+to jump,saltar,0
+to place,colocar,0
+to walk,marchar,0
+to graduate,licenciarse,0
+to promote,promocionar,0
+to commercialize,comercializar,0
+to center,centrar,0
+to fence in,vallar,0
+to text,enviar mensajes de texto,0
+to order,ordenar,0
+to mention,nombrar,0
+to grow,crecer,0
+to put on makeup,maquillarse,0
+to vacuum,pasar la aspiradora,0
+to swing,balancear,0
+to swing,oscilar,0
+to agree,acordar,0
+to soap,enjabonar,0
+to draw,trazar,0
+to exaggerate,exagerar,0
+to overact,sobreactuar,0
+to pack,empacar,0
+to make an effort,esforzarse,0
+to finish,apurar,0
+to allow,permitir,0
+to woo,cortejar,0
+to cut,partir,0
+to dry,secarse,0
+to take down,descolgar,0
+to land,aterrizar,0
+to encourage,animar,0
+to travel around,recorrer,0
+to populate,poblar,0
+to chat,charlar,0
+to celebrate,celebrar,0
+to happen,ocurrir,0
+to be overconfident,confiarse,0
+to communicate,comunicar,0
+to conjugate,conjugar,0
+to dream,soñar,0
+to surprise,sorprender,0
+to captivate,cautivar,0
+to amaze,asombrar,0
+to disguise as,disfrazar,0
+to improve,mejorar,0
+to hurry up,apresurarse,0
+to laugh,reírse,0
+to guess,adivinar,0
+to heat,calentar,0
+to withstand,resistir,0
+to bear,aguantar,0
+to stand,soportar,0
+to please,placer,0
+to increase,aumentar,0
+to marry,casar,0
+to finish,acabar,0
+to participate,participar,0
+to turn in,entregar,0
+to cross,cruzar,0
+to extend,extenderse,0
+to cover,abarcar,0
+to plan,proyectar,0
+to perfect,perfeccionar,0
+to reflect,reflejar,0
+to skate,patinar,0
+to support,apoyar,0
+to consider,considerar,0
+to add,agregar,0
+to please,agradar,0
+to be surprised,sorprenderse,0
+to happen,suceder,0
+to say hello to,saludar,0
+to fear,temer,0
+to defeat,vencer,0
+to hug,abrazar,0
+to cover,cubrir,0
+to take advantage of,aprovechar,0
+to train,adiestrar,0
+to form,formar,0
+to train,entrenar,0
+to warn,advertir,0
+to notify,notificar,0
+to inform,informar,0
+to advise,asesorar,0
+to recommend,recomendar,0
+to advise,aconsejar,0
+to shake,sacudir,0
+to come from,provenir,0
+to show,señalar,0
+to mark,marcar,0
+to be able to,lograr,0
+to handle,manejar,0
+to propose,proponer,0
+to move,conmover,0
+to transport,transportar,0
+to transfer,trasladar,0
+to move,mover,0
+to oppose,oponerse,0
+to object,objetar,0
+to prune,podar,0
+to cut off,recortar,0
+to fish,pescar,0
+to move,mudarse,0
+to assume,asumir,0
+to return,regresar,0
+to walk,dirigirse,0
+to thrill,emocionar,0
+to complete,completar,0
+to produce,producir,0
+to get married,casarse,0
+to put,meter,0
+to obey,obedecer,0
+to overcome,superar,0
+to order,mandar,0
+to resume,reanudar,0
+to restart,reiniciar,0
+to review,revisar,0
+to accumulate,acumular,0
+to bother,molestar,0
+to raise,levantar,0
+to camp,acampar,0
+to cry,llorar,0
+to lend,prestar,0
+to tackle,abordar,0
+to shout,gritar,0
+to hide,esconder,0
+to snow,nevar,0
+to rest,descansar,0
+to bring up,educar,0
+to enter,entrar,0
+to deceive,engañar,0
+to reach,alcanzar,0
+to burst,reventar,0
+to fix,fijar,0
+to have fun,divertirse,0
+to let go of,soltar,0
+to jump,brincar,0
+to scuba dive,bucear,0
+to discover,descubrir,0
+to thunder,tronar,0
+to boom,retumbar,0
+to take a bath,bañarse,0
+to forget,olvidar,0
+to love,amar,0
+to demand,exigir,0
+to seize,apoderarse,0
+to destroy,destruir,0
+to interview,entrevistar,0
+to equip,equipar,0
+to suppose,suponer,0
+to enjoy,disfrutar,0
+to shave,afeitarse,0
+to turn on,encender,0
+to sell,vender,0
+to paint,pintar,0
+to control,regular,0
+to talk,platicar,0
+to compare,comparar,0
+to matter,importar,0
+to fast,ayunar,0
+to interest,interesar,0
+to accept,aceptar,0
+to show,mostrar,0
+to receive,recibir,0
+to meet with,encontrarse con,0
+to plan,programar,0
+to smell,oler,0
+to taste,degustar,0
+to taste,catar,0
+to fill,llenar,0
+to miss,faltar,0
+to look after,atender,0
+to take care of,cuidar,0
+to carry out,realizar,0
+to say goodbye,despedirse,0
+to comb one's hair,peinarse,0
+to build,construir,0
+to exploit,exprimir,0
+to milk,ordeñar,0
+to collect,juntar,0
+to wonder,preguntarse,0
+to brush,cepillarse,0
+to break,romper,0
+to share,compartir,0
+to get dressed,vestirse,0
+to fight,luchar,0
+to fight,pelear,0
+to ski,esquiar,0
+to hurt,doler,0
+to change,cambiar,0
+to have dinner,cenar,0
+to turn off,apagar,0
+to remember,acordarse,0
+to ring,sonar,0
+to avoid,evitar,0
+to cost,costar,0
+to take a shower,ducharse,0
+to park,aparcar,0
+to sit,sentarse,0
+to remember,recordar,0
+to be born,nacer,0
+to seem,parecer,0
+to rain,llover,0
+to bore,aburrir,0
+to throw,echar,0
+to understand,comprender,0
+to wash,lavarse,0
+to decide,decidir,0
+to answer,contestar,0
+to become,llegar a ser,0
+to turn into,convertirse en,0
+to rent,alquilar,0
+to miss,extrañar,0
+to listen to,oír,0
+to swim,nadar,0
+to need,necesitar,0
+to go up,subir,0
+to want,desear,0
+to prepare,preparar,0
+to feel,sentirse,0
+to use to,soler,0
+to end,terminar,0
+to count,contar,0
+to talk,hablar,0
+to use,usar,0
+to practice,practicar,0
+to pick up,recoger,0
+to be called,llamarse,0
+to try,intentar,0
+to try,probar,0
+to start,comenzar,0
+to get up,levantarse,0
+to describe,describir,0
+to stay,quedarse,0
+to advance,avanzar,0
+to cook,cocinar,0
+to go,marcharse,0
+to abandon,abandonar,0
+to leave,dejar,0
+to watch,observar,0
+to prefer,preferir,0
+to brown,dorar,0
+to find,encontrar,0
+to wake up,despertarse,0
+to believe,creer,0
+to take,tardar,0
+to owe,deber,0
+to love,encantar,0
+to call,llamar,0
+to listen to,escuchar,0
+to drink,beber,0
+to follow,seguir,0
+to take out,sacar,0
+to work,trabajar,0
+to stop,parar,0
+to sing,cantar,0
+to delete,borrar,0
+to go to bed,acostarse,0
+to help,ayudar,0
+to start,empezar,0
+to walk,caminar,0
+to think,pensar,0
+to travel,viajar,0
+to be left,quedar,0
+to take,tomar,0
+to run,correr,0
+to dance,bailar,0
+to take,llevar,0
+to look for,buscar,0
+to buy,comprar,0
+to live,vivir,0
+to play,jugar,0
+to arrive,llegar,0
+to go out,salir,0
+to know,conocer,0
+to like,gustar,0
+to eat,comer,0
+to speak,hablar,0
+to kick,patear,0
+to head,cabecear,0
+to throw,lanzar,0
+to pass,pasar,0
+to dribble past,regatear,0
+to dribble,driblar,0
+to touch,tocar,0
+to reprimand,amonestar,0
+to throw out,expulsar,0
+to thrash,golear,0
+to confront,enfrentar,0
+to clear,despejar,0
+to win,ganar,0
+to lose,perder,0
+to tie,empatar,0
+to bark,ladrar,0
+to meow,maullar,0
+to raise,criar,0
+to take out for a walk,sacar a pasear,0
+to feed,alimentar,0
+to pet,acariciar,0
+to growl,gruñir,0
+to mate,aparear,0
+to castrate,castrar,0
+to purr,ronronear,0
+to sterilize,esterilizar,0
+to tame,domesticar,0
+to bite,morder,0
+to sting,picar,0
+to gallop,galopar,0
+to fly,volar,0
+to get depressed,abatirse,0
+to land,posarse,0
+to scratch,rasguñar,0
+to commit a crime,delinquir,0
+to commit,cometer,0
+to kill,matar,0
+to murder,asesinar,0
+to rape,violar,0
+to rob,asaltar,0
+to rob,atracar,0
+to steal,robar,0
+to steal,hurtar,0
+to sue,demandar,0
+to prosecute,procesar,0
+to prosecute,encausar,0
+to question,interrogar,0
+to try,enjuiciar,0
+to acquit,absolver,0
+to sentence,condenar,0
+to judge,juzgar,0
+to appeal,apelar,0
+to fine,multar,0
+to slice,cortar en rebanadas,0
+to chop,picar,0
+to sprinkle,espolvorear,0
+to peel,pelar,0
+to grate,rallar,0
+to grind,triturar,0
+to pour,verter,0
+to bake,hornear,0
+to cook over a low heat,cocer a fuego lento,0
+to fry,freír,0
+to sauté,saltear,0
+to measure,medir,0
+to add,añadir,0
+to simmer,hervir a fuego lento,0
+to melt,fundir,0
+to boil,hervir,0
+to mix,mezclar,0
+to ride,montar,0
+to beat,batir,0
+to drain,drenar,0
+to strain,colar,0
+to roast,asar,0
+to turn over,voltear,0
+to stir,revolver,0
+to explain,explicar,0
+to learn,aprender,0
+to understand,entender,0
+to study,estudiar,0
+to memorize,memorizar,0
+to write,escribir,0
+to argue,discutir,0
+to fail,reprobar,0
+to pass,aprobar,0
+to graduate,graduarse,0
+to go over,repasar,0
+to make a summary of,hacer un resumen de,0
+to note down,anotar,0
+to attend,asistir,0
+to go to class,ir a clases,0
+to ask a question,hacer una pregunta,0
+to put one's hand up,levantar la mano,0
+to take an exam,rendir un examen,0
+to skip class,faltar a clase,0
+to work in pairs,trabajar en parejas,0
+to do one's homework,hacer la tarea,0
+to do homework,hacer los deberes,0
+to go to school,ir a la escuela,0
+to underline,subrayar,0
+to write in cursive,escribir en cursiva,0
+to write a sentence,escribir una oración,0
+to pay attention in class,prestar atención en clase,0
+to match the words,unir las palabras,0
+to ask,preguntar,0
+to answer,responder,0
+to take note,tomar nota,0
+to summarize,resumir,0
+to learn by heart,aprender de memoria,0
+to learn,aprenderse,0
+to draw,dibujar,0
+to stand out,resaltar,0
+to study for the exam,estudiar para el examen,0
+to put on,ponerse,0
+to iron,planchar,0
+to take off,quitarse,0
+to stretch,estirar,0
+to tear,rasgar,0
+to clean,limpiar,0
+to wash,lavar,0
+to dry,secar,0
+to go with,combinar,0
+to clash,desentonar,0
+to get wrinkled,arrugarse,0
+to try on,probarse,0
+to fold,doblar,0
+to hang,colgar,0
+to vote,votar,0
+to register,registrarse,0
+to choose,elegir,0
+to govern,gobernar,0
+to overthrow,derrocar,0
+to veto,vetar,0
+to debate,debatir,0
+to plan,planificar,0
+to give a speech,dar un discurso,0
+to log off,desconectarse,0
+to go online,entrar en línea,0
+to surf,navegar,0
+to download,descargar,0
+to go down,bajar,0
+to email,enviar por correo electrónico,0
+to attach,adjuntar,0
+to open,abrir,0
+to close,cerrar,0
+to insert,introducir,0
+to copy,copiar,0
+to cut,cortar,0
+to displace,desplazar,0
+to press,pulsar,0
+to click on,hacer clic en,0
+to scan,escanear,0
+to save,guardar,0
+to load,cargar,0
+to install,instalar,0
+to have,tener,0
+to be,ser,0
+to give,dar,0
+to keep,retener,0
+to feel,sentir,0
+to ask for,pedir,0
+to laugh,reír,0
+to smile,sonreír,0
+to get,conseguir,0
+to say goodbye to,despedir,0
+to amuse,divertir,0
+to die,morir,0
+to do again,repetir,0
+to serve,servir,0
+to suggest,sugerir,0
+to wear,vestir,0
+to drive,conducir,0
+to translate,traducir,0
+to say,decir,0
+to bring,traer,0
+to fall,caer,0
+to read,leer,0
+to gnaw on,roer,0
+to hear,oír,0
+to conclude,concluir,0
+to be,estar,0
+to fit,caber,0
+to have,haber,0
+to do,hacer,0
+to want,querer,0
+to go,ir,0
+to know,saber,0
+to know very well,resaber,0
+to have,disponer,0
+to sleep,dormir,0

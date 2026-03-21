@@ -1,0 +1,209 @@
+plane,el avión,0
+car,el coche,0
+to go through,atravesar,0
+near,cerca,0
+beside,al lado de,0
+in front of,delante de,0
+to go over,pasar por encima de,0
+behind,detrás de,0
+between,entre,0
+around the corner,a la vuelta de la esquina,0
+to go along,ir por,0
+to cross,atravesar,0
+to go past,pasar por,0
+legend,signos convencionales,0
+side path,el desecho,0
+shortcut,el atajo,0
+on the right,a la derecha,0
+on the left,a mano izquierda,0
+to turn around,dar la vuelta,0
+to go straight,seguir derecho,0
+to turn right,doblar a la derecha,0
+to turn left,doblar a la izquierda,0
+southwest,el suroeste,0
+southeast,el sureste,0
+northwest,el noroeste,0
+northeast,el noreste,0
+west,el oeste,0
+east,el este,0
+south,el sur,0
+north,el norte,0
+port of call,la escala,0
+layover,la escala,0
+stopover,la escala,0
+barrier,la valla protectora,0
+underpass,el paso subterráneo,0
+traffic jam,el atasco,0
+shipyard,el astillero,0
+to weigh,pesar,0
+seat belt,el cinturón de seguridad,0
+wheelbase,la batalla,0
+berm,el arcén,0
+conductor,el jefe de tren,0
+boxcar,el furgón,0
+freight car,el vagón,0
+exhaust pipe,el mofle,0
+exhaust,el tubo de escape,0
+petrol station,el surtidor,0
+gas station,la gasolinera,0
+to get out of,salir de,0
+to get in,montarse en,0
+to get in,subir,0
+engineer,el/la maquinista,0
+tugboat,el remolcador,0
+pilot,el/la piloto,0
+pilot,el/la práctico,0
+hull,el casco,0
+overhead railway,el elevado,0
+overpass,el elevado,0
+taxi stand,el sitio,0
+train station,estación de ferrocarril,0
+bus station,la estación de autobuses,0
+machine,la máquina,0
+to run aground,encallar,0
+rim,el rin,0
+corvette,la corbeta,0
+freeway,la autopista,0
+jack,el gato,0
+jack,la gata,0
+starboard,el estribor,0
+port,el babor,0
+stern,la popa,0
+bow,la proa,0
+seaworthy,marinero,0
+trunk,el maletero,0
+sails,el velamen,0
+aircraft carrier,el portaaviones,0
+sailboat,el barco de vela,0
+drone,el dron,0
+helicopter,el helicóptero,0
+railroad,el ferrocarril,0
+repair shop,el taller,0
+garage,la cochera,0
+garage,el garaje,0
+carrier,el portaequipajes,0
+roof rack,la baca,0
+wheel,la rueda,0
+tire,el neumático,0
+tire,la llanta,0
+pump,el inflador,0
+traffic light,el semáforo,0
+sign,la señal,0
+automotive,automóvil,0
+aircraft,la aeronave,0
+to collide,colisionar,0
+crash,el choque,0
+belt,la banda,0
+driver,el conductor,0
+shaft,el árbol,0
+mast,el árbol,0
+oil,el aceite,0
+to give a ride,llevar,0
+to take,andar en,0
+off-ramp,la vía de salida,0
+on-ramp,la vía de acceso,0
+junction,el enlace,0
+intersection,el cruce,0
+battery,la batería,0
+distance,la distancia,0
+accident,el accidente,0
+buoy,la boya,0
+high beam,la larga,0
+marina,el puerto deportivo,0
+port,el puerto,0
+avenue,la avenida,0
+taxi,el taxi,0
+to launch,botar,0
+to run over,atropellar,0
+to turn,girar,0
+to turn,doblar,0
+station wagon,la rural,0
+motorboat,la motora,0
+canoe,la canoa,0
+kayak,el kayak,0
+track,la senda,0
+track,la rodada,0
+lorry,el camión,0
+reserve tank,la reserva,0
+direction,el rumbo,0
+to dirt bike,andar en moto todo terreno,0
+motorcycle,la moto,0
+to start,arrancar,0
+to accelerate,acelerar,0
+stop,el paradero,0
+taxi driver,el/la taxista,0
+station,la estación,0
+subway,el subterráneo,0
+subway,el metro,0
+to derail,descarrilar,0
+brake,el freno,0
+vessel,la nave,0
+ship,la nave,0
+horsepower,el caballo,0
+traffic signs,las señales de tránsito,0
+to fly,volar,0
+trip,el viaje,0
+ride,paseo en coche,0
+rest area,la área de servicio,0
+traffic island,el refugio,0
+to take off,despegar,0
+to land,aterrizar,0
+chain,la cadena,0
+emission,la emanación,0
+GPS,GPS,0
+map,el mapa,0
+windscreen,la luna,0
+windshield,el parabrisas,0
+speeding,el exceso de velocidad,0
+to speed,exceder el límite de velocidad,0
+speed,la velocidad,0
+camper,la casa rodante,0
+RV,la caravana,0
+trailer,el acoplado,0
+tractor,el tractor,0
+truck,el camión,0
+bend,la vuelta,0
+school bus,el bus escolar,0
+bus,el bus,0
+interstate,interestatal,0
+carriageway,la calzada,0
+solar energy,la energia solar,0
+highway,la autovía,0
+electric,eléctrico,0
+petrol,el gas,0
+diesel,el gasóleo,0
+train,el tren,0
+express,exprés,0
+fast,rápido,0
+tank,el carro de combate,0
+tank,el estanque,0
+carriage,el carruaje,0
+coach,el autocar,0
+cart,la carreta,0
+traffic,el tráfico,0
+pickup,la pick-up,0
+turn signal,el intermitente,0
+headlight,el faro,0
+light,la luz,0
+cruise ship,el crucero,0
+cruise,el crucero,0
+flight,el vuelo,0
+jet,el jet,0
+journey,el viaje,0
+route,la ruta,0
+way,el camino,0
+path,el caminito,0
+track,el camino,0
+radio,el radio,0
+sonar,el sonar,0
+gear,la marcha,0
+boat,el barco,0
+airplane,el avión,0
+to drive,manejar,0
+to drive,conducir,0
+road,la calle,0
+lane,el carril,0
+street,la calle,0
+transportation,el transporte,0
+transport,el transporte,0
+driving,la conducción,0

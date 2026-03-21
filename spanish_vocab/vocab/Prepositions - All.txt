@@ -1,0 +1,71 @@
+after,luego de,0
+except for,excepto,0
+across,a través de,0
+via,vía,0
+between,entre,0
+such as,como,0
+inside,en menos de,0
+inside,dentro de,0
+except,excepto,0
+near,cerca de,0
+against,frente,0
+opposite,frente,0
+save,salvo,0
+except,salvo,0
+until,hasta,0
+next to,junto,0
+under,debajo de,0
+above,por encima de,0
+above,encima de,0
+through,a través de,0
+below,abajo de,0
+as,como,0
+past,más allá de,0
+opposite,enfrente,0
+to,hasta,0
+to,para,0
+to,menos,0
+in,en,0
+about,sobre,0
+around,alrededor,0
+like,como,0
+before,antes,0
+after,después de,0
+to,a,0
+before,ante,0
+close to,cabe,0
+with,con,0
+against,contra,0
+from,de,0
+of,de,0
+since,desde,0
+from,desde,0
+on,en,0
+between,entre,0
+among,entre,0
+toward,hacia,0
+about,hacia,0
+until,hasta,0
+for,para,0
+because of,por,0
+for,por,0
+through,por,0
+according to,según,0
+depending on,según,0
+by,por,0
+without,sin,0
+over,sobre,0
+around,sobre,0
+after,tras,0
+behind,tras,0
+at,a,0
+compared to,ante,0
+in spite of,con,0
+to,con,0
+point,con,0
+into,contra,0
+in,de,0
+with,de,0
+during,durante,0
+in,durante,0
+for,durante,0

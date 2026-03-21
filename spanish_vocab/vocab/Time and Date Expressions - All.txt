@@ -1,0 +1,218 @@
+season,la estación,0
+last night,anoche,0
+Monday,el lunes,0
+Sunday,el domingo,0
+in,en,0
+it's been a long time,ha pasado mucho tiempo,0
+it's been a long time,hace mucho tiempo,0
+period of validity,la vigencia,0
+duration,la duración,0
+duration,la vigencia,0
+duration,el plazo de duración,0
+last week,la semana pasada,0
+next week,la próxima semana,0
+next week,la semana que viene,0
+moment,el tiempo,0
+moment,el momento,0
+point,el punto,0
+one day,algún día,0
+one day,un día,0
+unlimited,ilimitado,0
+indefinite,indefinido,0
+spell,la temporada,0
+from the beginning,desde el principio,0
+during the day,durante el día,0
+five minutes ago,hace cinco minutos,0
+on time,puntual,0
+on time,a su hora,0
+on time,a tiempo,0
+punctual,puntual,0
+spare time,tiempo de ocio,0
+spare time,ratos libres,0
+lag,el retraso,0
+delay,la demora,0
+delay,el retraso,0
+in the future,en el futuro,0
+times a day,veces al día,0
+sunrise,la salida del sol,0
+daybreak,el albor,0
+now and again,de vez en cuando,0
+to last,durar,0
+once,alguna vez,0
+once,una vez,0
+someday,algún día,0
+sometime,alguna vez,0
+ever,nunca,0
+ever,alguna vez,0
+as soon as possible,lo antes posible,0
+as soon as possible,cuanto antes,0
+finally,por fin,0
+finally,finalmente,0
+late,tarde,0
+delayed,retrasado,0
+behind,retrasado,0
+behind,atrasado,0
+to take,tardar,0
+phase,la etapa,0
+phase,la fase,0
+stage,la etapa,0
+longest,más largo,0
+while,mientras,0
+as soon as,tan pronto como,0
+as soon as,en cuanto,0
+in the near future,en un futuro próximo,0
+short,corto,0
+next,que viene,0
+next,próximo,0
+next,siguiente,0
+timetable,el calendario,0
+timetable,el horario,0
+schedule,la agenda,0
+schedule,el horario,0
+at,a,0
+then,luego,0
+then,entonces,0
+age,la edad,0
+weekend,el fin de semana,0
+weekday,el día de entre semana,0
+future,el futuro,0
+present,presente,0
+past,el pasado,0
+era,la era,0
+free time,el tiempo libre,0
+after,después,0
+before,antes,0
+yet,todavía,0
+for a week,por una semana,0
+since,desde,0
+for a year,desde hace un año,0
+all day,el día entero,0
+last year,el año pasado,0
+this year,este año,0
+rarely,casi nunca,0
+hardly ever,casi nunca,0
+seldom,raramente,0
+seldom,rara vez,0
+sometimes,en ocasiones,0
+sometimes,algunas veces,0
+sometimes,a veces,0
+often,muchas veces,0
+often,a menudo,0
+generally,generalmente,0
+normally,normalmente,0
+usually,usualmente,0
+weekly,semanalmente,0
+weekly,semanal,0
+always,siempre,0
+already,ya,0
+frequently,frecuentemente,0
+permanently,definitivamente,0
+currently,actualmente,0
+previously,anteriormente,0
+the day before yesterday,anteayer,0
+yesterday,ayer,0
+now,ahora,0
+occasionally,ocasionalmente,0
+never,nunca,0
+still,aún,0
+still,todavía,0
+daily,diario,0
+briefly,brevemente,0
+recently,recientemente,0
+the night before last,antenoche,0
+the night before last,anteanoche,0
+ago,atrás,0
+holiday,el día festivo,0
+holiday,el feriado,0
+calendar,el calendario,0
+appointment,la cita,0
+date,la fecha,0
+equinox,el equinoccio,0
+solstice,el solsticio,0
+twilight,el crepúsculo,0
+fifteen,y cuarto,0
+thirty,y media,0
+what time is it now,qué hora es ahora,0
+ten past,y diez,0
+ten to,menos diez,0
+hand,la manilla,0
+on the dot,en punto,0
+to indicate,indicar,0
+to put back,retrasar,0
+to gain time,adelantar,0
+wristwatch,el reloj pulsera,0
+What's the time there?,¿Qué hora es allá?,0
+What time is it in your country?,¿Qué hora es en tu país?,0
+what time,qué hora,0
+What time do you wake up?,¿A qué hora te despiertas?,0
+What time do you go to bed?,¿A qué hora te acuestas?,0
+What time do you get up?,¿A qué hora te levantas?,0
+What time do you leave work?,¿A qué hora sales del trabajo?,0
+when,cuando,0
+how much time,cuánto tiempo,0
+what time are you coming back home,a qué hora vuelves a casa,0
+sharp,en punto,0
+time,el tiempo,0
+hour,la hora,0
+minute,el minuto,0
+second,el segundo,0
+What time is the class?,¿A qué hora es la clase?,0
+What time is it?,¿Qué hora es?,0
+watch,el reloj,0
+clock,el reloj,0
+twelve thirty,doce y media,0
+noon,el mediodía,0
+dawn,el amanecer,0
+dusk,el atardecer,0
+midnight,la medianoche,0
+in the morning,por la mañana,0
+at night,por la noche,0
+in the afternoon,por la tarde,0
+p.m.,p.m.,0
+a.m.,a.m.,0
+one thirty,una y media,0
+half past,la media,0
+eight thirty,ocho y media,0
+half past two,dos y media,0
+three thirty,tres y media,0
+five thirty,cinco y media,0
+six thirty,seis y media,0
+seven thirty,siete y media,0
+ten thirty,diez y media,0
+eleven thirty,once y media,0
+nine fifteen,nueve y cuarto,0
+eight fifteen,ocho y cuarto,0
+seven fifteen,siete y cuarto,0
+six fifteen,seis y cuarto,0
+three fifteen,tres y cuarto,0
+two fifteen,las dos y quince,0
+a quarter after,y cuarto,0
+a quarter to,menos cuarto,0
+it's one o'clock,es la una,0
+it's five o'clock,son las cinco,0
+January,el enero,0
+February,el febrero,0
+March,el marzo,0
+April,el abril,0
+May,el mayo,0
+June,el junio,0
+July,el julio,0
+August,el agosto,0
+September,el septiembre,0
+October,el octubre,0
+November,el noviembre,0
+December,el diciembre,0
+winter,el invierno,0
+spring,la primavera,0
+summer,el verano,0
+fall,el otoño,0
+day,el día,0
+week,la semana,0
+month,el mes,0
+year,el año,0
+season,la temporada,0
+Saturday,el sábado,0
+Tuesday,el martes,0
+Wednesday,el miércoles,0
+Thursday,el jueves,0
+Friday,el viernes,0

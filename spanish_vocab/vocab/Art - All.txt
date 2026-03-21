@@ -1,0 +1,127 @@
+artist,el/la artista,0
+carving,la talla,0
+alabaster,el alabastro,0
+ivory,el marfil,0
+nylon,el nylon,0
+brass,el latón,0
+leather,el cuero,0
+ceramic,la cerámica,0
+felt,el fieltro,0
+glass,el vidrio,0
+metal,el metal,0
+wood,la madera,0
+textile,el textil,0
+paper,el papel,0
+graphic designer,el diseñador gráfico,0
+collage,el collage,0
+etching,el aguafuerte,0
+lithograph,la litografía,0
+to spray paint,sopletear,0
+graffiti,el graffiti,0
+dye,el tinte,0
+gouache,el gouache,0
+mural,el mural,0
+fresco,el fresco,0
+ink,la tinta,0
+chalk,la tiza,0
+china,la porcelana,0
+glaze,el esmalte,0
+clay,el búcaro,0
+rococo,el rococó,0
+minimalism,el minimalismo,0
+Futurism,el futurismo,0
+classicism,el clasicismo,0
+Baroque,el Barroco,0
+avant-garde,la vanguardia,0
+surrealism,el surrealismo,0
+expressionism,el expresionismo,0
+architecture,la arquitectura,0
+impressionism,el impresionismo,0
+Art Nouveau,el art nouveau,0
+art dealer,el marchante,0
+Cubism,el cubismo,0
+Pop Art,el pop art,0
+fine arts,las bellas artes,0
+arts and crafts,la artesanía,0
+arts and crafts,las manualidades,0
+muse,la musa,0
+life,el natural,0
+realistic,realista,0
+abstract,el cuadro abstracto,0
+shading,la sombra,0
+silhouette,la silueta,0
+opus,la obra,0
+work,la obra,0
+monument,el monumento,0
+print,el positivo,0
+print,la lámina,0
+motif,el motivo,0
+sculptor,el escultor,0
+sculpture,la escultura,0
+marble,el mármol,0
+charcoal,el carbón,0
+picture,el cuadro,0
+performance,la performance,0
+drawing,el dibujo,0
+frame,el marco,0
+dealer,el marchante,0
+auction,la subasta,0
+paintbrush,la brocha,0
+brush,el pincel,0
+darkroom,el cuarto oscuro,0
+canvas,el lienzo,0
+showing,la muestra,0
+stained glass,el vidrio de colores,0
+glassblowing,el soplado,0
+pottery,la cerámica,0
+ceramics,la cerámica,0
+foreground,el primer plano,0
+background,el fondo,0
+to pose,posar,0
+to model,modelar,0
+model,el/la modelo,0
+gallery,el museo,0
+art gallery,la galería de arte,0
+art show,la exposición de arte,0
+art show,la muestra de arte,0
+show,la exposición,0
+study,el estudio,0
+studio,el estudio,0
+still life,el bodegón,0
+still life,la naturaleza muerta,0
+landscape,el paisaje,0
+work of art,la obra de arte,0
+artwork,la obra artística,0
+poster,el cartel,0
+artistic,artístico,0
+artist,el pintor,0
+to develop,revelar,0
+negative,el negativo,0
+digital camera,la cámara fotográfica digital,0
+digital camera,la cámara digital,0
+to draw,dibujar,0
+outline,el perfil,0
+sketch,el sketch,0
+painter,el pintor,0
+photographer,el fotógrafo,0
+camera,la cámara fotográfica,0
+camera,la cámara,0
+photography,la fotografía,0
+photograph,la fotografía,0
+painting,el lienzo,0
+painting,el cuadro,0
+acrylic,el acrílico,0
+watercolor,la acuarela,0
+tempera,el temple,0
+tempera,la témpera,0
+oil painting,el óleo,0
+oil painting,la pintura al óleo,0
+colored pencil,el lápiz de color,0
+pastel,el pastel,0
+marker,el rotulador,0
+crayon,el crayón,0
+to paint,pintar,0
+paint,la pintura,0
+to color,colorear,0
+color,el color,0
+art,el arte,0

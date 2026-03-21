@@ -1,0 +1,804 @@
+please?,Can you say that again, por favor?,¿Puedes repetir,0
+Enjoy your meal!,¡Buen provecho!,0
+please?,Can I get the bill, por favor?,¿Me trae la cuenta,0
+starter,el entrante,0
+spicy sauce,la salsa picante,0
+how many people,cuántas personas,0
+little box,la cajita,0
+soy sauce,la salsa de soja,0
+jelly,la mermelada,0
+mayonnaise,la mayonesa,0
+fruity,afrutado,0
+spicy,picoso,0
+to grind,moler,0
+to bake,hornear,0
+to sauté,saltear,0
+to simmer,cocer a fuego lento,0
+to boil,hervir,0
+to blend,mezclar,0
+to whisk,batir,0
+to drain,escurrir,0
+to toss,revolver,0
+to grate,rallar,0
+grapefruit,el pomelo,0
+tangerine,la mandarina,0
+sponge,la esponja,0
+sink,la pileta,0
+dishes,la vajilla,0
+dishwasher,el lavavajillas,0
+cutting board,la tabla de cortar,0
+microwave,el microondas,0
+freezer,el congelador,0
+fridge,el/la refri,0
+refrigerator,la nevera,0
+counter,la encimera,0
+maple syrup,jarabe de arce,0
+hash browns,las papas hash brown,0
+orange juice,el jugo de naranja,0
+eggs any style,huevos al gusto,0
+cranberry,el arándano rojo,0
+whipped cream,el chantillí,0
+sautéed,sofrito,0
+fried,frito,0
+stir-fried,saltado,0
+tasteless,soso,0
+yummy,de rechupete,0
+lukewarm,tibio,0
+crunchy,crujiente,0
+moldy,mohoso,0
+bacon and eggs,huevos y tocino,0
+caper,la alcaparra,0
+coffee cake,el pastel de café,0
+coconut cake,el pastel de coco,0
+angel food cake,pastel de ángel,0
+pound cake,ponqué,0
+carrot cake,la tarta de zanahoria,0
+fruitcake,el pastel de frutas,0
+birthday cake,el bizcocho de cumpleaños,0
+tres leches cake,el pastel de tres leches,0
+cheesecake,el pay de queso,0
+chocolate cake,pastel de chocolate,0
+baked beans,los frijoles al horno,0
+french fry,la papa frita,0
+frying pan,el/la sartén,0
+saucepan,la cacerola,0
+ladle,el cazo,0
+mixer,la batidora,0
+kettle,la tetera,0
+teapot,la tetera,0
+coffee maker,la cafetera,0
+diet,el régimen,0
+buffet,el buffet,0
+cash,el efectivo,0
+credit card,la tarjeta de crédito,0
+to split,compartir,0
+reserved,reservado,0
+percent,por ciento,0
+how much is it,cuánto le debo,0
+bland,insípido,0
+salted,salado,0
+tasty,rico,0
+cold,frío,0
+I'd like,yo quisiera,0
+I'm going to order,voy a pedir,0
+what are you going to order,qué vas a pedir,0
+What are you having for dessert?,¿Qué vas a pedir de postre?,0
+enjoy your meal,que aproveche,0
+bring me,tráigame,0
+please?,Can I get the check, por favor?,¿Me trae la cuenta,0
+to book,reservar,0
+please,a table for four, por favor,una mesa para cuatro,0
+to pay cash,pagar en efectivo,0
+to pay with card,pagar con tarjeta,0
+to pay the check,pagar la cuenta,0
+to order food,pedir comida,0
+waiter,el camarero,0
+How do you like your meat?,¿Cómo te gusta la carne?,0
+dinner guest,el/la comensal,0
+customer,el cliente,0
+glass,la copa,0
+main course,el plato principal,0
+reservation,la reservación,0
+gluten-free,sin gluten,0
+spicy,picante,0
+sparkling or flat,con gas o sin gas,0
+apple,la manzana,0
+measuring cup,la jarra medidora,0
+cookie sheet,la bandeja para horno,0
+can opener,el abrelatas,0
+bottle opener,el abrebotellas,0
+tongs,las pinzas,0
+cheddar cheese,el queso cheddar,0
+bagel,el bagel,0
+sweet tea,el té dulce,0
+Jell-O,la gelatina,0
+grilled cheese sandwich,sándwich de queso a la parrilla,0
+spaghetti and meatballs,el espagueti con albóndigas,0
+cranberry sauce,la salsa de arándano,0
+mashed potatoes,el puré de papas,0
+baked potato,la patata asada,0
+cheese sauce,la salsa de queso,0
+cheeseburger,la hamburguesa con queso,0
+chocolate chip cookie,la galleta con pepitas de chocolate,0
+tater tot,el crujiente de papa,0
+sourdough bread,el pan de masa fermentada,0
+pot roast,el guisado de carne,0
+banana split,el banana split,0
+cornbread,el pan de maíz,0
+pecan pie,el pastel de pacana,0
+meat loaf,pastel de carne,0
+macaroni and cheese,macarrones con queso,0
+potato salad,la ensalada de papa,0
+peanut butter and jelly,crema de cacahuate y mermelada,0
+peanut butter and jelly sandwich,el sándwich de crema de cacahuate y mermelada,0
+waffle,el gofre,0
+clam chowder,la crema de almejas,0
+buffalo wings,alitas de búfalo,0
+red onion,la cebolla roja,0
+lox,el salmón ahumado,0
+broiled,a la parrilla,0
+tart,agrio,0
+refreshing,refrescante,0
+sprinkles,las chispas,0
+ice cream sundae,copa de helados,0
+mulberry,la mora,0
+cottage cheese,el requesón,0
+cottage cheese,el queso fresco,0
+Manchego cheese,el queso manchego,0
+grated cheese,queso rallado,0
+whole milk,la leche entera,0
+skim milk,leche desnatada,0
+condensed milk,la leche condensada,0
+powdered milk,la leche en polvo,0
+whipped cream,la nata montada,0
+pastry cream,la crema pastelera,0
+pork,carne de cerdo,0
+beef,la carne de res,0
+beef,la carne de vaca,0
+minced beef,carne de res molida,0
+fried chicken,el pollo frito,0
+clam,la almeja,0
+scallop,la vieira,0
+mussel,el mejillón,0
+veal,la ternera,0
+trout,la trucha,0
+cold buffet,el lunch,0
+to nibble on,picar,0
+coconut milk,la leche de coco,0
+smoothie,el smoothie,0
+coconut water,la agua de coco,0
+soy milk,la leche de soja,0
+carbonated water,la agua con gas,0
+mineral water,el agua mineral,0
+mixed drink,el aliado,0
+cocktail,el cóctel,0
+cider,la sidra,0
+green tea,el té verde,0
+milkshake,el batido,0
+hot chocolate,el chocolate caliente,0
+iced tea,el té helado,0
+tomato juice,el zumo de tomate,0
+grape juice,zumo de uva,0
+pineapple juice,el jugo de piña,0
+apple juice,el jugo de manzana,0
+liquor,el aguardiente,0
+spirits,las bebidas alcohólicas fuertes,0
+gordita,la gordita,0
+jicama,la jícama,0
+pulque,el pulque,0
+pork shank,el chamorro,0
+kebab,el alambre,0
+grasshopper,el chapulín,0
+stew,la birria,0
+picadillo,el picadillo,0
+quesadilla,la queca,0
+chalupa,la chalupa,0
+flauta,el taquito,0
+bread roll dipped in guajillo chili sauce filled with potatoes with chorizo,el pambazo,0
+tamarind,el tamarindo,0
+tortilla chip,el totopo,0
+chilaquiles,los chilaquiles,0
+baked bean stew,frijoles de la olla,0
+refried beans,los frijoles refritos,0
+bread of the dead,el pan de muerto,0
+and cheese, lettuce, cream,fried corn dough topped with beans,el sope,0
+al pastor,al pastor,0
+guacamole,el guacamole,0
+tamale,el tamal,0
+chocolate cake,la torta de chocolate,0
+stuffed chilies,los chiles rellenos,0
+tortilla stuffed with meat and cheese,la garnacha,0
+pozole,el pozole,0
+quesadilla,la quesadilla,0
+carnitas,la carnitas,0
+capirotada,la capirotada,0
+pork cracklings,el chicharrón,0
+toast topped with beans and melted cheese,el mollete,0
+hanger steak,la arrachera,0
+fritter,el buñuelo,0
+atole,el atole,0
+corn smut,el huitlacoche,0
+Popsicle,la paleta,0
+baguette,la flauta,0
+fried corn pancake,el molote,0
+amaranth bar,la alegría,0
+cochinita pibil,la cochinita pibil,0
+orujo,el orujo,0
+wine,el vino,0
+custard,las natillas,0
+nougat,el turrón,0
+ratatouille,el pisto,0
+fabada,la fabada,0
+fried breadcrumbs,las migas,0
+meatball,la albóndiga,0
+Spanish omelet,la tortilla de patatas,0
+gazpacho,el gazpacho,0
+aioli,el alioli,0
+fried potatoes with spicy tomato sauce,las patatas bravas,0
+paella,la paella,0
+chocolate ice cream,el helado de chocolate,0
+strawberry ice cream,el helado de fresa,0
+vanilla ice cream,el helado de vainilla,0
+lemon pie,el pay de limón,0
+cheesecake,la tarta de queso,0
+apple pie,la tarta de manzana,0
+pumpkin pie,la tarta de calabaza,0
+chocolate pie,la tarta de chocolate,0
+egg tart pastry,el pastel de nata,0
+candy cane,el bastón de caramelo,0
+muffin,la magdalena,0
+chocolate pie,pastel de chocolate,0
+cupcake,el pastelito,0
+to slice,cortar en rebanadas,0
+to sprinkle,espolvorear,0
+to peel,pelar,0
+to cook over a low heat,cocer a fuego lento,0
+to measure,medir,0
+to add,añadir,0
+to simmer,hervir a fuego lento,0
+to melt,fundir,0
+whisk,la batidora,0
+to whip,montar,0
+to drain,drenar,0
+to strain,colar,0
+to roast,asar,0
+to turn over,voltear,0
+to stir,revolver,0
+acid,ácido,0
+seasoned,sazonado,0
+sugary,azucarado,0
+salty,salobre,0
+peanut butter,la mantequilla de cacahuate,0
+jam,la mermelada,0
+salsa roja,la salsa roja,0
+salsa macha,la salsa macha,0
+salsa verde,la salsa verde,0
+basil,la albahaca,0
+bay leaf,el laurel,0
+cayenne pepper,la cayena,0
+coriander,el cilantro,0
+cumin,el comino,0
+curry powder,el curry,0
+dill,el eneldo,0
+mint,la yerbabuena,0
+tarragon,el estragón,0
+borage,la borraja,0
+epazote,el epazote,0
+lavender,la lavanda,0
+lemon balm,el toronjil,0
+rosemary,el romero,0
+thyme,el tomillo,0
+annatto,el achiote,0
+cardamom,el cardamomo,0
+chia,la chía,0
+clove,el clavo de olor,0
+nutmeg,la nuez moscada,0
+marjoram,la mejorana,0
+parsley,el perejil,0
+chipotle,el chipotle,0
+artichoke,la alcachofa,0
+Brussels sprouts,el coles de Bruselas,0
+endive,la endibia,0
+fennel,el hinojo,0
+chard,la acelga,0
+arugula,la rúcula,0
+rhubarb,el ruibarbo,0
+parsnip,la chirivía,0
+turnip,el nabo,0
+radish,el rábano,0
+eggplant,la berenjena,0
+okra,la okra,0
+shallot,el chalote,0
+zucchini,el calabacín,0
+asparagus,el espárrago,0
+mammee,el mamey,0
+quince,el membrillo,0
+lychee,el lichi,0
+tropical fruit,la fruta tropical,0
+stone,el hueso,0
+citrus fruit,el cítrico,0
+persimmon,el caqui,0
+passion fruit,el/la maracuyá,0
+papaya,la papaya,0
+gluten,el gluten,0
+vegetarian,el vegetariano,0
+vegan,el vegano,0
+typical dish,plato típico,0
+dish of the day,el plato del día,0
+ripe,a punto,0
+to divide,dividir,0
+that's all,eso es todo,0
+nothing else,nada más,0
+How much is it?,¿Cuánto es?,0
+sparkling,con gas,0
+still,sin gas,0
+tasteless,insípido,0
+another,otro,0
+a little more,un poco más,0
+allergy,la alergia,0
+table,la mesa,0
+bartender,el tabernero,0
+bartender,el/la barman,0
+tomato sauce,la salsa de tomate,0
+ketchup,el kétchup,0
+mustard,la mostaza,0
+hot sauce,la salsa picante,0
+salt shaker,el salero,0
+mushroom,el champiñón,0
+to wash the dishes,lavar los platos,0
+to crush,aplastar,0
+caramel,el caramelo,0
+marinade,el escabeche,0
+chilli sauce,el ají,0
+garlic sauce,el ajillo,0
+noodles,los tallarines,0
+cal,cal,0
+mayo,la mayonesa,0
+griddle,la plancha,0
+nacho,el nacho,0
+spotted seabass,la baila,0
+mold,el moho,0
+causa,la causa,0
+round,el redondo,0
+cheap restaurant,la fonda,0
+nectarine,el pelón,0
+dough,la masa,0
+yucca,la yuca,0
+bacon,el tocino,0
+green beans,las vainas,0
+berry,la baya,0
+honeycomb,el panal,0
+mead,la aloja,0
+sink,el fregadero,0
+to pour,verter,0
+bar,el mesón,0
+to wash,fregar,0
+to take the lid off,destapar,0
+season,la temporada,0
+orchard,el huerto,0
+platter,la fuente,0
+enjoy your meal,buen provecho,0
+port,el oporto,0
+mince,el picadillo,0
+wedge,el casco,0
+hors d'oeuvres,el pincho,0
+to shake,menear,0
+to refill,rellenar,0
+blood sausage,la morcilla,0
+blood sausage,la rellena,0
+ingredient,el ingrediente,0
+alcohol,el alcohol,0
+cone,el cucurucho,0
+oregano,el orégano,0
+bakery,la repostería,0
+feed,la toma,0
+lard,la manteca de cerdo,0
+root beer,la root beer,0
+I know how to cook,sé cocinar,0
+grater,el rallador,0
+steamed,al vapor,0
+dehydrated,deshidratado,0
+dried,paso,0
+smoked,ahumado,0
+aged,de crianza,0
+recipe,la receta,0
+mantecada,la mantecada,0
+cutlery,los cubiertos,0
+strawberry,la fresa,0
+charred,achicharrado,0
+burnt,quemado,0
+undercooked,crudo,0
+skirt steak,la falda,0
+lunch box,la tartera,0
+cake,la tarta,0
+snack bar,la lonchería,0
+popcorn,palomitas,0
+bell pepper,el pimentón,0
+red pepper,la pimienta roja,0
+green pepper,el pimiento verde,0
+sweet potato,la batata,0
+what's for dinner,qué hay para cenar,0
+pork,carne de puerco,0
+to drink,beber,0
+to drink,tomar,0
+gas,el gas,0
+charcoal,el carbón vegetal,0
+pap,la papilla,0
+croquette,la croqueta,0
+prickly pear,el nopal,0
+takeout,la comida para llevar,0
+pantry,la despensa,0
+apron,el delantal,0
+fig,el higo,0
+chopping board,la tabla de picar,0
+oatmeal,la avena,0
+tinga,la tinga,0
+sour cream,la crema agria,0
+cookie,la pasta,0
+biscuit,la galleta,0
+burger,la hamburguesa,0
+tip,la propina,0
+crayfish,la jaiba,0
+crab,la nécora,0
+chips,papas fritas,0
+chips,las patatas fritas,0
+ginger,el jengibre,0
+container,el bote,0
+diet,la dieta,0
+wrap,el wrap,0
+napkin,la servilleta,0
+to eat out,comer fuera,0
+to mix,mezclar,0
+cornstarch,la maicena,0
+teaspoon,la cucharadita,0
+cream,la crema,0
+cream,la nata,0
+corn,el maíz,0
+prune,la ciruela pasa,0
+raisin,la uva pasa,0
+dried fruit and nuts,el fruto seco,0
+pea,el guisante,0
+to grow,criar,0
+pineapple,la piña,0
+ceviche,el ceviche,0
+seaweed,el alga,0
+French toast,la torrija,0
+pancake,el panqueque,0
+to beat,batir,0
+marshmallow,la nube,0
+bite,el mordisco,0
+kidney,el riñón,0
+unripe,verde,0
+ripe,maduro,0
+beef stew,la birria de res,0
+thirst,la sed,0
+chestnut,la castaña,0
+walnut,la nuez,0
+cava,el cava,0
+champagne,el champán,0
+gringa,la gringa,0
+margarine,la margarina,0
+butter,la mantequilla,0
+bland,soso,0
+garden,el jardín,0
+gum,el chicle,0
+sauce,la salsa,0
+churro,el churro,0
+dulce de leche,el dulce de leche,0
+crème caramel,el flan,0
+palate,el paladar,0
+café,el café,0
+cafeteria,la cantina,0
+to wolf down,zampar,0
+spoiled,dañado,0
+spinach,la espinaca,0
+vintage,el reserva,0
+pastry,el pastel,0
+check,la cuenta,0
+bill,la cuenta,0
+jar,el tarro,0
+tin,la lata,0
+can,la lata,0
+off,pasado,0
+bad,malo,0
+stale,pasado,0
+fresh,fresco,0
+blueberry,el arándano,0
+blackberry,la mora,0
+raspberry,la frambuesa,0
+slight,leve,0
+beverage,la bebida,0
+agriculture,la agricultura,0
+to brown,dorar,0
+to toast,brindar,0
+cream cheese,el queso crema,0
+edible,comestible,0
+soft drink,la gaseosa,0
+lemonade,la limonada,0
+straw,la pajita,0
+ice,el hielo,0
+to serve,servir,0
+batter,el batido,0
+syrup,el jarabe,0
+honey,la miel,0
+taste,la boca,0
+well done,bien hecho,0
+medium,al punto,0
+medium rare,a término medio,0
+rare,poco hecho,0
+utensil,el utensilio,0
+to have a second helping of,repetir,0
+helping,la porción,0
+chow,el bitute,0
+toast,la tostada,0
+toast,el brindis,0
+casserole,el guisado,0
+stew,el guiso,0
+soup,el caldo,0
+to chop,cortar en trozos,0
+fries,las patatas fritas,0
+fries,papas fritas,0
+poultry,la carne de ave,0
+junk food,la comida basura,0
+pint,la pinta,0
+delicious,delicioso,0
+tasty,sabroso,0
+hen,la gallina,0
+to crack,cascar,0
+to dice,cortar en dados,0
+to cut,cortar,0
+cola,el refresco de cola,0
+soda water,la soda,0
+soda,la soda,0
+date,el dátil,0
+lasagna,la lasaña,0
+steak,el filete,0
+steak,el bistec,0
+farming,la agricultura,0
+hunting,la caza,0
+fishing,la pesca,0
+bon appétit,buen provecho,0
+rum,el ron,0
+whiskey,el güisqui,0
+vodka,el vodka,0
+avocado,el aguacate,0
+spice,las especias,0
+heat,el picor,0
+dining room,el comedor,0
+scissors,la tijera,0
+to have an aftertaste,repetir,0
+harvest,la cosecha,0
+squash,la calabaza,0
+texture,la textura,0
+to buy,comprar,0
+shopping,la compra,0
+horchata,la horchata,0
+nutrition,la nutrición,0
+sausage,la salchicha,0
+sausage,el chorizo,0
+hot dog,el hot dog,0
+hamburger,la hamburguesa,0
+hunger,el hambre,0
+to hunt,cazar,0
+to fish,pescar,0
+yogurt,el yogur,0
+pasta,la pasta,0
+nut,el fruto seco,0
+nut,la nuez,0
+cereal,el cereal,0
+dairy,los lácteos,0
+juice,el zumo,0
+juice,el jugo,0
+grilled,a la plancha,0
+broiler,el grill,0
+barbecued,a la brasa,0
+boiling,hirviente,0
+baked,horneado,0
+freezing,helado,0
+frozen,congelado,0
+lukewarm,templado,0
+to order,pedir,0
+egg,el huevo,0
+omelette,la tortilla,0
+tortilla,la tortilla,0
+legume,la legumbre,0
+taco,el taco,0
+chickpea,el garbanzo,0
+lentil,la lenteja,0
+bean,el frijol,0
+cantaloupe,el melón,0
+watermelon,la sandía,0
+tablespoon,la cuchara sopera,0
+food processor,el procesador de alimentos,0
+blender,la licuadora,0
+saffron,el azafrán,0
+pepper,el pimiento,0
+chili,el chile,0
+spatula,la paleta,0
+spatula,la espátula,0
+ladle,el cucharón,0
+serving spoon,la cuchara para servir,0
+teaspoon,la cucharilla,0
+spoon,la cuchara,0
+fork,el tenedor,0
+knife,el cuchillo,0
+mug,la taza,0
+glass,el vaso,0
+stove,la cocina,0
+cooker,la cocina,0
+oven,el horno,0
+baking,la repostería,0
+kitchen assistant,el pinche,0
+market,el mercado,0
+greengrocer,el verdulero,0
+greengrocer,el frutero,0
+butcher,el carnicero,0
+fishmonger,el pescadero,0
+bakery,la panadería,0
+shellfish,el marisco,0
+seafood,la comida de mar,0
+menu,el menú,0
+menu,la carta,0
+course,el plato,0
+dish,el plato,0
+plate,el plato,0
+bowl,el tazón,0
+peanut,el cacahuate,0
+peanut,el maní,0
+almond,la almendra,0
+rice,el arroz,0
+Spanish food,comida española,0
+gravy,la salsa de carne,0
+stuffing,el relleno,0
+stew,el cocido,0
+tripe stew,el menudo,0
+peach,el durazno,0
+peach,el melocotón,0
+coconut,el coco,0
+plum,la ciruela,0
+lime,el limón verde,0
+lime,la lima,0
+cherry,la cereza,0
+celery,el apio,0
+tomato,el jitomate,0
+tomato,el tomate,0
+millet,el millo,0
+pub,el pub,0
+bar,el bar,0
+supermarket,el supermercado,0
+grocery store,la tienda de comestibles,0
+grinder,la trituradora,0
+sub,el sándwich de baguette,0
+sandwich,el bocadillo,0
+sandwich,el sándwich,0
+sour,agrio,0
+bitter,amargo,0
+sweet,la golosina,0
+sweet,dulce,0
+candy,la chuche,0
+salad,la ensalada,0
+soup,la sopa,0
+appetizer,el aperitivo,0
+tapa,las tapas,0
+pepper,la pimienta,0
+salt,la sal,0
+spice,la especia,0
+cookie,la galleta,0
+pie,el pay,0
+salty,salado,0
+hot,picante,0
+hot,caliente,0
+beer,la cerveza,0
+beef stew,la carne guisada,0
+red wine,el vino tinto,0
+white wine,el vino blanco,0
+vanilla,de vainilla,0
+cinnamon,la canela,0
+hazelnut,la avellana,0
+barbecue,la barbacoa,0
+kitchen,la cocina,0
+lobster,la langosta,0
+octopus,el pulpo,0
+squid,el calamar,0
+cod,el bacalao,0
+salmon,el salmón,0
+tuna,el atún,0
+tuna,el bonito,0
+tuna,la tuna,0
+prickly pear,la tuna,0
+to chew,masticar,0
+olive oil,el aceite de oliva,0
+oil,el aceite,0
+onion,la cebolla,0
+garlic,el ajo,0
+herb,la hierba,0
+savory,salado,0
+to savor,saborear,0
+taste,el sabor,0
+taste,la prueba,0
+to try,probar,0
+lean,magro,0
+greasy,grasiento,0
+fast food,comida rápida,0
+unhealthy,insalubre,0
+healthy,saludable,0
+cucumber,el pepino,0
+carrot,la zanahoria,0
+cabbage,la col,0
+lettuce,la lechuga,0
+cauliflower,el/la coliflor,0
+broccoli,el brécol,0
+yam,el ñame,0
+potato,la patata,0
+potato,la papa,0
+milk,la leche,0
+chocolate,el chocolate,0
+slice,la lonja,0
+cheese,el queso,0
+cold cut,el fiambre,0
+ham,el jamón,0
+bacon,el bacon,0
+kiwi,el kiwi,0
+mango,el mango,0
+plantain,el plátano macho,0
+grape,la uva,0
+clementine,la clementina,0
+pear,la pera,0
+banana,el plátano,0
+banana,la banana,0
+full,satisfecho,0
+full,lleno,0
+thirsty,sediento,0
+hungry,hambriento,0
+cake,el pastel,0
+pie,la tarta,0
+dessert,el postre,0
+to fry,freír,0
+ice cream,el helado,0
+pot,la olla,0
+bread,el pan,0
+pan,la cacerola,0
+Indian food,la comida india,0
+Chinese food,la comida china,0
+Italian food,comida italiana,0
+pizza,la pizza,0
+Mexican food,la comida mexicana,0
+water,el agua,0
+restaurant,el restaurante,0
+to have dinner,cenar,0
+to have an afternoon snack,merendar,0
+to eat,comer,0
+to have lunch,almorzar,0
+to have breakfast,desayunar,0
+goat,la cabra,0
+turkey,el guajolote,0
+pork,el cerdo,0
+lamb,el cordero,0
+chicken,el pollo,0
+meat,la carne,0
+coffee,el café,0
+tea,el té,0
+brown sugar,el azúcar moreno,0
+sugar,el/la azúcar,0
+flour,la harina,0
+mid-morning snack,el almuerzo,0
+snack,el tentempié,0
+dinner,la cena,0
+lunch,la comida,0
+lunch,el almuerzo,0
+soy,la soja,0
+fish,el pescado,0
+breakfast,el desayuno,0
+orange,la naranja,0
+meal,la comida,0
+tableware,el menaje,0
+chef,el/la chef,0
+to cook,cocinar,0
+cook,el cocinero,0
+cooking,la cocción,0
+vegetable,la verdura,0
+flavor,el sabor,0
+fruit,la fruta,0
+drink,la bebida,0
+food,el alimento,0
+food,la comida,0

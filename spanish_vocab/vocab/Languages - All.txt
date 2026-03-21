@@ -1,0 +1,31 @@
+Spanish,el castellano,0
+Swahili,el suajili,0
+Urdu,el urdu,0
+Vietnamese,el vietnamita,0
+Turkish,el turco,0
+Russian,el ruso,0
+Hindi,el hindi,0
+Bengali,el bengalí,0
+Mandarin,el mandarín,0
+speaker,el/la hablante,0
+Portuguese,el portugués,0
+Hebrew,el hebreo,0
+Italian,el italiano,0
+Arabic,el árabe,0
+Thai,el tailandés,0
+sign language,la lengua de signos,0
+German,el alemán,0
+voice,la voz,0
+translation,la traducción,0
+pronunciation,la pronunciación,0
+conversation,la conversación,0
+fluent,suelto,0
+to speak,hablar,0
+accent,el acento,0
+Chinese,el chino,0
+Korean,el coreano,0
+Japanese,el japonés,0
+French,el francés,0
+language,el idioma,0
+English,el inglés,0
+Spanish,el español,0

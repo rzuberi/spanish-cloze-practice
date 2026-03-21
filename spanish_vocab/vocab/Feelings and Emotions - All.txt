@@ -1,0 +1,72 @@
+sure,seguro,0
+envy,la envidia,0
+contempt,el desprecio,0
+low,depre,0
+exasperated,exasperado,0
+calm,tranquilo,0
+furious,rabioso,0
+uneasy,intranquilo,0
+cross,enfadado,0
+How are you?,¿Cómo estás?,0
+How do you feel?,¿Cómo te sientes?,0
+loneliness,la soledad,0
+numb,paralizado,0
+empathy,la empatía,0
+sorrow,la pena,0
+pity,la pena,0
+shocked,conmocionado,0
+angry,enojado,0
+joyful,regocijado,0
+exalted,encumbrado,0
+anxious,inquieto,0
+bored,aburrido,0
+depressed,deprimido,0
+excited,emocionado,0
+fearful,temeroso,0
+hopeful,ilusionado,0
+impressed,impactado,0
+horrified,horrorizado,0
+indignant,indignado,0
+nervous,nervioso,0
+jealous,envidioso,0
+sad,triste,0
+surprised,sorprendido,0
+stressed,estresado,0
+tense,tenso,0
+worried,preocupado,0
+tired,cansado,0
+exhausted,agotado,0
+happy,contento,0
+happy,feliz,0
+happy,alegre,0
+in a bad mood,de mal humor,0
+in a good mood,de buen humor,0
+satisfied,satisfecho,0
+scared,asustado,0
+ashamed,avergonzado,0
+upset,molesto,0
+proud,orgulloso,0
+dizzy,mareado,0
+lost,perdido,0
+overwhelmed,agobiado,0
+hungry,hambriento,0
+in love,enamorado,0
+fed up,harto,0
+sleepiness,el adormecimiento,0
+astonishment,el estupor,0
+disgust,el asco,0
+disappointment,la decepción,0
+anger,la ira,0
+anxiety,la ansiedad,0
+boredom,el aburrimiento,0
+happiness,la felicidad,0
+depression,la depresión,0
+enthusiasm,el entusiasmo,0
+hope,la esperanza,0
+joy,la alegría,0
+jealousy,los celos,0
+fear,el miedo,0
+elation,la exaltación,0
+fright,el asombro,0
+sadness,la tristeza,0
+concern,la preocupación,0

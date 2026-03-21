@@ -1,0 +1,138 @@
+mobile,el móvil,0
+cellphone,el móvil,0
+phone,el teléfono,0
+scissors,la tijera,0
+pencil,el lápiz,0
+pen,la pluma,0
+pen,el bolígrafo,0
+bookcase,la librera,0
+battery,la pila,0
+desk,el escritorio,0
+chair,la silla,0
+letter,la carta,0
+Scotch tape,el celo,0
+ruler,la regla,0
+rubber band,la gomita,0
+wastepaper basket,la papelera,0
+paper clip,el clip,0
+envelope,la envoltura,0
+paper,el papel,0
+printer,la impresora,0
+computer,el ordenador,0
+folder,la carpeta,0
+highlighter,el rotulador fluorescente,0
+whiteboard,la pizarra blanca,0
+commerce,el comercio,0
+project,el proyecto,0
+to regulate,reglamentar,0
+supply chain,cadena de suministro,0
+manager,el/la gerente,0
+mission,la encomienda,0
+position,el cargo,0
+to earn,ganar,0
+staff,el staff,0
+demand,la demanda,0
+consumerism,el consumismo,0
+dept,dpto.,0
+to network,establecer contactos,0
+headquarters,la sede,0
+office,la oficina,0
+office,el despacho,0
+profession,la profesión,0
+fee,el arancel,0
+convention,la convención,0
+resource,el recurso,0
+advice,el asesoramiento,0
+branch,la sucursal,0
+tourism,el turismo,0
+working,laborable,0
+agenda,la agenda,0
+schedule,la agenda,0
+colleague,el compañero,0
+agreement,el acuerdo,0
+motto,el lema,0
+contact,el contacto,0
+market,el mercado,0
+market,el mercado,0
+cash register,la caja,0
+tax,el impuesto,0
+entry,la entrada,0
+to launch,lanzar,0
+bank,el banco,0
+client,el cliente,0
+customer,el cliente,0
+delivery,el envío,0
+demanding,exigente,0
+survey,la encuesta,0
+store,la tienda,0
+consultancy,la asesoría,0
+form,el formulario,0
+account,la cuenta,0
+opinion poll,la encuesta,0
+trade,el comercio,0
+commercial,comercial,0
+open,abierto,0
+closed,cerrado,0
+wholesale,la venta al por mayor,0
+to run,dirigir,0
+job interview,entrevista de trabajo,0
+board of directors,el consejo de administración,0
+board of directors,la junta directiva,0
+business,los negocios,0
+international business,negocios internacionales,0
+container,el container,0
+reopening,la reapertura,0
+transport,el transporte,0
+delivery,la entrega,0
+budget,el presupuesto,0
+boss,el jefe,0
+buying,la compra,0
+customs,la aduana,0
+accounting,la contabilidad,0
+brand,la marca,0
+to meet,reunirse,0
+to cheat,engañar,0
+assignment,la comisión,0
+organization,la entidad,0
+venture,la empresa,0
+president,el presidente,0
+understanding,el acuerdo,0
+legal practice,el bufete,0
+rent,el alquiler,0
+to rush,enviar urgentemente,0
+logistics,la logística,0
+pack,el paquete,0
+leadership,el liderazgo,0
+bill,la cuenta,0
+lease,el leasing,0
+board,el consejo,0
+management,la administración,0
+management,la gestión,0
+to sell,vender,0
+agriculture,la agricultura,0
+meeting,la reunión,0
+salesperson,el vendedor,0
+accountant,el/la contable,0
+council,el consejo,0
+director,el director,0
+service,el servicio,0
+banking,la banca,0
+to order,encargar,0
+to label,etiquetar,0
+plan,el plan,0
+selling,de venta,0
+application,la solicitud,0
+chain,la cadena,0
+ad,el anuncio,0
+appointment,la cita,0
+company,la compañía,0
+workplace,el lugar de trabajo,0
+real estate,los inmuebles,0
+warehouse,la nave,0
+expansion,la ampliación,0
+cartel,el cartel,0
+export,la exportación,0
+import,la importación,0
+Co.,Cía.,0
+business,el negocio,0
+coworker,compañero de trabajo,0

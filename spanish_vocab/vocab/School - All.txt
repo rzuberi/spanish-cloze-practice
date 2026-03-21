@@ -1,0 +1,354 @@
+to teach,enseñar,0
+exam,el examen,0
+chalkboard,la pizarra,0
+teacher's desk,mesa del profesor,0
+teacher's desk,el escritorio del profesor,0
+classmate,el compañero de clase,0
+classmate,el compañero,0
+correction,la corrección,0
+to correct,corregir,0
+chalk,la tiza,0
+back to school,el regreso a clases,0
+outline,el boceto,0
+trainee,el/la aprendiz,0
+apprentice,el/la aprendiz,0
+hypothesis,la hipótesis,0
+to edit,editar,0
+presentation,la ponencia,0
+internship,la práctica laboral,0
+average,el promedio,0
+baccalaureate,el bachillerato,0
+face-to-face,presencial,0
+arts,las letras,0
+humanities,las humanidades,0
+spelling bee,el concurso de ortografía,0
+form,el formulario,0
+to ace,lucirse en,0
+to be rude to,faltar,0
+to be absent from,faltar,0
+to miss,faltar,0
+to have lessons,dar clases,0
+to lecture,dar clases,0
+meeting,la reunión,0
+references,referencias bibliográficas,0
+workshop,el taller,0
+on campus,en el recinto universitario,0
+tracking,división de los alumnos en grupos de acuerdo a su nivel de aptitud,0
+streaming,división de los alumnos en grupos según su nivel de aptitud,0
+tutor,el tutor,0
+foreign language assistant,el lector,0
+to take attendance,pasar lista,0
+attendance,la asistencia,0
+homeroom,la clase de tutoría,0
+mentor,el mentor,0
+nurse's office,el botiquín,0
+department,el departamento,0
+secretary,el secretario,0
+level,el nivel,0
+track,el grupo de aprendizaje,0
+draft,el borrador,0
+studious,estudioso,0
+slacker,el vago,0
+hard worker,buen trabajador,0
+philosophy,la filosofía,0
+makeup exam,la recuperación,0
+report card,el boletín de notas,0
+expulsion,la expulsión,0
+suspension,la expulsión temporal,0
+rule,la norma,0
+club,el club,0
+prom,el baile de fin de curso,0
+stress,el stress,0
+summer school,la escuela de verano,0
+to repeat,repetir,0
+nursery school,la guardería infantil,0
+public school,la escuela pública,0
+private school,la escuela privada,0
+boarding school,el internado,0
+trade school,la escuela de oficios,0
+trade school,instituto de formación profesional,0
+secondary school,la secundaria,0
+middle school,la escuela intermedia,0
+elementary school,la primaria,0
+preschool,el preescolar,0
+to apply,presentar una solicitud,0
+homework,los deberes,0
+homework,la tarea,0
+bathroom,el baño,0
+lockers,el casillero,0
+computer room,la sala de computadoras,0
+principal's office,oficina del director,0
+playground,el parque infantil,0
+playground,el patio,0
+locker room,el vestuario,0
+auditorium,el salón de actos,0
+gym,la gimnasia,0
+extra credit,crédito extra,0
+point,el punto,0
+course,la asignatura,0
+academic year,el año académico,0
+school year,el curso escolar,0
+year,el curso,0
+bibliography,la bibliografía,0
+to grade,calificar,0
+to hand in,presentar,0
+to hand in one's homework,entregar la tarea,0
+to revise,repasar,0
+dictionary,el diccionario,0
+schoolbag,la mochila,0
+vocabulary,el vocabulario,0
+task,la tarea,0
+grade,la calificación,0
+learning,el aprendizaje,0
+exercise,el ejercicio,0
+schedule,el horario,0
+unit,la unidad,0
+A level,el bachillerato,0
+principal,el director del colegio,0
+head,el jefe,0
+lesson,la lección,0
+chair,la cátedra,0
+chair,la silla,0
+desk,el escritorio,0
+graduate,el titulado,0
+master's,la maestría,0
+project,el proyecto,0
+poem,la poesía,0
+writing,la escritura,0
+essay,el ensayo,0
+library,la biblioteca,0
+education,la instrucción,0
+education,la educación,0
+extracurricular activities,las actividades extraescolares,0
+recess,el recreo,0
+break,el break,0
+vacation,la vacación,0
+quarter,el trimestre,0
+period,la hora,0
+class,la promoción,0
+class,la clase,0
+teaching assistant,el agregado,0
+assistant professor,el profesor adjunto,0
+teacher,el profesor,0
+teacher,el maestro,0
+school supplies,materiales escolares,0
+test,la prueba,0
+quiz,la prueba,0
+classroom,el aula,0
+notebook,la libreta,0
+pencil sharpener,el sacapuntas,0
+pencil box,el estuche para lápices,0
+eraser,la goma,0
+pen,el bolígrafo,0
+eraser,el borrador,0
+Scotch tape,el celo,0
+whiteout,el líquido corrector,0
+clipboard,la tabla con pinza,0
+backpack,la mochila,0
+scissors,la tijera,0
+ruler,la regla,0
+planner,la agenda,0
+highlighter,el rotulador fluorescente,0
+book,el libro,0
+ballpoint pen,el bolígrafo,0
+folder,la carpeta,0
+hole punch,la perforadora,0
+binder,la carpeta,0
+index card,la ficha,0
+colored pencil,el lápiz de color,0
+crayon,la cera,0
+glue stick,el pegamento en barra,0
+glue,el pegamento,0
+lunch box,la lonchera,0
+divider,el separador,0
+paper,el papel,0
+marker,el rotulador,0
+calculator,la calculadora,0
+computer,el ordenador,0
+laptop,el/la portátil,0
+laptop,la laptop,0
+mouse,el ratón,0
+stapler,la grapadora,0
+staple,la grapa,0
+printer,la impresora,0
+notebook,el cuaderno,0
+compass,el compás,0
+protractor,el transportador,0
+paper clip,el clip,0
+to explain,explicar,0
+to learn,aprender,0
+to study,estudiar,0
+to write,escribir,0
+to read,leer,0
+to discuss,discutir,0
+to graduate,graduarse,0
+to review,repasar,0
+to make a summary of,hacer un resumen de,0
+to note down,anotar,0
+to attend,asistir,0
+to go to class,ir a clases,0
+to ask a question,hacer una pregunta,0
+to raise one's hand,levantar la mano,0
+to take an exam,tomar un examen,0
+to miss class,faltar a clase,0
+to work in pairs,trabajar en parejas,0
+to do homework,hacer las tareas,0
+to go to school,ir a la escuela,0
+to underline,subrayar,0
+to write in cursive,escribir en cursiva,0
+to cheat,hacer trampa,0
+to write a sentence,escribir una oración,0
+to pay attention in class,prestar atención en clase,0
+to match the words,unir las palabras,0
+to ask,preguntar,0
+to answer,contestar,0
+to take note,tomar nota,0
+to summarize,sintetizar,0
+to learn by heart,aprender de memoria,0
+to learn,aprenderse,0
+to memorize,memorizar,0
+to draw,dibujar,0
+to highlight,subrayar,0
+to study for the exam,estudiar para el examen,0
+to play hooky,chacharse,0
+grade,la nota,0
+to assess,evaluar,0
+to drill,ejercitar,0
+to flunk,cargar,0
+to register,inscribirse,0
+to give a speech,dar un discurso,0
+to listen,escuchar,0
+to look up,consultar,0
+to take notes,tomar apuntes,0
+to remember,recordar,0
+to forget,olvidar,0
+to do homework,hacer los deberes,0
+to erase,borrar,0
+to type,teclear,0
+to understand,entender,0
+to participate,participar,0
+to finish,acabar,0
+to choose,elegir,0
+to describe,describir,0
+help,la ayuda,0
+work together,trabajen juntos,0
+sit down,tome asiento,0
+stop talking,deja de hablar,0
+spell your name and surname,deletrea tu nombre y apellido,0
+open your book,abre tu libro,0
+open your books,abran sus libros,0
+open your books,abran el libro,0
+pay attention,presta atención,0
+pay attention,presten atención,0
+close your books,cierren los libros,0
+raise your hand,levanta la mano,0
+please,repeat, por favor,repita,0
+please,repeat, por favor,repitan,0
+take out a piece of paper,saquen una hoja de papel,0
+take out a pencil,saquen un lápiz,0
+take out your homework,saca la tarea,0
+go to the blackboard,ve a la pizarra,0
+go to the board,ve a la pizarra,0
+go to the whiteboard,ve a la pizarra,0
+do your homework,haz tu tarea,0
+spell out the words,deletrea las palabras,0
+stop,deja de,0
+please,sit down, por favor,siéntense,0
+honors,el curso avanzado,0
+economics,la economía,0
+calculus,el cálculo,0
+chemistry,la química,0
+physics,la física,0
+photography,la fotografía,0
+ceramics,la cerámica,0
+yearbook,el anuario,0
+creative writing,la escritura creativa,0
+literature,la literatura,0
+speech therapy,la logopedia,0
+choir,el coro,0
+band,la banda,0
+shop,el taller de manualidades,0
+home economics,economía doméstica,0
+computer science,la informática,0
+geometry,la geometría,0
+algebra,el álgebra,0
+foreign language,lengua extranjera,0
+dance,el baile,0
+language arts class,clase de lengua,0
+social studies,los estudios sociales,0
+geography,la geografía,0
+music,la música,0
+Latin,el latín,0
+French,el francés,0
+Spanish,el español,0
+English,el inglés,0
+art,el arte,0
+history,la historia,0
+math,las matemáticas,0
+PE,la educación física,0
+drama,el drama,0
+science,las ciencias,0
+instructor,el instructor,0
+notes,los apuntes,0
+to matriculate,matricular,0
+doctorate,el doctorado,0
+extracurricular,extracurricular,0
+university,la universidad,0
+undergraduate,el universitario,0
+tutor,el tutor,0
+tuition,la matrícula,0
+thesis,la tesis,0
+textbook,el libro de texto,0
+term,el cuatrimestre,0
+syllabus,el temario,0
+loan,el préstamo,0
+spring break,las vacaciones de primavera,0
+semester,el trimestre,0
+semester,el semestre,0
+roommate,el compañero de habitación,0
+research,la investigación,0
+to register,matricular,0
+professor,el profesor universitario,0
+postgraduate,de postgrado,0
+PhD,el doctorado,0
+minor,la asignatura secundaria,0
+medical school,la facultad de medicina,0
+master's degree,la maestría,0
+major,la especialidad,0
+lecture,la clase,0
+Law School,la Facultad de Derecho,0
+homecoming,fiesta de exalumnos,0
+graduate,el graduado,0
+senior,el/la estudiante del último año,0
+junior,estudiante de tercer año,0
+sophomore,el/la estudiante de segundo año,0
+freshman,el/la estudiante de primer año,0
+sorority,la sororidad,0
+fraternity,el círculo estudiantil,0
+financial aid,la ayuda financiera,0
+to fail,suspender,0
+to pass,aprobar,0
+midterm,el examen parcial,0
+final,el examen final,0
+to enroll,inscribir,0
+dormitory,la residencia estudiantil,0
+diploma,el diploma,0
+dining hall,el comedor,0
+department,la facultad,0
+dean,el decano,0
+curriculum,el currículum,0
+credit,el crédito,0
+course,el curso,0
+community college,el colegio universitario comunitario,0
+community college,colegio comunitario,0
+college,la universidad,0
+campus,el campus,0
+scholarship,la beca,0
+grant,la beca,0
+degree,la licenciatura,0
+to audit,asistir como oyente,0
+advisor,el tutor,0
+academy,la academia,0
+the academic world,la academia,0
+academic,académico,0
+assignment,el trabajo,0

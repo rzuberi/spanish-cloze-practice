@@ -1,0 +1,209 @@
+last night,anoche,0
+hardly ever,casi nunca,0
+rarely,rara vez,0
+almost every day,casi todos los días,0
+very often,muy a menudo,0
+almost always,casi siempre,0
+every day,todos los días,0
+quickly,deprisa,0
+luckily,por suerte,0
+reluctantly,de mala gana,0
+sadly,con tristeza,0
+fashionably,a la moda,0
+at dawn,al amanecer,0
+secretly,a escondidas,0
+actually,en realidad,0
+once and for all,de una vez por todas,0
+at the same time,a la vez,0
+carefully,con cuidado,0
+at night,de noche,0
+on time,a tiempo,0
+by heart,de memoria,0
+unfortunately,por desgracia,0
+suddenly,de pronto,0
+willingly,de buena gana,0
+at home,en casa,0
+in the dark,a oscuras,0
+at dusk,al anochecer,0
+seriously,en serio,0
+immediately,de inmediato,0
+every day,a diario,0
+initially,al principio,0
+perfectly,a la perfección,0
+carelessly,descuidadamente,0
+really,de verdad,0
+in the daytime,de día,0
+in the end,al final,0
+blindly,a ciegas,0
+easily,fácilmente,0
+voluntarily,voluntariamente,0
+marvelously,estupendamente,0
+carefully,cuidadosamente,0
+intelligently,inteligentemente,0
+seriously,seriamente,0
+sweetly,dulcemente,0
+clearly,claramente,0
+a little,algo,0
+less,menos,0
+weekly,semanalmente,0
+previously,previamente,0
+the day before yesterday,anteayer,0
+occasionally,ocasionalmente,0
+briefly,brevemente,0
+recently,recientemente,0
+the night before last,anteanoche,0
+tomorrow,mañana,0
+today,hoy,0
+above,encima,0
+exactly,exactamente,0
+noisily,estrepitosamente,0
+usually,usualmente,0
+right now,en este momento,0
+currently,actualmente,0
+slowly,pausadamente,0
+deliberately,deliberadamente,0
+that's right,así es,0
+appropriately,apropiadamente,0
+so much,tanto,0
+further away,más lejos,0
+badly,mal,0
+cheaply,barato,0
+probably,probablemente,0
+in between,entremedio,0
+in the way,en medio,0
+altogether,en total,0
+in general,en general,0
+nicely,bonito,0
+everywhere,por todas partes,0
+more or less,más o menos,0
+approximately,aproximadamente,0
+where,adonde,0
+on time,puntual,0
+vertically,verticalmente,0
+silently,silenciosamente,0
+before,antes de,0
+only,solamente,0
+tonight,esta noche,0
+right now,ahorita,0
+in person,en persona,0
+personally,personalmente,0
+outside,fuera,0
+twice as much,doble,0
+inside,dentro,0
+how,cómo,0
+sometime,alguna vez,0
+generally,generalmente,0
+mostly,en su mayoría,0
+principally,principalmente,0
+previously,anteriormente,0
+such,tal,0
+normally,normalmente,0
+finally,finalmente,0
+finally,por fin,0
+also,asimismo,0
+ahead,delante,0
+terribly,fatal,0
+sometimes,a veces,0
+behind,atrás,0
+with hope,con esperanza,0
+with luck,con suerte,0
+so-so,así así,0
+quickly,rápidamente,0
+equally,igualmente,0
+great,fenómeno,0
+suddenly,de repente,0
+above,arriba,0
+a lot,cantidad,0
+as soon as,en cuanto,0
+besides,además,0
+forward,adelante,0
+sharply,en seco,0
+sharp,en punto,0
+clearly,claro,0
+sufficiently,suficientemente,0
+there,ahí,0
+online,online,0
+here,acá,0
+commonly,comúnmente,0
+therefore,por consiguiente,0
+therefore,por lo tanto,0
+before,antes,0
+slowly,despacito,0
+a long time ago,hace mucho,0
+since then,desde entonces,0
+out,afuera,0
+fully,de lleno,0
+slowly,despacio,0
+far,lejos,0
+immediately,inmediatamente,0
+very well,muy bien,0
+extremely,sumamente,0
+above all,sobre todo,0
+as,según,0
+the more,cuanto,0
+completely,completamente,0
+from start to finish,de principio a fin,0
+still like that,aún así,0
+well,lindo,0
+below,abajo,0
+never,jamás,0
+even,siquiera,0
+even,incluso,0
+soon,pronto,0
+later,más tarde,0
+together,junto,0
+around,alrededor,0
+unfortunately,desgraciadamente,0
+equally,por igual,0
+close,cerca,0
+hardly,apenas,0
+instead,en lugar de eso,0
+instead,en cambio,0
+maybe,tal vez,0
+almost,casi,0
+so-so,regular,0
+on the back,al dorso,0
+again,de nuevo,0
+too,demasiado,0
+however,sin embargo,0
+never,nunca,0
+properly,adecuadamente,0
+directly,directamente,0
+just,justo,0
+correctly,correctamente,0
+surely,seguro,0
+first,primero,0
+worse,peor,0
+attentively,atentamente,0
+loudly,fuerte,0
+diligently,afanosamente,0
+hard,duro,0
+hard,fuertemente,0
+then,luego,0
+still,todavía,0
+better,mejor,0
+often,con frecuencia,0
+frequently,frecuentemente,0
+often,a menudo,0
+here,aquí,0
+neither,tampoco,0
+now,ahora,0
+daily,diariamente,0
+just,solamente,0
+late,tarde,0
+very,muy,0
+a lot,mucho,0
+a lot of,mucho,0
+why,por qué,0
+so,tan,0
+after,después,0
+yesterday,ayer,0
+enough,bastante,0
+more,más,0
+well,bien,0
+when,cuando,0
+where,donde,0
+always,siempre,0
+already,ya,0
+also,también,0
+as,como,0

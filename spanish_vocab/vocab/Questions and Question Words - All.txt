@@ -1,0 +1,91 @@
+What color are your eyes?,¿De qué color son tus ojos?,0
+how do you write,cómo se escribe,0
+Where are you?,¿Dónde estás?,0
+How much money do you have?,¿Cuánto dinero tienes?,0
+do you mean,quieres decir,0
+What's the weather like?,¿Qué tiempo hace?,0
+Where are you going?,¿Adónde vas?,0
+Do you speak Spanish?,¿Hablas español?,0
+Do you speak English?,¿Hablas inglés?,0
+What do you like to do?,¿Qué te gusta hacer?,0
+How was your day?,¿Qué tal tu día?,0
+how much is it,cuánto cuesta,0
+How much does it cost?,¿Cuánto cuesta?,0
+How much does it cost?,¿Cuánto vale?,0
+What's for dinner?,¿Qué hay para cenar?,0
+How are you?,¿Cómo estás?,0
+Where were you born?,¿Dónde naciste?,0
+What classes do you take?,¿Qué clases tomas?,0
+What day is it today?,¿Qué día es hoy?,0
+Where am I?,¿Dónde estoy?,0
+Are you ready?,¿Estás lista?,0
+are you free,estás disponible,0
+What day is today?,¿Qué día de la semana es hoy?,0
+do you want,quieres que,0
+When are you coming?,¿Cuándo vienes?,0
+Who are you?,¿Quién eres?,0
+What are you doing?,¿Qué haces?,0
+Did you sleep well?,¿Durmió bien?,0
+How are you doing?,¿Qué tal vas?,0
+How do you say ... ?,¿Cómo se dice ... ?,0
+What time is it?,¿Qué hora es?,0
+What's new?,¿Qué hay de nuevo?,0
+Where are you from?,¿De dónde es usted?,0
+How do you feel?,¿Cómo te sientes?,0
+When is your birthday?,¿Cuándo es tu cumpleaños?,0
+Where do you live?,¿Dónde vives?,0
+What do you do for a living?,¿A qué te dedicas?,0
+What's your name?,¿Cuál es tu nombre?,0
+who is he,quién es,0
+What do you look like?,¿Qué aspecto tienes?,0
+What are you like?,¿Cómo es?,0
+What's your name?,¿Cómo te llamas?,0
+What do you look like?,¿Cómo eres físicamente?,0
+What are you like?,¿Cómo eres?,0
+how old are you,cuántos años tiene usted,0
+how are you,qué tal estás,0
+multiple-choice exam,el examen tipo test,0
+to answer,contestar,0
+to ask,preguntar,0
+answer,la respuesta,0
+question,la pregunta,0
+what,qué,0
+who,quién,0
+when,cuándo,0
+Come again?,cómo,0
+how,cómo,0
+how much,cuánto,0
+how,cuán,0
+where,adónde,0
+where,dónde,0
+what ... for,para qué,0
+which,cuál,0
+from where,de dónde,0
+whom,quién,0
+where,hacia dónde,0
+For whom?,¿Para quién?,0
+in what way,de qué manera,0
+with whom,con quién,0
+since when,desde cuándo,0
+how long ago,cuánto tiempo hace,0
+which way,por dónde,0
+how often,con qué frecuencia,0
+what is,qué es,0
+what...is wearing,qué lleva puesto,0
+what...is doing,qué hace,0
+who's,quién es,0
+what's it like,cómo es,0
+how long,hace cuánto tiempo,0
+how long,cuánto tiempo,0
+is it true that,es verdad que,0
+when and where did it happen,cuándo y dónde ocurrió,0
+what is it made of,de qué está hecho,0
+how is,qué tal,0
+what day,qué día,0
+what date,qué día,0
+what time,qué hora,0
+on which,en que,0
+how do you say,cómo se dice,0
+what,a qué,0
+what's ... about,de qué se trata,0
+why,por qué,0

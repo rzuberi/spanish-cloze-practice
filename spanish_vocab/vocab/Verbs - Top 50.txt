@@ -1,0 +1,50 @@
+to come,venir,6.0
+to put,poner,5.0
+to see,ver,5.0
+to wake up,despertar,5.0
+to question,cuestionar,5.0
+to start,comenzar,5.0
+to write,escribir,5.0
+to turn into,convertir,5.0
+to wash,lavar,4.0
+to study,estudiar,5.0
+to wait for,esperar,5.0
+to ask for,pedir,3.0
+to get,conseguir,1.0
+to use,usar,5.0
+to sit,sentar,5.0
+to try,probar,3.0
+to cook,cocinar,5.0
+to dance,bailar,5.0
+to help,ayudar,5.0
+to contain,contener,4.0
+to need,necesitar,5.0
+to take,llevar,4.0
+to count,contar,3.0
+to look for,buscar,6.0
+to eat,comer,5.0
+to sleep,dormir,5.0
+to travel,viajar,4.0
+to have,haber,4.0
+to learn,aprender,5.0
+to hear,oír,5.0
+to take,tomar,4.0
+to call,llamar,5.0
+to walk,caminar,5.0
+to work,trabajar,5.0
+to know,conocer,4.0
+to play,jugar,4.0
+to know,saber,4.0
+to go out,salir,5.0
+to describe,describir,6.0
+to speak,hablar,4.0
+to like,gustar,5.0
+to buy,comprar,4.0
+to give,dar,5.0
+to want,querer,4.0
+to say,decir,3.0
+to have,tener,2.0
+to do,hacer,5.0
+to go,ir,5.0
+to be,estar,3.0
+to be,ser,4.0

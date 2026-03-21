@@ -1,0 +1,71 @@
+avalanche,el alud,0
+mudslide,el huaico,0
+landslide,el alud,0
+drought,la sequía,0
+mist,la neblina,0
+haze,la calina,0
+fresh,fresco,0
+fury,la ira,0
+what the weather is like,qué tiempo hace,0
+the weather is bad,hace mal tiempo,0
+the weather is nice,hace buen tiempo,0
+dew,el rocío,0
+frost,la escarcha,0
+breeze,la brisa,0
+wind,el viento,0
+thunder,el trueno,0
+bolt of lightning,el relámpago,0
+low,la mínima,0
+high,la máxima,0
+blue sky,cielo azul,0
+front,el frente,0
+report,el informe,0
+forecast,el pronóstico,0
+north wind,el norte,0
+south wind,el sur,0
+snowflake,el copo de nieve,0
+hailstone,el granizo,0
+degree,el grado,0
+raincoat,el chubasquero,0
+umbrella,el paraguas,0
+natural disaster,el catástrofe natural,0
+rainbow,el arco iris,0
+global warming,el calentamiento global,0
+climate change,el cambio climático,0
+ice cold,helado,0
+stone cold,helado,0
+freezing,polar,0
+temperature,la temperatura,0
+eye,el vórtice,0
+nasty,feo,0
+unpleasant,destemplado,0
+to clear up,escampar,0
+clear,despejado,0
+overcast,gris,0
+calm,calmado,0
+blizzard,la ventisca,0
+flood,la inundación,0
+tornado,el tornado,0
+hurricane,el huracán,0
+storm,la tormenta,0
+heat,el calor,0
+foggy,brumoso,0
+cloudy,nublado,0
+cloud,la nube,0
+sun,el sol,0
+downpour,el chaparrón,0
+to fall,descender,0
+to rise,subir,0
+sunny,asoleado,0
+muggy,bochornoso,0
+hail,el granizo,0
+snow,la nieve,0
+humid,húmedo,0
+hazy,vaporoso,0
+hot,caliente,0
+warm,cálido,0
+chilly,el fresquito,0
+cold,frío,0
+rain,la lluvia,0
+climate,el clima,0
+weather,el tiempo,0

@@ -1,0 +1,39 @@
+sign,el signo,0
+astrology,la astrología,0
+fish,el pez,0
+Pisces,Piscis,0
+virgin,el/la virgen,0
+Virgo,Virgo,0
+bearer,el portador,0
+Aquarius,Acuario,0
+lion,el león,0
+Leo,Leo,0
+goat,la cabra,0
+Capricorn,Capricornio,0
+crab,el cangrejo,0
+Cancer,Cáncer,0
+archer,el arquero,0
+Sagittarius,Sagitario,0
+twin,gemelo,0
+Gemini,Géminis,0
+scorpion,el alacrán,0
+Scorpio,Escorpio,0
+bull,el toro,0
+Taurus,Tauro,0
+scales,la báscula,0
+Libra,la Libra,0
+ram,el carnero,0
+Aries,Aries,0
+sun,el sol,0
+Moon,la Luna,0
+fixed,fijo,0
+element,el elemento,0
+Earth,la Tierra,0
+fire,el fuego,0
+water,el agua,0
+air,el aire,0
+cycle,el ciclo,0
+heavenly body,el astro,0
+star,la estrella,0
+planet,el planeta,0
+horoscope,el horóscopo,0

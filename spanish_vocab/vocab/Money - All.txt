@@ -1,0 +1,140 @@
+stockbroker,el corredor de bolsa,0
+salary,el sueldo,0
+wages,el salario,0
+pay,la remuneración,0
+pay,la paga,0
+rise,el aumento,0
+raise,el aumento,0
+coin purse,el portamonedas,0
+wallet,la cartera,0
+exclusion period,la carencia,0
+to lend,prestar,0
+loan,el crédito,0
+loan,el préstamo,0
+installment,la letra,0
+to support oneself,sustentarse,0
+recession,la recesión,0
+depression,la depresión,0
+margin,margen de beneficios,0
+margin,margen de ganancias,0
+capital,el principal,0
+tax,el gravamen,0
+taxes,la tributación,0
+tariff,el arancel,0
+crisis,la crisis,0
+fare,la tarifa,0
+fare,el precio,0
+to charge,cargar,0
+rate,la tarifa,0
+fee,el arancel,0
+levy,el canon,0
+mortgage,la hipoteca,0
+point,el punto,0
+bull,alcista,0
+current account,la cuenta corriente,0
+checking account,la cuenta corriente,0
+savings account,la cuenta de ahorros,0
+ATM,el cajero automático,0
+release,la quita,0
+broke,pelado,0
+generous,generoso,0
+to pawn,empeñar,0
+earnings,las ganancias,0
+charity,la caridad,0
+currency,la moneda,0
+to spend,gastar,0
+donation,la donación,0
+reward,el pago,0
+quote,la cotización,0
+estimate,el presupuesto,0
+budget,el presupuesto,0
+transaction,la transacción,0
+customs,el derecho de aduana,0
+customs,la aduana,0
+weak,débil,0
+price,el precio,0
+to cheat,engañar,0
+mean,tacaño,0
+stingy,tacaño,0
+deposit,el depósito,0
+down payment,entrega inicial,0
+income,la renta,0
+income,el ingreso,0
+total,el total,0
+sum,la suma,0
+levy,el impuesto,0
+tax,el impuesto,0
+tip,la propina,0
+to assess,valorar,0
+to value,tasar,0
+to value,valorar,0
+bonus pay,la extraordinaria,0
+bonus,el plus,0
+to support,mantener,0
+to lease,tomar en arriendo,0
+reserve,el encaje,0
+rent,el alquiler,0
+to save,ahorrar,0
+to owe,deber,0
+debit,el debe,0
+debt,la deuda,0
+interest,el interés,0
+accountant,el/la contable,0
+greedy,codicioso,0
+banking,la banca,0
+robbery,el robo,0
+free,gratis,0
+stock market,bursátil,0
+stock exchange,la bolsa de valores,0
+to invest,invertir,0
+security,el valor,0
+bond,el bono,0
+market,el mercado,0
+value,el valor,0
+fund,el fondo,0
+fortune,la fortuna,0
+dosh,la pasta,0
+dough,la plata,0
+cash,el efectivo,0
+needy,indigente,0
+wealthy,adinerado,0
+bank,el banco,0
+wealth,la riqueza,0
+asset,el haber,0
+estate,la hacienda,0
+trust,el trust,0
+economy,la economía,0
+bankruptcy,la bancarrota,0
+bankrupt,quebrado,0
+invoice,el albarán,0
+invoice,la factura,0
+to count,contar,0
+account,la cuenta,0
+payment,el pago,0
+check,el cheque,0
+bill,el billete,0
+bills to pay,cuentas por pagar,0
+debit card,la tarjeta de débito,0
+credit card,la tarjeta de crédito,0
+economical,económico,0
+cheap,barato,0
+expensive,caro,0
+worth,el precio,0
+stock,el stock,0
+take,la caja,0
+till,la caja,0
+cash register,la caja,0
+poor,pobre,0
+rich,rico,0
+peso,el peso,0
+pound,la libra,0
+dollar,el dólar,0
+euro,el euro,0
+safe,la caja fuerte,0
+capital,el capital,0
+loose change,el molido,0
+loose change,el suelto,0
+change,el vuelto,0
+finance,las finanzas,0
+to charge,cobrar,0
+money,el dinero,0

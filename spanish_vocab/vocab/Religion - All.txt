@@ -1,0 +1,121 @@
+theology,la teología,0
+pagan,pagano,0
+psalm,el salmo,0
+moral,moral,0
+demon,el demonio,0
+worship,el culto,0
+sect,la secta,0
+mass,la misa,0
+confession,la confesión,0
+doctrine,la doctrina,0
+font,la pila bautismal,0
+dedication,la dedicación,0
+mission,la misión,0
+chapter,el capítulo,0
+faithful,los fieles,0
+cardinal,el cardenal,0
+Jesus,Jesús,0
+verse,el versículo,0
+deed,la obra,0
+see,la sede,0
+call,la llamada,0
+chaplain,el capellán,0
+habit,el hábito,0
+to convert,convertir,0
+bull,la bula,0
+Judaism,el judaísmo,0
+Taoism,el taoísmo,0
+Buddhism,el budismo,0
+Hinduism,el hinduismo,0
+Islam,el islam,0
+Christianity,el cristianismo,0
+Buddhist,el/la budista,0
+Jew,el judío,0
+Muslim,el musulmán,0
+Hindu,el/la hindú,0
+Mormon,el mormón,0
+host,la hostia,0
+devil,el diablo,0
+Holy Week,la Semana Santa,0
+collection plate,el cepillo,0
+worship,la adoración,0
+to absolve,absolver,0
+offering,la ofrenda,0
+order,la orden,0
+godfather,el padrino,0
+godmother,la madrina,0
+goddaughter,la ahijada,0
+godson,el ahijado,0
+service,el servicio,0
+Christian,cristiano,0
+belief,la creencia,0
+layperson,el laico,0
+lay,lego,0
+to repent,arrepentirse,0
+to ordain,ordenar,0
+grace,la gracia,0
+grace,la bendición de la mesa,0
+blessing,la bendición,0
+halo,el halo,0
+clergyman,el clérigo,0
+cross,la cruz,0
+gentile,el gentil,0
+Annunciation,la anunciación,0
+vow,el voto,0
+blessed,beato,0
+blessed,bienaventurado,0
+wake,el velorio,0
+image,la imagen,0
+to believe,creer,0
+gospel,el gospel,0
+father,el padre,0
+mother,la madre,0
+Pope,el Papa,0
+Zion,el Sión,0
+tabernacle,el sagrario,0
+funeral,el funeral,0
+purity,la limpieza,0
+pilgrimage,la peregrinación,0
+fasting,el ayuno,0
+alms,la limosna,0
+circumcision,la circuncisión,0
+marriage,el matrimonio,0
+anointing,la unción,0
+confirmation,la confirmación,0
+Eucharist,la eucaristía,0
+baptism,el bautizo,0
+prophet,el/la profeta,0
+healer,el curandero,0
+minister,el pastor,0
+pastor,el pastor,0
+priest,el cura,0
+priest,el sacerdote,0
+idol,el ídolo,0
+imam,el imán,0
+devout,piadoso,0
+nun,la monja,0
+monk,el monje,0
+christening,el bautizo,0
+apostle,el apóstol,0
+angel,el ángel,0
+rabbi,el rabino,0
+shaman,el chamán,0
+secular,secular,0
+Koran,Corán,0
+Torah,Torá,0
+faith,la fe,0
+Bible,la Biblia,0
+God,el Dios,0
+cathedral,la catedral,0
+heaven,el cielo,0
+hell,el infierno,0
+holy,sagrado,0
+church,la iglesia,0
+temple,el templo,0
+mosque,la mezquita,0
+prayer,la oración,0
+religion,la religión,0
+sin,el pecado,0
+saint,el santo,0
+soul,el alma,0
+synagogue,la sinagoga,0

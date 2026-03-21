@@ -1,0 +1,43 @@
+to bathe,bañarse,0
+to make the bed,hacer la cama,0
+to take a nap,tomar una siesta,0
+to dry one's hair,secarse el pelo,0
+to dry off,secarse,0
+to shave,afeitarse,0
+hygiene,la higiene,0
+to do one's hair,arreglarse el pelo,0
+to brush one's hair,cepillarse el pelo,0
+to do chores,hacer quehaceres,0
+to sleep,dormir,0
+to go to bed,irse a la cama,0
+to get undressed,desnudarse,0
+to wash one's hair,lavarse el pelo,0
+to have dinner,cenar,0
+to make dinner,preparar la cena,0
+to listen to music,escuchar música,0
+to read,leer,0
+to relax,relajarse,0
+to do one's homework,hacer la tarea,0
+to watch TV,ver la tele,0
+to go home,ir a casa,0
+to have lunch,almorzar,0
+to have lunch,comer,0
+to make lunch,preparar la comida,0
+to take a break,tomar un descanso,0
+to work,trabajar,0
+to study,estudiar,0
+to go to work,ir al trabajo,0
+to go to school,ir a la escuela,0
+to lock the door,cerrar la puerta con llave,0
+to leave home,salir de casa,0
+to have breakfast,desayunar,0
+to make breakfast,hacer el desayuno,0
+to do one's makeup,maquillarse,0
+to get dressed,vestirse,0
+to comb one's hair,peinarse,0
+to take a bath,bañarse,0
+to take a shower,ducharse,0
+to get up,levantarse,0
+to wake up,despertarse,0
+routine,la rutina,0
+daily routine,la rutina diaria,0

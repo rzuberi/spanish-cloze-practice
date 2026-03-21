@@ -1,0 +1,332 @@
+vulnerable,vulnerable,0
+vulgar,vulgar,0
+vital,vital,0
+visual,visual,0
+visible,visible,0
+violin,el violín,0
+vertical,vertical,0
+version,la versión,0
+verbal,verbal,0
+usual,usual,0
+universal,universal,0
+union,la unión,0
+tropical,tropical,0
+triple,triple,0
+total,el total,0
+terror,el terror,0
+television,la televisión,0
+taxi,el taxi,0
+superior,superior,0
+superficial,superficial,0
+solo,el solo,0
+similar,similar,0
+singular,el singular,0
+simple,simple,0
+sentimental,sentimental,0
+secular,secular,0
+rural,rural,0
+ritual,ritual,0
+revision,la revisión,0
+religion,la religión,0
+regional,regional,0
+region,la región,0
+radio,el radio,0
+radical,radical,0
+protector,el protector,0
+propaganda,la propaganda,0
+probable,probable,0
+principal,principal,0
+plural,el plural,0
+piano,el piano,0
+personal,personal,0
+peculiar,peculiar,0
+patio,el patio,0
+pastor,el pastor,0
+pasta,la pasta,0
+panorama,el panorama,0
+oriental,oriental,0
+original,original,0
+oral,oral,0
+opera,la ópera,0
+normal,normal,0
+natural,natural,0
+musical,el musical,0
+municipal,municipal,0
+multiple,múltiple,0
+motor,el motor,0
+mortal,el/la mortal,0
+motel,el motel,0
+moral,moral,0
+miserable,miserable,0
+melon,el melón,0
+mediocre,mediocre,0
+material,el material,0
+marginal,marginal,0
+manual,el manual,0
+mango,el mango,0
+macho,el macho,0
+local,local,0
+literal,literal,0
+liberal,liberal,0
+legal,legal,0
+lateral,lateral,0
+kilo,kilo,0
+judicial,judicial,0
+irregular,irregular,0
+invisible,invisible,0
+invasion,la invasión,0
+interminable,interminable,0
+inspector,el inspector,0
+inferior,inferior,0
+inseparable,inseparable,0
+inevitable,inevitable,0
+industrial,industrial,0
+individual,individual,0
+incursion,la incursión,0
+implacable,implacable,0
+imperial,imperial,0
+ideal,ideal,0
+idea,la idea,0
+horror,el horror,0
+horizontal,horizontal,0
+hobby,el hobby,0
+habitual,habitual,0
+grave,grave,0
+global,global,0
+genesis,la génesis,0
+general,general,0
+gala,la gala,0
+fundamental,fundamental,0
+frontal,frontal,0
+formula,la fórmula,0
+formal,formal,0
+flexible,flexible,0
+final,final,0
+festival,el festival,0
+federal,federal,0
+familiar,familiar,0
+factor,el factor,0
+exterior,el exterior,0
+extension,la extensión,0
+explosion,la explosión,0
+experimental,experimental,0
+excursion,la excursión,0
+error,el error,0
+enigma,el enigma,0
+elementary,elemental,0
+electoral,electoral,0
+editorial,el editorial,0
+division,la división,0
+disc,el disco,0
+director,el director,0
+dimension,la dimensión,0
+diagonal,diagonal,0
+decision,la decisión,0
+debate,el debate,0
+cultural,cultural,0
+crisis,la crisis,0
+criminal,criminal,0
+cordial,cordial,0
+control,el control,0
+considerable,considerable,0
+confusion,la confusión,0
+conclusion,la conclusión,0
+combustion,la combustión,0
+coma,el coma,0
+colonial,colonial,0
+collar,el collar,0
+club,el club,0
+civil,civil,0
+circular,circular,0
+chocolate,el chocolate,0
+check,el cheque,0
+cerebral,cerebral,0
+central,central,0
+carbon,el carbón,0
+capital,la capital,0
+canon,el canon,0
+cancer,el cáncer,0
+canal,el canal,0
+cable,el cable,0
+brutal,brutal,0
+balance,el balance,0
+automobile,el auto,0
+artificial,artificial,0
+area,el área,0
+animal,el animal,0
+altar,el altar,0
+alcohol,el alcohol,0
+admirable,admirable,0
+actor,el actor,0
+visit,la visita,0
+use,el uso,0
+terrible,terrible,0
+temperature,la temperatura,0
+telephone,el teléfono,0
+tea,el té,0
+story,la historia,0
+estate,la hacienda,0
+special,especial,0
+social,social,0
+situation,la situación,0
+service,el servicio,0
+second,segundo,0
+return,el retorno,0
+repeat,la repetición,0
+regular,regular,0
+problem,el problema,0
+price,el precio,0
+popular,popular,0
+person,la persona,0
+perfect,perfecto,0
+pardon,el perdón,0
+or,o,0
+opinion,la opinión,0
+number,el número,0
+no,no,0
+necessary,necesario,0
+nature,la naturaleza,0
+music,la música,0
+minute,el minuto,0
+menu,el menú,0
+language,el lenguaje,0
+interesting,interesante,0
+favorite,favorito,0
+fantastic,fantástico,0
+family,la familia,0
+excellent,excelente,0
+dollar,el dólar,0
+day,el día,0
+cost,el coste,0
+urgent,urgente,0
+police,la policía,0
+medicine,la medicina,0
+hospital,el hospital,0
+emergency,la emergencia,0
+doctor,el doctor,0
+accident,el accidente,0
+university,la universidad,0
+theatre,el teatro,0
+train,el tren,0
+station,la estación,0
+restaurant,el restaurante,0
+park,el parque,0
+office,la oficina,0
+ocean,el océano,0
+north,el norte,0
+mountain,la montaña,0
+map,el mapa,0
+island,la isla,0
+hotel,el hotel,0
+gas,el gas,0
+to explore,explorar,0
+distance,la distancia,0
+car,el carro,0
+bar,el bar,0
+bank,el banco,0
+airport,el aeropuerto,0
+to happen,suceder,0
+to stand,soportar,0
+to stir,revolver,0
+to subtract,restar,0
+to remember,recordar,0
+to remove,quitar,0
+to try,procurar,0
+to intend,pretender,0
+to bother,molestar,0
+to not know,ignorar,0
+to record,grabar,0
+to arouse,excitar,0
+to throw,echar,0
+to argue,discutir,0
+to wake up,despertar,0
+to disappoint,decepcionar,0
+to repay,corresponder,0
+to answer,contestar,0
+to crash,chocar,0
+to armor-plate,blindar,0
+to attend,asistir,0
+glass,el vaso,0
+trap,la trampa,0
+event,el suceso,0
+soup,la sopa,0
+wage,el salario,0
+clothing,la ropa,0
+network,la red,0
+collection,la recolección,0
+recipe,la receta,0
+plagiarism,el plagio,0
+condom,el preservativo,0
+boss,el patrón,0
+relative,el pariente,0
+potato,la papa,0
+bread,el pan,0
+trade,el oficio,0
+eleven,once,0
+opportunity,la ocasión,0
+news,la noticia,0
+name,el nombre,0
+business,el negocio,0
+mass,la masa,0
+brand,la marca,0
+breast,la mama,0
+bookstore,la librería,0
+lyrics,la letra,0
+reading,la lectura,0
+retirement,la jubilación,0
+language,el idioma,0
+mood,el humor,0
+soccer,el fútbol,0
+signature,la firma,0
+lack,la falta,0
+factory,la fábrica,0
+success,el éxito,0
+elevator,el elevador,0
+manners,la educación,0
+misfortune,la desgracia,0
+crime,el delito,0
+disappointment,la decepción,0
+damaged,damnificado,0
+glass,la copa,0
+driver,el conductor,0
+commitment,el compromiso,0
+build,la complexión,0
+school,el colegio,0
+letter,la carta,0
+folder,la carpeta,0
+charge,el cargo,0
+countryside,el campo,0
+legal practice,el bufete,0
+trillion,el billón,0
+high school,el bachillerato,0
+attendance,la asistencia,0
+murderer,el asesino,0
+plot,el argumento,0
+sand,la arena,0
+eulogy,la apología,0
+warning,la advertencia,0
+last,último,0
+lately,últimamente,0
+on,sobre,0
+healthy,sano,0
+royal,real,0
+bigger,mayor,0
+long,largo,0
+funny,gracioso,0
+annoying,fastidioso,0
+exciting,emocionante,0
+possible,eventual,0
+polite,educado,0
+dismissed,destituido,0
+cultured,culto,0
+red,colorado,0
+white,blanco,0
+brave,bizarro,0
+nowadays,actualmente,0
+injury,la herida,0
+pregnant,embarazada,0
+present,actual,0
+fabric,la tela,0
+degree,la carrera,0
+sensitive,sensible,0
+to do,realizar,0
